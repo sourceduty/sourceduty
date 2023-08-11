@@ -1,7 +1,7 @@
 <h3 align="center">Sourceduty</h3>
 
   <p align="center">
-    🛠️ Sourceduty Company
+    Sourceduty Company
     <br />
     <a href="https://about.me/sourceduty/"><strong>Sourceduty »</strong></a>
     <br />
