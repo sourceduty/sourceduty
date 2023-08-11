@@ -3,10 +3,12 @@
   <p align="center">
     🛠️ Sourceduty Company
     <br />
-    <a href="https://about.me/sourceduty/"><strong>Explore the docs »</strong></a>
+    <a href="https://about.me/sourceduty/"><strong>Sourceduty »</strong></a>
     <br />
   </p>
 </div>
+
+
 
 ![Evolve](https://github.com/sourceduty/sourceduty/assets/123030236/d565d9e5-7ea4-4bde-8a57-acbb45093e27)
 
