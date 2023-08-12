@@ -41,13 +41,12 @@
 1. [Ocean Invaders](https://github.com/sourceduty/Ocean-Invaders)
 1. [SMS Games](https://github.com/sourceduty/SMS_Games)
 1. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
-1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
    
 ### Random
 
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
 1. [Skynet](https://github.com/sourceduty/Skynet)
-
+1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
 
 
 
