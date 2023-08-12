@@ -20,7 +20,7 @@
 1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
 
-### WINDOWS
+### Windows
 
 1. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 
