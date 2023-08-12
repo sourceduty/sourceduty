@@ -7,7 +7,6 @@
 
 ### Python
 
-1. [Pyduino Projects](https://github.com/soureduty/)
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
 1. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
