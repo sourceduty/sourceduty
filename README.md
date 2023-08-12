@@ -43,7 +43,7 @@
 1. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
 1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
    
-## Random
+### Random
 
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
 1. [Skynet](https://github.com/sourceduty/Skynet)
