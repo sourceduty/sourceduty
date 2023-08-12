@@ -13,12 +13,12 @@
 1. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
 1. [Logic Gates](https://github.com/sourceduty/Logic)
 1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
-   
+1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
+    
 ### Arduino
 
 1. [PoweTime Logger](https://github.com/sourceduty/PowerTime) 
 1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
-1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
 
 ### Windows
@@ -36,7 +36,7 @@
 1. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 1. [Chain Story](https://github.com/sourceduty/Chain_Story)
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
-  
+
 ### Games
 
 1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
