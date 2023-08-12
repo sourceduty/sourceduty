@@ -32,7 +32,7 @@
 1. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 1. [Chain Story](https://github.com/sourceduty/Chain_Story)
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
-2.    
+  
 ### Games
 
 1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
