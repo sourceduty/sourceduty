@@ -8,7 +8,6 @@
 ### Python
 
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
-1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
 1. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
 1. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 1. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
@@ -32,7 +31,8 @@
 1. [Land Palette](https://github.com/sourceduty/Land_Palette)
 1. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 1. [Chain Story](https://github.com/sourceduty/Chain_Story)
-   
+1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
+2.    
 ### Games
 
 1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
