@@ -10,13 +10,13 @@
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 1. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
 1. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
-2. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
-
+1. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
+1. [Logic Gates](https://github.com/sourceduty/Logic)
+   
 ### Arduino
 
 1. [PoweTime Logger](https://github.com/sourceduty/PowerTime) 
 1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
-1. [Logic Gates](https://github.com/sourceduty/Logic)
 1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
 
