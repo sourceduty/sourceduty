@@ -20,6 +20,7 @@
 1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
 1. [Logic Gates](https://github.com/sourceduty/Logic)
 1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
+1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
 
 ### Concepts
 
@@ -40,6 +41,7 @@
 1. [Ocean Invaders](https://github.com/sourceduty/Ocean-Invaders)
 1. [SMS Games](https://github.com/sourceduty/SMS_Games)
 1. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
+1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
    
 ## Random
 
