@@ -37,6 +37,7 @@
 1. [Chain Story](https://github.com/sourceduty/Chain_Story)
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
 1. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
+1. [YouTube_Automation](https://github.com/sourceduty/YouTube_Automation)
 
 ### Games
 
