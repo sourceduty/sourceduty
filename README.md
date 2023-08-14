@@ -39,6 +39,7 @@
 1. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
 1. [YouTube_Automation](https://github.com/sourceduty/YouTube_Automation)
 1. [Cults_3D](https://github.com/sourceduty/Cults_3D)
+1. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
 
 ### Games
 
