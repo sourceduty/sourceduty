@@ -41,6 +41,7 @@
 1. [Cults_3D](https://github.com/sourceduty/Cults_3D)
 1. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
 1. [Cura_Infocard](https://github.com/sourceduty/Cura_Infocard)
+1. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
 
 ### Games
 
