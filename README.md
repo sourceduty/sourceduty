@@ -2,7 +2,7 @@
 ## REPOSITORY INDEX 📇
 <br />
 
-### PYTHON
+### Python
 
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 1. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
@@ -14,7 +14,7 @@
 
 <br />
 
-### ARDUINO
+### Arduino
 
 1. [PowerTime Logger](https://github.com/sourceduty/PowerTime) 
 1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
@@ -22,7 +22,7 @@
 
 <br />
 
-### WINDOWS
+### Windows
 
 1. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 
@@ -75,6 +75,3 @@
 ☁️ [OneDrive Portfolio](https://about.me/sourceduty)
 # 
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
-
-
-
