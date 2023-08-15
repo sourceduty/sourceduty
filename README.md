@@ -2,7 +2,7 @@
 
 ![Banner_1](https://github.com/sourceduty/sourceduty/assets/123030236/007202c8-e8e2-4c23-88db-d025b3d2bdb0)
 
-## REPOSITORY INDEX 📇
+## 📇 Sourceduty Repository Index
 <br />
 
 ### Python
