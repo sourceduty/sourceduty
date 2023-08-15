@@ -1,12 +1,8 @@
-
-
 # Sourceduty
------------------------------------------------------------------
 ## REPOSITORY INDEX 📇
+<br />
 
-#
-
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### PYTHON
 
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 1. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
@@ -15,18 +11,24 @@
 1. [Logic Gates](https://github.com/sourceduty/Logic)
 1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
 1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
-    
-![image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+<br />
+
+### ARDUINO
 
 1. [PowerTime Logger](https://github.com/sourceduty/PowerTime) 
 1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
 1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
 
-![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br />
+
+### WINDOWS
 
 1. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 
-### Concepts 💡
+<br />
+
+### Concepts
 
 1. [Vehicle Route Analysis](https://github.com/sourceduty/Predictive_Route_Analysis)
 1. [Business Blog](https://github.com/sourceduty/Business_Blog) 
@@ -47,7 +49,9 @@
 1. [YouTube_Totals](https://github.com/sourceduty/YouTube_Totals)
 1. [Google_Earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
 
-### Games 🎮
+<br />
+
+### Games 
 
 1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
 1. [Wall Tetris](https://github.com/sourceduty/Wall-Tetris)
@@ -55,11 +59,15 @@
 1. [Ocean Invaders](https://github.com/sourceduty/Ocean-Invaders)
 1. [SMS Games](https://github.com/sourceduty/SMS_Games)
 1. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
-   
-### Random 🔠
+
+<br />
+
+### Random 
 
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
 1. [Skynet](https://github.com/sourceduty/Skynet)
+
+<br />
 
 #
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourceduty)
@@ -67,3 +75,6 @@
 ☁️ [OneDrive Portfolio](https://about.me/sourceduty)
 # 
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
+
+
+
