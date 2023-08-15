@@ -60,6 +60,6 @@
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
 1. [Skynet](https://github.com/sourceduty/Skynet)
 
+#
 
-
-
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
