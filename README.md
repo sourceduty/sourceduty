@@ -14,6 +14,7 @@
 1. [Logic Gates](https://github.com/sourceduty/Logic)
 1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
 1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
+1. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
 
 #
 
