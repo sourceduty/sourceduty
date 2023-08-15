@@ -44,6 +44,7 @@
 1. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
 1. [Google_Images_Checkbox](https://github.com/sourceduty/Google_Images_Checkbox)
 1. [YouTube_Totals](https://github.com/sourceduty/YouTube_Totals)
+1. [Google_earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
 
 ### Games
 
