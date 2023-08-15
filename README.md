@@ -72,6 +72,4 @@
 #
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourceduty)
 #
-☁️ [OneDrive Portfolio](https://about.me/sourceduty)
-# 
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
