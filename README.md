@@ -12,7 +12,7 @@
 1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
 1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 
-<br />
+#
 
 ### Arduino
 
@@ -20,13 +20,13 @@
 1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
 1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
 
-<br />
+#
 
 ### Windows
 
 1. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 
-<br />
+#
 
 ### Concepts
 
@@ -49,7 +49,7 @@
 1. [YouTube_Totals](https://github.com/sourceduty/YouTube_Totals)
 1. [Google_Earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
 
-<br />
+#
 
 ### Games 
 
@@ -60,14 +60,14 @@
 1. [SMS Games](https://github.com/sourceduty/SMS_Games)
 1. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
 
-<br />
+#
 
 ### Random 
 
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
 1. [Skynet](https://github.com/sourceduty/Skynet)
 
-<br />
+#
 
 #
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourceduty)
