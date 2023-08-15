@@ -43,6 +43,7 @@
 1. [Cura_Infocard](https://github.com/sourceduty/Cura_Infocard)
 1. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
 1. [Google_Images_Checkbox](https://github.com/sourceduty/Google_Images_Checkbox)
+1. [YouTube_Totals](https://github.com/sourceduty/YouTube_Totals)
 
 ### Games
 
