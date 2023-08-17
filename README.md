@@ -81,6 +81,7 @@
 
 print('Hello, community!')
 <br />
+
 I'm Alex Aldridge from Canada. I'm a self-taught designer, fan artist and programmer. I recently created a company named Sourceduty which is where I work. Sourceduty shares open-source codes and concept ideas on GitHub. Sourceduty also designs 3D models, fan art and architecture.
 
 #
