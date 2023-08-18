@@ -35,6 +35,7 @@
 ### Archcraft
 
 1. [Archcraft_Python](https://github.com/sourceduty/Archcraft_Python)
+1. [Archcraft_Apps](https://github.com/sourceduty/Archcraft_Apps)
 
 #
 
