@@ -32,12 +32,6 @@
 
 #
 
-### Google
-
-1. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
-
-#
-
 ### Archcraft
 
 1. [Archcraft_Python](https://github.com/sourceduty/Archcraft_Python)
@@ -47,6 +41,7 @@
 
 ### Concepts
 
+1. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
 1. [Vehicle Route Analysis](https://github.com/sourceduty/Predictive_Route_Analysis)
 1. [Business Blog](https://github.com/sourceduty/Business_Blog) 
 1. [Twitter Preschedule](https://github.com/sourceduty/Tweet_Prescheduler)
