@@ -7,6 +7,7 @@
 
 ### Python
 
+1. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 1. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
 1. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
