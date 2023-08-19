@@ -98,5 +98,3 @@ I'm Alex Aldridge from Canada. I'm a self-taught designer, fan artist and progra
 #
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourceduty)
 #
-<br />
-ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
