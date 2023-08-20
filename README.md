@@ -5,7 +5,10 @@
 ## 📇 Sourceduty Repository Index
 <br />
 
+<details><summary>
+
 ### Python
+</summary>
 
 1. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
@@ -17,30 +20,46 @@
 1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 1. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
 
+</details>
 #
 
+<details><summary>
+
 ### Arduino
+</summary>
 
 1. [PowerTime Logger](https://github.com/sourceduty/PowerTime) 
 1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
 1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
 
+</details>
 #
 
+<details><summary>
+
 ### Windows
+</summary>
 
 1. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 
+</details>
 #
 
+<details><summary>
+
 ### Archcraft
+</summary>
 
 1. [Archcraft_Python](https://github.com/sourceduty/Archcraft_Python)
 1. [Archcraft_Apps](https://github.com/sourceduty/Archcraft_Apps)
 
+</details>
 #
 
+<details><summary>
+
 ### Concepts
+</summary>
 
 1. [Web_Download_Queue](https://github.com/sourceduty/Web_Download_Queue)
 1. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
@@ -66,10 +85,14 @@
 1. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
 1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
-   
+
+</details>
 #
 
-### Games 
+<details><summary>
+
+### Games
+</summary>
 
 1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
 1. [Wall Tetris](https://github.com/sourceduty/Wall-Tetris)
@@ -78,14 +101,18 @@
 1. [SMS Games](https://github.com/sourceduty/SMS_Games)
 1. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
 
+</details>
 #
 
-### Random 
+<details><summary>
+
+### Random
+</summary> 
 
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
 1. [Skynet](https://github.com/sourceduty/Skynet)
 
-
+</details>
 #
 #### 🙋 [Community Introduction](https://github.com/orgs/community/discussions/23204#discussioncomment-6736129)
 
