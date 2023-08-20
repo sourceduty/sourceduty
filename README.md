@@ -21,8 +21,6 @@
 1. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
 
 </details>
-
-
 <details><summary>
 
 ### Arduino
@@ -33,8 +31,6 @@
 1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
 
 </details>
-
-
 <details><summary>
 
 ### Windows
@@ -43,8 +39,6 @@
 1. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 
 </details>
-
-
 <details><summary>
 
 ### Archcraft
@@ -54,8 +48,6 @@
 1. [Archcraft_Apps](https://github.com/sourceduty/Archcraft_Apps)
 
 </details>
-
-
 <details><summary>
 
 ### Concepts
@@ -87,8 +79,6 @@
 1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 
 </details>
-
-
 <details><summary>
 
 ### Games
@@ -102,8 +92,6 @@
 1. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
 
 </details>
-
-
 <details><summary>
 
 ### Random
