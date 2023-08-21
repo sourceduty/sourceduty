@@ -1,6 +1,6 @@
 <br />
 
-![Octocat_Card](https://github.com/sourceduty/sourceduty/assets/123030236/a6edb2b7-972f-4c50-a0cc-a5c859cd34cc)
+![Sourceduty](https://github.com/sourceduty/sourceduty/assets/123030236/ce348deb-49f0-42be-8014-762b5c607ddc)
 
 ## 📇 Sourceduty Repository Index
 <br />
