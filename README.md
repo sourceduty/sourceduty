@@ -89,7 +89,7 @@
 1. [Ontario Parks](https://github.com/sourceduty/Ontario_Parks_Canada)
 1. [Land Palette](https://github.com/sourceduty/Land_Palette)
 
-#### Twitter
+#### ~~Twitter~~ X
 
 1. [Tweet_Marketplace](https://github.com/sourceduty/Tweet_Marketplace)
 1. [Twitter Preschedule](https://github.com/sourceduty/Tweet_Prescheduler)
