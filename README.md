@@ -65,14 +65,17 @@
 1. [Chain Story](https://github.com/sourceduty/Chain_Story)
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
 1. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
-1. [Cults_3D](https://github.com/sourceduty/Cults_3D)
 1. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
 1. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
-1. [Cura_Infocard](https://github.com/sourceduty/Cura_Infocard)
 1. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
 1. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
 1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
+
+#### 3D Models
+
+1. [Cults_3D](https://github.com/sourceduty/Cults_3D)
+1. [Cura_Infocard](https://github.com/sourceduty/Cura_Infocard)
 
 #### Canada.ca
 
