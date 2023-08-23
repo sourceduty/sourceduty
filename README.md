@@ -103,16 +103,16 @@
 ### Games
 </summary>
 
-#### Retro
+#### Retro PC
 
 1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
+1. [Mario Airplane](https://github.com/sourceduty/RetroMarioAirplane)
 1. [Wall Tetris](https://github.com/sourceduty/Wall-Tetris)
 1. [Ocean Invaders](https://github.com/sourceduty/Ocean-Invaders)
 1. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
 
-#### Mobile
+#### Mobile Concepts
 
-1. [Mario Airplane](https://github.com/sourceduty/RetroMarioAirplane)
 1. [SMS Games](https://github.com/sourceduty/SMS_Games)
 
 </details>
