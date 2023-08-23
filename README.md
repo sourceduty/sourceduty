@@ -77,7 +77,7 @@
 1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 
-#### Google
+#### Twitter
 
 1. [Tweet_Marketplace](https://github.com/sourceduty/Tweet_Marketplace)
 1. [Twitter Preschedule](https://github.com/sourceduty/Tweet_Prescheduler)
