@@ -53,13 +53,14 @@
 ### Concepts
 </summary>
 
+#### General
+
 1. [SMS_Web_Search](https://github.com/sourceduty/SMS_Web_Search)
 1. [Web_Download_Queue](https://github.com/sourceduty/Web_Download_Queue)
 1. [Dormant_Music_Files](https://github.com/sourceduty/Dormant_Music_Files)
 1. [Smart_Web_Search](https://github.com/sourceduty/Smart_Web_Search)
 1. [Vehicle Route Analysis](https://github.com/sourceduty/Predictive_Route_Analysis)
 1. [Business Blog](https://github.com/sourceduty/Business_Blog) 
-1. [Twitter Preschedule](https://github.com/sourceduty/Tweet_Prescheduler)
 1. [My Canada Account](https://github.com/sourceduty/My_Canada_Account)
 1. [Ontario Parks](https://github.com/sourceduty/Ontario_Parks_Canada)
 1. [Land Palette](https://github.com/sourceduty/Land_Palette)
@@ -67,21 +68,28 @@
 1. [Chain Story](https://github.com/sourceduty/Chain_Story)
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
 1. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
+1. [Cults_3D](https://github.com/sourceduty/Cults_3D)
+1. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
+1. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
+1. [Cura_Infocard](https://github.com/sourceduty/Cura_Infocard)
+1. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
+1. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
+1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
+1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
+
+#### Google
+
+1. [Tweet_Marketplace](https://github.com/sourceduty/Tweet_Marketplace)
+1. [Twitter Preschedule](https://github.com/sourceduty/Tweet_Prescheduler)
+
+#### Google
+
 1. [YouTube_Automation](https://github.com/sourceduty/YouTube_Automation)
 1. [YouTube_Video_Card](https://github.com/sourceduty/YouTube_Video_Card)
 1. [Google_Images_Checkbox](https://github.com/sourceduty/Google_Images_Checkbox)
 1. [YouTube_Totals](https://github.com/sourceduty/YouTube_Totals)
 1. [Google_Earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
 1. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
-1. [Cults_3D](https://github.com/sourceduty/Cults_3D)
-1. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
-1. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
-1. [Cura_Infocard](https://github.com/sourceduty/Cura_Infocard)
-1. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
-1. [Tweet_Marketplace](https://github.com/sourceduty/Tweet_Marketplace)
-1. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
-1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
-1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 
 </details>
 <details><summary>
