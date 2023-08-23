@@ -69,6 +69,7 @@
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
 1. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
 1. [YouTube_Automation](https://github.com/sourceduty/YouTube_Automation)
+1. [YouTube_Video_Card](https://github.com/sourceduty/YouTube_Video_Card)
 1. [Cults_3D](https://github.com/sourceduty/Cults_3D)
 1. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
 1. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
