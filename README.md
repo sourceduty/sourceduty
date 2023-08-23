@@ -61,9 +61,6 @@
 1. [Smart_Web_Search](https://github.com/sourceduty/Smart_Web_Search)
 1. [Vehicle Route Analysis](https://github.com/sourceduty/Predictive_Route_Analysis)
 1. [Business Blog](https://github.com/sourceduty/Business_Blog) 
-1. [My Canada Account](https://github.com/sourceduty/My_Canada_Account)
-1. [Ontario Parks](https://github.com/sourceduty/Ontario_Parks_Canada)
-1. [Land Palette](https://github.com/sourceduty/Land_Palette)
 1. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 1. [Chain Story](https://github.com/sourceduty/Chain_Story)
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
@@ -76,6 +73,12 @@
 1. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
 1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
+
+#### Canada.ca
+
+1. [My Canada Account](https://github.com/sourceduty/My_Canada_Account)
+1. [Ontario Parks](https://github.com/sourceduty/Ontario_Parks_Canada)
+1. [Land Palette](https://github.com/sourceduty/Land_Palette)
 
 #### Twitter
 
