@@ -102,6 +102,7 @@
 1. [YouTube_Totals](https://github.com/sourceduty/YouTube_Totals)
 1. [Google_Earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
 1. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
+1. [Video_Caption_Summary](https://github.com/sourceduty/Video_Caption_Summary)
 
 </details>
 <details><summary>
