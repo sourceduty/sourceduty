@@ -69,7 +69,6 @@
 1. [Business Blog](https://github.com/sourceduty/Business_Blog) 
 1. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 1. [Chain Story](https://github.com/sourceduty/Chain_Story)
-1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
 1. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
 1. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
 1. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
@@ -78,6 +77,11 @@
 1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 1. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
+
+#### Peripheral
+
+1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
+1. [Keybind_Instructions](https://github.com/sourceduty/Keybind_Instructions)
 
 #### 3D Models
 
