@@ -130,9 +130,10 @@
 </details>
 <details><summary>
 
-### Random
+### General
 </summary> 
 
+1. [Licenses](https://github.com/sourceduty/Licenses)
 1. [Process_Theory](https://github.com/sourceduty/Process_Theory)
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
 1. [Meme_Archive](https://github.com/sourceduty/Meme_Archive)
