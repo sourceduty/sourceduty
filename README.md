@@ -55,14 +55,6 @@
 </details>
 <details><summary>
 
-### Android
-</summary>
-
-1. [Advent Money](https://github.com/sourceduty/Advent_Money)
-
-</details>
-<details><summary>
-
 ### Concepts
 </summary>
 
@@ -85,6 +77,7 @@
 1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 1. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
+1. [Advent Money App](https://github.com/sourceduty/Advent_Money)
 
 #### Peripheral
 
