@@ -116,6 +116,10 @@
 ### Games
 </summary>
 
+#### Board
+
+1. [Connect Four](https://github.com/sourceduty/Connect_Four)
+
 #### Retro
 
 1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
