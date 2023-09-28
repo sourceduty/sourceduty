@@ -132,6 +132,7 @@
 
 #### Concepts
 
+1. [Heart Shooting Gallery](https://github.com/sourceduty/heart-shooting-gallery)
 1. [SMS Games](https://github.com/sourceduty/SMS_Games)
 
 </details>
