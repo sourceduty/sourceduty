@@ -71,6 +71,7 @@
 1. [Business Blog](https://github.com/sourceduty/Business_Blog) 
 1. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 1. [Chain Story](https://github.com/sourceduty/Chain_Story)
+1. [Amazon_Premium](https://github.com/sourceduty/Amazon_Premium)
 1. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
 1. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
 1. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
