@@ -81,6 +81,7 @@
 1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 1. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
 1. [Advent Money App](https://github.com/sourceduty/Advent_Money)
+1. [Recommended_Food](https://github.com/sourceduty/Recommended_Food)
 1. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 
 #### Peripheral
