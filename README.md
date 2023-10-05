@@ -84,6 +84,7 @@
 1. [Advent Money App](https://github.com/sourceduty/Advent_Money)
 1. [Recommended_Food](https://github.com/sourceduty/Recommended_Food)
 1. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
+1. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 
 #### Peripheral
 
