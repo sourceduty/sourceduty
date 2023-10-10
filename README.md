@@ -86,6 +86,10 @@
 1. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 1. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 
+#### Unlikely
+
+1. [Unlikely_Concept_Ideas](https://github.com/sourceduty/Unlikely_Concept_Ideas)
+
 #### Peripheral
 
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
