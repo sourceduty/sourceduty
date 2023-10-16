@@ -152,6 +152,7 @@
 ### General
 </summary> 
 
+1. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
 1. [Licenses](https://github.com/sourceduty/Licenses)
 1. [Process_Theory](https://github.com/sourceduty/Process_Theory)
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
