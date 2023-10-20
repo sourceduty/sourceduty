@@ -165,6 +165,13 @@
 
 </details>
 
+#### Discussion
+
+1. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
+
+</details>
+<details><summary>
+  
 #
 
 #### 🙋 [Community Introduction](https://github.com/orgs/community/discussions/23204#discussioncomment-6736129)
