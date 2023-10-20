@@ -164,16 +164,16 @@
 1. [Popular Perfection](https://github.com/sourceduty/Popular_Perfection)
 
 </details>
+<details><summary>
 
 #### Discussion
 
-</details>
-<details><summary>
+</summary>
   
 1. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
 
-</summary>
-
+</details>
+<details><summary>
   
 #
 
