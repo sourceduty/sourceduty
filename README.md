@@ -167,10 +167,13 @@
 
 #### Discussion
 
-1. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
-
 </details>
 <details><summary>
+  
+1. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
+
+</summary>
+
   
 #
 
