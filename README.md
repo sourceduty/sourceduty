@@ -16,6 +16,7 @@
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 1. [Python_Math](https://github.com/sourceduty/Python_Math)
 1. [Logic Gates](https://github.com/sourceduty/Logic)
+1. [Python Decisions](https://github.com/sourceduty/Python_Decisions)
 1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
 1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 1. [Not Sure Slang Meme Thesaurus](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus)
