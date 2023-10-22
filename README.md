@@ -63,6 +63,7 @@
 
 #### General
 
+1. [Huge_Cursor](https://github.com/sourceduty/Huge_Cursor)
 1. [Video_Speed_Compression](https://github.com/sourceduty/Video_Speed_Compression)
 1. [Battery_Level_Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
 1. [SMS_Web_Search](https://github.com/sourceduty/SMS_Web_Search)
