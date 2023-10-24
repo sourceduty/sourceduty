@@ -21,6 +21,7 @@
 1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 1. [Not Sure Slang Meme Thesaurus](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus)
 1. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
+1. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 
 #### Metadata
 
