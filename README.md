@@ -28,6 +28,7 @@
 1. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
 1. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
 1. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
+1. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
 
 </details>
 <details><summary>
