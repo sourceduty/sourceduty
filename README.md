@@ -1,6 +1,6 @@
 <br />
 
-![Sourceduty](https://github.com/sourceduty/sourceduty/assets/123030236/ce348deb-49f0-42be-8014-762b5c607ddc)
+![made-in-canada](https://github.com/sourceduty/sourceduty/assets/123030236/e3022b56-ead8-4dba-be6c-02aa98586a1e)
 
 ## 📇 Sourceduty Repository Index
 <br />
