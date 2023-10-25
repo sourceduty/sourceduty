@@ -23,9 +23,7 @@
 1. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
 1. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 1. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
-
-#### Metadata
-
+1. [Machine_Learning_Template](https://github.com/sourceduty/Machine_Learning_Template)
 1. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
 1. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
 1. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
