@@ -1,6 +1,6 @@
 <br />
 
-![made-in-canada](https://github.com/sourceduty/sourceduty/assets/123030236/e3022b56-ead8-4dba-be6c-02aa98586a1e)
+![Chatbot](https://github.com/sourceduty/sourceduty/assets/123030236/aab991d0-58da-4e84-810d-ae623ef4e6d0)
 
 ## 📇 Sourceduty Repository Index
 <br />
