@@ -13,6 +13,7 @@
 #### General
 
 1. [Crazy_Mouse_Pointer](https://github.com/sourceduty/Crazy_Mouse_Pointer)
+1. [Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
 1. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 1. [Python_Math](https://github.com/sourceduty/Python_Math)
