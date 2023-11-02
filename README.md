@@ -99,6 +99,7 @@
 1. [Recommended_Food](https://github.com/sourceduty/Recommended_Food)
 1. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 1. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
+1. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 
 #### Unlikely
 
