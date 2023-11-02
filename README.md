@@ -183,7 +183,8 @@
 ### Discussion
 
 </summary>
-  
+
+1. [Notes](https://github.com/sourceduty/Notes)
 1. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
 
 </details>
