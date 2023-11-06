@@ -36,6 +36,7 @@
 1. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
 1. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
 1. [Reduntant](https://github.com/sourceduty/Redundant)
+1. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
 
 </details>
 <details><summary>
