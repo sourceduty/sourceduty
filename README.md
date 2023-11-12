@@ -172,6 +172,7 @@
 ### General
 </summary> 
 
+1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
 1. [File Metadata Ratio](https://github.com/sourceduty/File_Metadata_Ratio)
 1. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
 1. [Licenses](https://github.com/sourceduty/Licenses)
