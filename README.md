@@ -74,6 +74,7 @@
 
 #### General
 
+1. [Search_Multiplier](https://github.com/sourceduty/Search_Multiplier)
 1. [Ass_Detection](https://github.com/sourceduty/Ass_Detection)
 1. [Huge_Cursor](https://github.com/sourceduty/Huge_Cursor)
 1. [Video_Speed_Compression](https://github.com/sourceduty/Video_Speed_Compression)
