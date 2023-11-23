@@ -175,6 +175,7 @@
 ### General
 </summary> 
 
+1. [Investigations](https://github.com/sourceduty/Investigations)
 1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
 1. [File Metadata Ratio](https://github.com/sourceduty/File_Metadata_Ratio)
 1. [Terrorism](https://github.com/sourceduty/Terrorism)
