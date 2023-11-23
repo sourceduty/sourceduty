@@ -7,6 +7,16 @@
 
 <details><summary>
 
+### AI
+</summary>
+
+1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
+1. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
+1. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
+
+</details>
+<details><summary>
+
 ### Python
 </summary>
 
@@ -84,8 +94,6 @@
 1. [Dormant_Music_Files](https://github.com/sourceduty/Dormant_Music_Files)
 1. [Smart_Web_Search](https://github.com/sourceduty/Smart_Web_Search)
 1. [Sequenced_File_Folders](https://github.com/sourceduty/Sequenced_File_Folders)
-1. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
-1. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
 1. [Vehicle Route Analysis](https://github.com/sourceduty/Predictive_Route_Analysis)
 1. [Business Blog](https://github.com/sourceduty/Business_Blog) 
 1. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
@@ -175,7 +183,6 @@
 ### General
 </summary> 
 
-1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
 1. [File Metadata Ratio](https://github.com/sourceduty/File_Metadata_Ratio)
 1. [Terrorism](https://github.com/sourceduty/Terrorism)
 1. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
