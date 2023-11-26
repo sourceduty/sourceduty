@@ -189,7 +189,6 @@
 1. [Terrorism](https://github.com/sourceduty/Terrorism)
 1. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
 1. [Licenses](https://github.com/sourceduty/Licenses)
-1. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
 1. [Process_Theory](https://github.com/sourceduty/Process_Theory)
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
 1. [Skynet](https://github.com/sourceduty/Skynet)
@@ -205,6 +204,7 @@
 </summary>
 
 1. [Notes](https://github.com/sourceduty/Notes)
+1. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
 1. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
 
 </details>
