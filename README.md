@@ -11,6 +11,7 @@
 </summary>
 
 1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
+1. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
 1. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
 1. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
 
