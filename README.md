@@ -59,6 +59,7 @@
 1. [PowerTime Logger](https://github.com/sourceduty/PowerTime) 
 1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
 1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
+1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 
 </details>
 <details><summary>
@@ -109,7 +110,6 @@
 1. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
 1. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
 1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
-1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 1. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
 1. [Advent Money App](https://github.com/sourceduty/Advent_Money)
 1. [Recommended_Food](https://github.com/sourceduty/Recommended_Food)
