@@ -1,6 +1,6 @@
 <br />
 
-![Chatbot](https://github.com/sourceduty/sourceduty/assets/123030236/aab991d0-58da-4e84-810d-ae623ef4e6d0)
+![GitHub_Sourceduty](https://github.com/sourceduty/sourceduty/assets/123030236/a014440f-436c-415d-b725-3f18621fe708)
 
 ## 📇 Sourceduty Repository Index
 <br />
