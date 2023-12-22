@@ -1,6 +1,6 @@
 <br />
 
-![GitHub_Sourceduty](https://github.com/sourceduty/sourceduty/assets/123030236/a014440f-436c-415d-b725-3f18621fe708)
+![Sourceduty Hacker](https://github.com/sourceduty/sourceduty/assets/123030236/99f64361-24a4-4fa0-8dcb-255bc975146d)
 
 ## 📇 Sourceduty Repository Index
 <br />
