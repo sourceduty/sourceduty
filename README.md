@@ -194,6 +194,7 @@
 1. [Terrorism](https://github.com/sourceduty/Terrorism)
 1. [Offline Wikipedia](https://github.com/sourceduty/Offline_Wikipedia)
 1. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
+1. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
 1. [Licenses](https://github.com/sourceduty/Licenses)
 1. [Process_Theory](https://github.com/sourceduty/Process_Theory)
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
