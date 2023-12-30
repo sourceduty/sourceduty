@@ -87,6 +87,7 @@
 
 #### General
 
+1. [Experience Modes](https://github.com/sourceduty/Experience_Modes)
 1. [Pothole Prediction](https://github.com/sourceduty/Pothole_Prediction)
 1. [Video Instructor](https://github.com/sourceduty/Video_Instructor)
 1. [Search_Multiplier](https://github.com/sourceduty/Search_Multiplier)
