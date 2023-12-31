@@ -15,6 +15,7 @@
 1. [Connect X's](https://github.com/sourceduty/Connect-Xs)
 1. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
 1. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
+1. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 
 </details>
 <details><summary>
