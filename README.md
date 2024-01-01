@@ -41,6 +41,7 @@
 1. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
 1. [Not Sure Slang Meme Thesaurus](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus)
 1. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
+1. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
 1. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
 1. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 1. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
