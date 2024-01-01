@@ -17,6 +17,7 @@
 1. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
 1. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 1. [Narrative Search](https://github.com/sourceduty/Narrative_Search)
+1. [Skynet](https://github.com/sourceduty/Skynet)
 
 </details>
 <details><summary>
@@ -204,7 +205,6 @@
 1. [Licenses](https://github.com/sourceduty/Licenses)
 1. [Process_Theory](https://github.com/sourceduty/Process_Theory)
 1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
-1. [Skynet](https://github.com/sourceduty/Skynet)
 1. [Asimov_Laws](https://github.com/sourceduty/Asimov_Laws)
 1. [Popular Perfection](https://github.com/sourceduty/Popular_Perfection)
 1. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
