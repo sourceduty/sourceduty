@@ -11,6 +11,7 @@
 </summary>
 
 1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
+1. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
 1. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
 1. [Connect X's](https://github.com/sourceduty/Connect-Xs)
 1. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
