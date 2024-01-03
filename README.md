@@ -199,6 +199,7 @@
 
 1. [Plain_Text](https://github.com/sourceduty/Plain_Text)
 1. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
+1. [Conspiracy Theories](https://github.com/sourceduty/Conspiracy_Theory)
 1. [File Metadata Ratio](https://github.com/sourceduty/File_Metadata_Ratio)
 1. [Terrorism](https://github.com/sourceduty/Terrorism)
 1. [Offline Wikipedia](https://github.com/sourceduty/Offline_Wikipedia)
