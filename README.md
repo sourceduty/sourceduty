@@ -1,6 +1,6 @@
 <br />
 
-![Sourceduty Hacker](https://github.com/sourceduty/sourceduty/assets/123030236/99f64361-24a4-4fa0-8dcb-255bc975146d)
+![DALL·E 2023-11-07 04 12 21 - A tall, muscular Bigfoot with shaggy dark brown fur, riding a majestic unicorn with a shimmering white coat and a long, spiraling horn  The unicorn's ](https://github.com/sourceduty/sourceduty/assets/123030236/05e8b49e-8c60-4568-9f60-8989aa0755b4)
 
 ## 📇 Sourceduty Repository Index
 <br />
