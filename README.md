@@ -181,6 +181,7 @@
 
 #### Concepts
 
+1. [Tactical Grizzly](https://github.com/sourceduty/Tactical_Grizzly)
 1. [Sphere Tanks](https://github.com/sourceduty/Sphere_Tanks)
 1. [MUND-A](https://github.com/sourceduty/MUND-A)
 1. [Source Invaders](https://github.com/sourceduty/Source_Invaders)
