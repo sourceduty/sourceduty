@@ -181,6 +181,7 @@
 
 #### Concepts
 
+1. [Krazy Roo](https://github.com/sourceduty/Krazy_Roo)
 1. [Tactical Grizzly](https://github.com/sourceduty/Tactical_Grizzly)
 1. [Sphere Tanks](https://github.com/sourceduty/Sphere_Tanks)
 1. [MUND-A](https://github.com/sourceduty/MUND-A)
