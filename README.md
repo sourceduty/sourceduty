@@ -1,6 +1,6 @@
 <br />
 
-![Sourceduty_Desk](https://github.com/sourceduty/sourceduty/assets/123030236/9d6b92b3-4d5c-4e51-a51c-75c96842b4c3)
+![Repo_Card_Black](https://github.com/sourceduty/sourceduty/assets/123030236/0a2cca87-3097-4a99-8e06-c3a163f90c02)
 
 ## 📇 Sourceduty Repository Index
 <br />
