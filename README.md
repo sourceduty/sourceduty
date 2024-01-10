@@ -181,6 +181,7 @@
 
 #### Concepts
 
+1. [Combat Demolition](https://github.com/sourceduty/Combat_Demolition)
 1. [4TRESS](https://github.com/sourceduty/4TRESS)
 1. [Skateboating](https://github.com/sourceduty/Skateboating)
 1. [Rage Wakeboarding](https://github.com/sourceduty/Rage_Wakeboarding)
