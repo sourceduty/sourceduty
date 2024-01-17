@@ -1,6 +1,6 @@
 <br />
 
-![Repo_Card_Black](https://github.com/sourceduty/sourceduty/assets/123030236/0a2cca87-3097-4a99-8e06-c3a163f90c02)
+![DALL·E 2024-01-17 02 02 47 - A modern house with rusty steel panels, located on a tropical beach  The house showcases an industrial aesthetic with weathered, rusty steel surfaces,](https://github.com/sourceduty/sourceduty/assets/123030236/d576dfcf-792d-40cf-8e32-0b0ce430fe3d)
 
 ## 📇 Sourceduty Repository Index
 <br />
