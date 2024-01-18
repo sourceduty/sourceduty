@@ -1,6 +1,6 @@
 <br />
 
-![DALL·E 2024-01-17 02 02 47 - A modern house with rusty steel panels, located on a tropical beach  The house showcases an industrial aesthetic with weathered, rusty steel surfaces,](https://github.com/sourceduty/sourceduty/assets/123030236/d576dfcf-792d-40cf-8e32-0b0ce430fe3d)
+![Rusty Modern Mansion](https://github.com/sourceduty/sourceduty/assets/123030236/3ef12ef8-c63d-4ea9-b715-ed029e9276ca)
 
 ## 📇 Sourceduty Repository Index
 <br />
