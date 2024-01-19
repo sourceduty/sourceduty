@@ -1,6 +1,6 @@
 <br />
 
-![Rusty Modern Mansion](https://github.com/sourceduty/sourceduty/assets/123030236/3ef12ef8-c63d-4ea9-b715-ed029e9276ca)
+![Drugs](https://github.com/sourceduty/sourceduty/assets/123030236/7c5c40d3-7b0e-459a-929f-625b78693d72)
 
 ## 📇 Sourceduty Repository Index
 <br />
