@@ -1,6 +1,7 @@
 <br />
 
-![Drugs](https://github.com/sourceduty/sourceduty/assets/123030236/7c5c40d3-7b0e-459a-929f-625b78693d72)
+![Margot Robbie](https://github.com/sourceduty/sourceduty/assets/123030236/e01a917c-4acb-4b99-8e5b-9590811f7246)
+
 
 ## 📇 Sourceduty Repository Index
 <br />
