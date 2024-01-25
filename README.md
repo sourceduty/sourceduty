@@ -251,7 +251,7 @@
 
 #### About Sourceduty
 
-Alex Aldridge is a multifaceted talent as a self-taught designer, fan artist, and software developer. Sourceduty is a creative digital company that was established by Alex in late 2022. Sourceduty shares open-source codes, concept ideas and inspiration on GitHub. Sourceduty utilizes any medium, material and manufacturing process required to create new things. Sourceduty also shares files using [OneDrive.](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr) 
+Alex Aldridge is a multifaceted talent as a self-taught designer, fan artist, and software developer. Sourceduty is a creative digital company that was established by Alex in late 2022. Sourceduty shares open-source codes, concept ideas and inspiration on GitHub. Sourceduty is a creative digital company with digital assets, files and utilizes the employment of creatives in operations. Sourceduty also shares files using [OneDrive.](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr) 
 
 #
 [![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
