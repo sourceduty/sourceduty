@@ -12,6 +12,7 @@
 </summary>
 
 1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
+1. [Rename](https://github.com/sourceduty/Rename)
 1. [Law Simple](https://github.com/sourceduty/Law_Simple)
 1. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
 1. [Custom GPT Collab](https://github.com/sourceduty/Custom_GPT_Collab)
