@@ -1,6 +1,6 @@
 <br />
 
-![Margot Robbie](https://github.com/sourceduty/sourceduty/assets/123030236/e01a917c-4acb-4b99-8e5b-9590811f7246)
+![Old Huey Living Space Concept](https://github.com/sourceduty/sourceduty/assets/123030236/e3486d14-cadb-42a3-9174-4f3e98a875a2)
 
 
 ## 📇 Sourceduty Repository Index
