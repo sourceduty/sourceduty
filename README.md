@@ -1,6 +1,6 @@
 <br />
 
-![Old Huey Living Space Concept](https://github.com/sourceduty/sourceduty/assets/123030236/e3486d14-cadb-42a3-9174-4f3e98a875a2)
+![Office](https://github.com/sourceduty/sourceduty/assets/123030236/56acb91c-6ecd-4c42-bba6-c19406dc118f)
 
 
 ## 📇 Sourceduty Repository Index
