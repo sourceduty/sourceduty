@@ -1,7 +1,6 @@
 <br />
 
-![Office](https://github.com/sourceduty/sourceduty/assets/123030236/56acb91c-6ecd-4c42-bba6-c19406dc118f)
-
+![Modern Gaming Backpack Concept](https://github.com/sourceduty/sourceduty/assets/123030236/e9521ae5-3260-4aa9-8785-15426a256458)
 
 ## 📇 Sourceduty Repository Index
 <br />
