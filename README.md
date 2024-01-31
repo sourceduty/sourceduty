@@ -22,7 +22,7 @@
 1. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
 1. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 1. [Narrative Search](https://github.com/sourceduty/Narrative_Search)
-1. [cocAIne](https://github.com/sourceduty/cocAIne)
+1. [AI](https://github.com/sourceduty/AI_Culture)
 
 </details>
 <details><summary>
