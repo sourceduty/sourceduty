@@ -1,6 +1,6 @@
 <br />
 
-![Modern Gaming Backpack Concept](https://github.com/sourceduty/sourceduty/assets/123030236/e9521ae5-3260-4aa9-8785-15426a256458)
+![1950's Concept Glass Roof Cadillac Coupe](https://github.com/sourceduty/sourceduty/assets/123030236/7a18bfb6-9532-4906-8ed7-c0e085a55357)
 
 ## 📇 Sourceduty Repository Index
 <br />
