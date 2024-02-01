@@ -1,7 +1,6 @@
 <br />
 
-![1950's Concept Glass Roof Cadillac Coup 2](https://github.com/sourceduty/sourceduty/assets/123030236/77a5eea4-4f02-40d7-aded-cf9b5e62f0ff)
-
+![Concept Coupe](https://github.com/sourceduty/sourceduty/assets/123030236/6134885f-29a5-4532-a557-c7d4412b7a5b)
 
 ## 📇 Sourceduty Repository Index
 <br />
