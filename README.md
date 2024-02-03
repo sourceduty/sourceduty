@@ -1,6 +1,6 @@
 <br />
 
-![Concept Coupe](https://github.com/sourceduty/sourceduty/assets/123030236/6134885f-29a5-4532-a557-c7d4412b7a5b)
+![Arctic Snowmobile Castle](https://github.com/sourceduty/sourceduty/assets/123030236/fbf60589-0df4-4480-a932-9a1f95349154)
 
 ## 📇 Sourceduty Repository Index
 <br />
