@@ -1,6 +1,6 @@
 <br />
 
-![Arctic Snowmobile Castle](https://github.com/sourceduty/sourceduty/assets/123030236/fbf60589-0df4-4480-a932-9a1f95349154)
+![John Deere Round Bail Truck Concept](https://github.com/sourceduty/sourceduty/assets/123030236/aaade537-ac77-4a6c-b70f-599c5b146a88)
 
 ## 📇 Sourceduty Repository Index
 <br />
