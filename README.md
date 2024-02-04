@@ -1,6 +1,6 @@
 <br />
 
-![Scrap Metal Shredder Skid Steer Concept](https://github.com/sourceduty/sourceduty/assets/123030236/9dab479b-f293-42b7-93f5-0eb958c59cc8)
+![Heavy-Duty Modern Bio-Hazard Bathtub Design](https://github.com/sourceduty/sourceduty/assets/123030236/dc33dc1e-74c2-4972-a09f-1cd52ac95ceb)
 
 ## 📇 Sourceduty Repository Index
 <br />
