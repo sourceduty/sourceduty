@@ -1,6 +1,6 @@
 <br />
 
-![John Deere Round Bail Truck Concept](https://github.com/sourceduty/sourceduty/assets/123030236/aaade537-ac77-4a6c-b70f-599c5b146a88)
+![Weedcopter](https://github.com/sourceduty/sourceduty/assets/123030236/4ce7f4b1-64c0-4916-a2bd-90f7af85dff9)
 
 ## 📇 Sourceduty Repository Index
 <br />
