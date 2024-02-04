@@ -243,6 +243,7 @@
 
 </summary>
 
+1. [Predictions](https://github.com/sourceduty/Predictions)
 1. [Notes](https://github.com/sourceduty/Notes)
 1. [Organize_Emergency](https://github.com/sourceduty/Organize_Emergency)
 1. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
