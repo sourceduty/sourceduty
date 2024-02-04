@@ -1,6 +1,6 @@
 <br />
 
-![Weedcopter](https://github.com/sourceduty/sourceduty/assets/123030236/4ce7f4b1-64c0-4916-a2bd-90f7af85dff9)
+![Tracked Mobility Scooter Concept Design](https://github.com/sourceduty/sourceduty/assets/123030236/8d8ab0f6-605f-4ec2-b868-7a2670250b2f)
 
 ## 📇 Sourceduty Repository Index
 <br />
