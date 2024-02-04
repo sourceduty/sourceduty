@@ -1,6 +1,6 @@
 <br />
 
-![Tracked Mobility Scooter Concept Design](https://github.com/sourceduty/sourceduty/assets/123030236/8d8ab0f6-605f-4ec2-b868-7a2670250b2f)
+![Scrap Metal Shredder Skid Steer Concept](https://github.com/sourceduty/sourceduty/assets/123030236/9dab479b-f293-42b7-93f5-0eb958c59cc8)
 
 ## 📇 Sourceduty Repository Index
 <br />
