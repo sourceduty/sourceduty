@@ -1,6 +1,6 @@
 <br />
 
-![Heavy-Duty Modern Bio-Hazard Bathtub Design](https://github.com/sourceduty/sourceduty/assets/123030236/dc33dc1e-74c2-4972-a09f-1cd52ac95ceb)
+![Roman Gold Stormtrooper](https://github.com/sourceduty/sourceduty/assets/123030236/38585f9d-78cc-4ee3-80cb-b7029076f42a)
 
 ## 📇 Sourceduty Repository Index
 <br />
