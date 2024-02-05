@@ -1,6 +1,6 @@
 <br />
 
-![Roman Gold Stormtrooper](https://github.com/sourceduty/sourceduty/assets/123030236/38585f9d-78cc-4ee3-80cb-b7029076f42a)
+![Chrome Helicopter](https://github.com/sourceduty/sourceduty/assets/123030236/80931d7d-e169-4c52-8c47-7bcb0a20f2a7)
 
 ## 📇 Sourceduty Repository Index
 <br />
