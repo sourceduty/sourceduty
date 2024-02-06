@@ -17,6 +17,7 @@
 1. [Custom GPT Collab](https://github.com/sourceduty/Custom_GPT_Collab)
 1. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
 1. [Personality](https://github.com/sourceduty/Personality)
+1. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
 1. [Connect X's](https://github.com/sourceduty/Connect-Xs)
 1. [Hacked Image](https://github.com/sourceduty/Hacked_Image)
 1. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
