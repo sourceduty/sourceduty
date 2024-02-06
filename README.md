@@ -1,6 +1,6 @@
 <br />
 
-![Chimp Human Robot Evolution](https://github.com/sourceduty/sourceduty/assets/123030236/79d8d964-0729-40b7-aa36-692881835d81)
+![Repo_Card_Black](https://github.com/sourceduty/sourceduty/assets/123030236/605f0b62-2d71-4064-9e8b-a3fee8ef5c4a)
 
 ## 📇 Sourceduty Repository Index
 <br />
