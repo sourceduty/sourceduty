@@ -1,6 +1,6 @@
 <br />
 
-![Chrome Helicopter](https://github.com/sourceduty/sourceduty/assets/123030236/80931d7d-e169-4c52-8c47-7bcb0a20f2a7)
+![Old DALL·E 3 Sign](https://github.com/sourceduty/sourceduty/assets/123030236/ab08ae08-ebcb-4db9-8978-362b85cc62d7)
 
 ## 📇 Sourceduty Repository Index
 <br />
