@@ -1,6 +1,6 @@
 <br />
 
-![Old DALL·E 3 Sign](https://github.com/sourceduty/sourceduty/assets/123030236/ab08ae08-ebcb-4db9-8978-362b85cc62d7)
+![Chimp Human Robot Evolution](https://github.com/sourceduty/sourceduty/assets/123030236/79d8d964-0729-40b7-aa36-692881835d81)
 
 ## 📇 Sourceduty Repository Index
 <br />
