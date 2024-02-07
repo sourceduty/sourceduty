@@ -244,7 +244,6 @@
 
 </summary>
 
-1. [Alex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
 1. [Predictions](https://github.com/sourceduty/Predictions)
 1. [Notes](https://github.com/sourceduty/Notes)
 1. [Organize_Emergency](https://github.com/sourceduty/Organize_Emergency)
