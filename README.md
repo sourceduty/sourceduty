@@ -1,6 +1,6 @@
 <br />
 
-![Sourceduty Banner](https://github.com/sourceduty/sourceduty/assets/123030236/977ad1cd-b3ca-4c2f-9415-c912131a5ef9)
+![Computer Case with Screen](https://github.com/sourceduty/sourceduty/assets/123030236/5acfd154-ce76-457f-b442-122a4dbf9347)
 
 ## 📇 Sourceduty Repository Index
 <br />
