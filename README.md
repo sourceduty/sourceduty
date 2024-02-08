@@ -1,6 +1,6 @@
 <br />
 
-![Computer Case with Screen](https://github.com/sourceduty/sourceduty/assets/123030236/5acfd154-ce76-457f-b442-122a4dbf9347)
+![Human Design Problems](https://github.com/sourceduty/sourceduty/assets/123030236/3c120d6c-0c93-4fd5-9496-fcb7d722668f)
 
 ## 📇 Sourceduty Repository Index
 <br />
