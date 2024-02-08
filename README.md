@@ -1,6 +1,6 @@
 <br />
 
-![Human Design Problems](https://github.com/sourceduty/sourceduty/assets/123030236/3c120d6c-0c93-4fd5-9496-fcb7d722668f)
+![Thermal Concept Goggles](https://github.com/sourceduty/sourceduty/assets/123030236/b576daa1-e4e0-4414-9785-4296266efa26)
 
 ## 📇 Sourceduty Repository Index
 <br />
