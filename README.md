@@ -1,6 +1,6 @@
 <br />
 
-![5 years](https://github.com/sourceduty/sourceduty/assets/123030236/5d8784f3-43a3-4f2a-ba4e-c2f384f8b805)
+![Maximize Life Motto Quote](https://github.com/sourceduty/sourceduty/assets/123030236/4e384774-b7a0-4107-be77-b3d206121e1a)
 
 ## 📇 Sourceduty Repository Index
 <br />
