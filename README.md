@@ -261,7 +261,7 @@ Alex Aldridge is a multifaceted talent as a self-taught designer, fan artist, an
 
 #### Sourceduty Assets
 
-Sourceduty employs an open privacy sales structures to monetize digital assets. Sourceduty actively participates in data marketplaces, connecting with buyers like companies and researchers. By engaging in direct sales, Sourceduty can profit from assets while maintaining privacy control. Sourceduty encourages others to join in selling Sourceduty assets, fostering a community-driven approach. This openness promotes collaboration while ensuring that privacy remains a central concern. In embracing these practices, Sourceduty aims to unlock the full potential of digital assets while respecting the privacy rights of individuals involved.
+Sourceduty employs an open privacy sales structures to monetize digital assets. Sourceduty actively participates in marketplaces, connecting with customers and companies. By engaging in direct sales, Sourceduty can profit from assets while maintaining privacy control. Sourceduty encourages others to join in selling Sourceduty assets, fostering a community-driven approach. This openness promotes collaboration while ensuring that privacy remains a central concern. In embracing these practices, Sourceduty aims to unlock the full potential of digital assets while respecting the privacy rights of individuals involved.
 
 #
 [![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
