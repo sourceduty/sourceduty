@@ -1,6 +1,6 @@
 <br />
 
-![Maximize Life Motto Quote](https://github.com/sourceduty/sourceduty/assets/123030236/4e384774-b7a0-4107-be77-b3d206121e1a)
+![Humanoid](https://github.com/sourceduty/sourceduty/assets/123030236/d18d2da5-f28b-4f6e-8f8a-bf56b81ec68e)
 
 ## 📇 Sourceduty Repository Index
 <br />
