@@ -1,6 +1,6 @@
 <br />
 
-![Humanoid](https://github.com/sourceduty/sourceduty/assets/123030236/d18d2da5-f28b-4f6e-8f8a-bf56b81ec68e)
+![Homemade Rocket Chair](https://github.com/sourceduty/sourceduty/assets/123030236/190fe6e7-1c5a-41f3-a44c-e4e84bbc2d55)
 
 ## 📇 Sourceduty Repository Index
 <br />
