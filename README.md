@@ -1,6 +1,6 @@
 <br />
 
-![Homemade Rocket Chair](https://github.com/sourceduty/sourceduty/assets/123030236/190fe6e7-1c5a-41f3-a44c-e4e84bbc2d55)
+![GPT Store](https://github.com/sourceduty/sourceduty/assets/123030236/fada78cc-dd44-4682-b7b5-6a2f7abae404)
 
 ## 📇 Sourceduty Repository Index
 <br />
