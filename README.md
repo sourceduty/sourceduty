@@ -1,6 +1,6 @@
 <br />
 
-![XXX](https://github.com/sourceduty/sourceduty/assets/123030236/de372def-7ab8-4cce-9945-9ad711f6aa2f)
+![Python Line Drawings](https://github.com/sourceduty/sourceduty/assets/123030236/fd2775ce-3f06-45aa-aaf2-ccb54f6d70b5)
 
 ## 📇 Sourceduty Repository Index
 <br />
