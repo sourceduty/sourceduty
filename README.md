@@ -261,6 +261,8 @@
 Alex Aldridge is a multifaceted talent as a self-taught designer, fan artist, and software developer. Sourceduty is a creative digital company that was established by Alex in late 2022. Sourceduty shares open-source codes, concept ideas and inspiration on GitHub. Sourceduty is a creative digital company with digital assets, files and utilizes the employment of creatives in operations. Sourceduty also shares files using [OneDrive.](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr) 
 
 #
+![Alex Bourne](https://github.com/sourceduty/sourceduty/assets/123030236/826113a6-ea5e-4ce7-b123-ea34e7dd417f)
+#
 [![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 #
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourceduty)
