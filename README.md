@@ -1,6 +1,6 @@
 <br />
 
-![Python Line Drawings](https://github.com/sourceduty/sourceduty/assets/123030236/fd2775ce-3f06-45aa-aaf2-ccb54f6d70b5)
+![News](https://github.com/sourceduty/sourceduty/assets/123030236/ec6846cc-7bf2-405b-b8d0-68dbe0a11deb)
 
 ## 📇 Sourceduty Repository Index
 <br />
