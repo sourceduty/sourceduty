@@ -1,6 +1,6 @@
 <br />
 
-![Banner](https://github.com/sourceduty/sourceduty/assets/123030236/03b155d5-a5f3-4eda-97ee-4d87c67ad7eb)
+![Official Sourceduty Sign](https://github.com/sourceduty/sourceduty/assets/123030236/b09ee264-b3bb-417f-80c4-25fe73e8d0ec)
 
 ## 📇 Sourceduty Repository Index
 <br />
