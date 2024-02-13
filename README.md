@@ -70,6 +70,7 @@
 ### Arduino
 </summary>
 
+1. [Soil Analyzer](https://github.com/sourceduty/Soil_Analyzer)
 1. [PowerTime Logger](https://github.com/sourceduty/PowerTime) 
 1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
 1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
