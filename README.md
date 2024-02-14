@@ -245,6 +245,7 @@
 1. [Garbage](https://github.com/sourceduty/Garbage)
 1. [EV](https://github.com/sourceduty/EV)
 1. [Modernization](https://github.com/sourceduty/Modernization)
+1. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
    
 </details>
 <details><summary>
