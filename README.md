@@ -1,6 +1,6 @@
 <br />
 
-![Banner](https://github.com/sourceduty/sourceduty/assets/123030236/fd5a7885-d50b-4823-b195-d07483958975)
+![ChatGPT Money](https://github.com/sourceduty/sourceduty/assets/123030236/c89d5dc3-0db0-4ac3-97e0-f998a2895d54)
 
 ## 📇 Sourceduty Repository Index
 <br />
