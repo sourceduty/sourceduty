@@ -16,7 +16,6 @@
 1. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
 1. [Custom GPT Collab](https://github.com/sourceduty/Custom_GPT_Collab)
 1. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
-1. [AI Camera](https://github.com/sourceduty/AI_Camera)
 1. [Personality](https://github.com/sourceduty/Personality)
 1. [Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
 1. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
@@ -81,6 +80,7 @@
 
 #### Raspberry Pi
 
+1. [AI Camera](https://github.com/sourceduty/AI_Camera)
 1. [Space_Station_Guide](https://github.com/sourceduty/Space_Station_Guide)
 1. [Insect_Box](https://github.com/sourceduty/Insect_Box)
 
