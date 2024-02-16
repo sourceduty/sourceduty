@@ -80,7 +80,6 @@
 
 #### Raspberry Pi
 
-1. [AI Camera](https://github.com/sourceduty/AI_Camera)
 1. [Space_Station_Guide](https://github.com/sourceduty/Space_Station_Guide)
 1. [Insect_Box](https://github.com/sourceduty/Insect_Box)
 
