@@ -228,6 +228,7 @@
 1. [Internet Content](https://github.com/sourceduty/Internet_Content)
 1. [Drugs](https://github.com/sourceduty/Drugs)
 1. [Plain_Text](https://github.com/sourceduty/Plain_Text)
+1. [Twitter](https://github.com/sourceduty/Twitter)
 1. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
 1. [Conspiracy Theories](https://github.com/sourceduty/Conspiracy_Theory)
 1. [File Metadata Ratio](https://github.com/sourceduty/File_Metadata_Ratio)
