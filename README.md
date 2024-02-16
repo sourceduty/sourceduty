@@ -1,9 +1,25 @@
 <br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/sourceduty/sourceduty/assets/123030236/7c2417a1-561b-4046-8103-e99da48dcb33" alt="Sourceduty" width="200" height="200">
+  </a>
 
-![ChatGPT Money](https://github.com/sourceduty/sourceduty/assets/123030236/c89d5dc3-0db0-4ac3-97e0-f998a2895d54)
+  <h3 align="center"><strong>Sourceduty Repository Index</strong></h3>
 
-## 📇 Sourceduty Repository Index
-<br />
+  <p align="center">
+    AI, open-source codes, concept ideas and inspiration.
+    <br />
+    <br />
+    <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr"><strong>OneDrive</strong></a>
+    -
+    <a href="https://about.me/sourceduty"><strong>Links</strong></a>
+    ·
+    <a href="mailto:sourceduty@gmail.com"><strong>Contact</strong></a>
+  </p>
+</div>
+
+
+***
 
 <details><summary>
 
@@ -269,7 +285,7 @@
 
 #### About Sourceduty
 
-Alex Aldridge is a multifaceted talent as a self-taught designer, fan artist, and software developer. Sourceduty is a creative digital company that was established by Alex in late 2022. Sourceduty shares open-source codes, concept ideas and inspiration on GitHub. Sourceduty is a creative digital company with digital assets, files and utilizes the employment of creatives in operations. Sourceduty also shares files using [OneDrive.](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr) 
+Alex Aldridge is a multifaceted talent as a self-taught designer, fan artist, and software developer. Sourceduty is a creative digital company that was established by Alex in late 2022. Sourceduty shares open-source codes, concept ideas and inspiration on GitHub. Sourceduty is a creative digital company with digital assets, files and utilizes the employment of creatives in operations. 
 
 #
 [![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
