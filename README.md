@@ -55,7 +55,6 @@
 1. [3D_Model_Imaging](https://github.com/sourceduty/3D_Model_Imaging)
 1. [Music_BPM_Mp3](https://github.com/sourceduty/Music_BPM_Mp3)
 1. [White Noise](https://github.com/sourceduty/White_Noise)
-1. [Crazy_Mouse_Pointer](https://github.com/sourceduty/Crazy_Mouse_Pointer)
 1. [Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
 1. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
 1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
