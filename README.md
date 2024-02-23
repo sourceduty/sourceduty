@@ -96,6 +96,7 @@
 
 #### Raspberry Pi
 
+1. [Helipad Pi](https://github.com/sourceduty/Helipad_Pi)
 1. [Space_Station_Guide](https://github.com/sourceduty/Space_Station_Guide)
 1. [Insect_Box](https://github.com/sourceduty/Insect_Box)
 1. [Weather_Pi](https://github.com/sourceduty/Weather_Pi)
