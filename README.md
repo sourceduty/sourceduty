@@ -40,6 +40,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 1. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
 1. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
 1. [Personality](https://github.com/sourceduty/Personality)
+1. [Home Builder](https://github.com/sourceduty/Home_Depot_Assistant)
 1. [Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
 1. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
 1. [Connect X's](https://github.com/sourceduty/Connect-Xs)
