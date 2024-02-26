@@ -49,6 +49,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 1. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 1. [Narrative Search](https://github.com/sourceduty/Narrative_Search)
 1. [AI Culture](https://github.com/sourceduty/AI_Culture)
+1. [Text Emulator](https://github.com/sourceduty/Text_Emulator)
 
 </details>
 <details><summary>
