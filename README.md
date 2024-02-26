@@ -27,269 +27,242 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 
 ***
 
-<details><summary>
-
-### AI
-</summary>
+<details><summary>AI</summary>
 
 1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
-1. [Rename](https://github.com/sourceduty/Rename)
-1. [Law Simple](https://github.com/sourceduty/Law_Simple)
-1. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
-1. [Custom GPT Collab](https://github.com/sourceduty/Custom_GPT_Collab)
-1. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
-1. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
-1. [Personality](https://github.com/sourceduty/Personality)
-1. [Home Builder](https://github.com/sourceduty/Home_Depot_Assistant)
-1. [Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
-1. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
-1. [Connect X's](https://github.com/sourceduty/Connect-Xs)
-1. [Hacked Image](https://github.com/sourceduty/Hacked_Image)
-1. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
-1. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
-1. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
-1. [Narrative Search](https://github.com/sourceduty/Narrative_Search)
-1. [AI Culture](https://github.com/sourceduty/AI_Culture)
-1. [Text Emulator](https://github.com/sourceduty/Text_Emulator)
+2. [Rename](https://github.com/sourceduty/Rename)
+3. [Law Simple](https://github.com/sourceduty/Law_Simple)
+4. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
+5. [Custom GPT Collab](https://github.com/sourceduty/Custom_GPT_Collab)
+6. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
+7. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
+8. [Personality](https://github.com/sourceduty/Personality)
+9. [Home Builder](https://github.com/sourceduty/Home_Depot_Assistant)
+10. [Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
+11. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
+12. [Connect X's](https://github.com/sourceduty/Connect-Xs)
+13. [Hacked Image](https://github.com/sourceduty/Hacked_Image)
+14. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
+15. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
+16. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
+17. [Narrative Search](https://github.com/sourceduty/Narrative_Search)
+18. [AI Culture](https://github.com/sourceduty/AI_Culture)
+19. [Text Emulator](https://github.com/sourceduty/Text_Emulator)
 
 </details>
-<details><summary>
+<details><summary>Python</summary>
 
-### Python
-</summary>
-
-#### General
+General
 
 1. [Utility Station](https://github.com/sourceduty/Utility_Station)
-1. [3D_Model_Imaging](https://github.com/sourceduty/3D_Model_Imaging)
-1. [Music_BPM_Mp3](https://github.com/sourceduty/Music_BPM_Mp3)
-1. [White Noise](https://github.com/sourceduty/White_Noise)
-1. [Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
-1. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
-1. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
-1. [Python_Math](https://github.com/sourceduty/Python_Math)
-1. [Logic Gates](https://github.com/sourceduty/Logic)
-1. [Python Decisions](https://github.com/sourceduty/Python_Decisions)
-1. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
-1. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
-1. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
-1. [Not Sure Slang Meme Thesaurus](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus)
-1. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
-1. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
-1. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
-1. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
-1. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
-1. [Machine_Learning_Template](https://github.com/sourceduty/Machine_Learning_Template)
-1. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
-1. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
-1. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
-1. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
-1. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
-1. [Reduntant](https://github.com/sourceduty/Redundant)
-1. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
+2. [3D_Model_Imaging](https://github.com/sourceduty/3D_Model_Imaging)
+3. [Music_BPM_Mp3](https://github.com/sourceduty/Music_BPM_Mp3)
+4. [White Noise](https://github.com/sourceduty/White_Noise)
+5. [Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
+6. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
+7. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
+8. [Python_Math](https://github.com/sourceduty/Python_Math)
+9. [Logic Gates](https://github.com/sourceduty/Logic)
+10. [Python Decisions](https://github.com/sourceduty/Python_Decisions)
+11. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
+12. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
+13. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
+14. [Not Sure Slang Meme Thesaurus](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus)
+15. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
+16. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
+17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
+18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
+19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
+20. [Machine_Learning_Template](https://github.com/sourceduty/Machine_Learning_Template)
+21. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
+22. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
+23. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
+24. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
+25. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
+26. [Redundant](https://github.com/sourceduty/Redundant)
+27. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
 
 </details>
-<details><summary>
+<details><summary>Arduino & Pi</summary>
 
-### Arduino & Pi
-</summary>
-
-#### Arduino
+Arduino
 
 1. [Soil Analyzer](https://github.com/sourceduty/Soil_Analyzer)
-1. [PowerTime Logger](https://github.com/sourceduty/PowerTime) 
-1. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
-1. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
-1. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
+2. [PowerTime Logger](https://github.com/sourceduty/PowerTime) 
+3. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
+4. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
+5. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 
-#### Raspberry Pi
+Raspberry Pi
 
 1. [Helipad Pi](https://github.com/sourceduty/Helipad_Pi)
-1. [Space_Station_Guide](https://github.com/sourceduty/Space_Station_Guide)
-1. [Insect_Box](https://github.com/sourceduty/Insect_Box)
-1. [Weather_Pi](https://github.com/sourceduty/Weather_Pi)
+2. [Space_Station_Guide](https://github.com/sourceduty/Space_Station_Guide)
+3. [Insect_Box](https://github.com/sourceduty/Insect_Box)
+4. [Weather_Pi](https://github.com/sourceduty/Weather_Pi)
 
 </details>
-<details><summary>
-
-### Windows
-</summary>
+<details><summary>Windows</summary>
 
 1. [Batch Files](https://github.com/sourceduty/Batch)
-1. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
+2. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 
 </details>
-<details><summary>
-
-### Archcraft
-</summary>
+<details><summary>Archcraft</summary>
 
 1. [Archcraft_Python](https://github.com/sourceduty/Archcraft_Python)
-1. [Archcraft_Apps](https://github.com/sourceduty/Archcraft_Apps)
+2. [Archcraft_Apps](https://github.com/sourceduty/Archcraft_Apps)
 
 </details>
-<details><summary>
+<details><summary>Concepts</summary>
 
-### Concepts
-</summary>
-
-#### General
+General
 
 1. [Health](https://github.com/sourceduty/Health)
-1. [Experience Modes](https://github.com/sourceduty/Experience_Modes)
-1. [Pothole Prediction](https://github.com/sourceduty/Pothole_Prediction)
-1. [Video Instructor](https://github.com/sourceduty/Video_Instructor)
-1. [Search_Multiplier](https://github.com/sourceduty/Search_Multiplier)
-1. [Ass_Detection](https://github.com/sourceduty/Ass_Detection)
-1. [Huge_Cursor](https://github.com/sourceduty/Huge_Cursor)
-1. [Video_Speed_Compression](https://github.com/sourceduty/Video_Speed_Compression)
-1. [Battery_Level_Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
-1. [SMS_Web_Search](https://github.com/sourceduty/SMS_Web_Search)
-1. [Web_Download_Queue](https://github.com/sourceduty/Web_Download_Queue)
-1. [Dormant_Music_Files](https://github.com/sourceduty/Dormant_Music_Files)
-1. [Smart_Web_Search](https://github.com/sourceduty/Smart_Web_Search)
-1. [Sequenced_File_Folders](https://github.com/sourceduty/Sequenced_File_Folders)
-1. [Vehicle Route Analysis](https://github.com/sourceduty/Predictive_Route_Analysis)
-1. [Business Blog](https://github.com/sourceduty/Business_Blog) 
-1. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
-1. [Chain Story](https://github.com/sourceduty/Chain_Story)
-1. [Amazon_Premium](https://github.com/sourceduty/Amazon_Premium)
-1. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
-1. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
-1. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
-1. [Multiuser Meeting Locator](https://github.com/sourceduty/Multiuser_Meeting_Locator)
-1. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
-1. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
-1. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
-1. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
-1. [Advent Money App](https://github.com/sourceduty/Advent_Money)
-1. [Recommended_Food](https://github.com/sourceduty/Recommended_Food)
-1. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
-1. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
-1. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
+2. [Experience Modes](https://github.com/sourceduty/Experience_Modes)
+3. [Pothole Prediction](https://github.com/sourceduty/Pothole_Prediction)
+4. [Video Instructor](https://github.com/sourceduty/Video_Instructor)
+5. [Search_Multiplier](https://github.com/sourceduty/Search_Multiplier)
+6. [Ass_Detection](https://github.com/sourceduty/Ass_Detection)
+7. [Huge_Cursor](https://github.com/sourceduty/Huge_Cursor)
+8. [Video_Speed_Compression](https://github.com/sourceduty/Video_Speed_Compression)
+9. [Battery_Level_Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
+10. [SMS_Web_Search](https://github.com/sourceduty/SMS_Web_Search)
+11. [Web_Download_Queue](https://github.com/sourceduty/Web_Download_Queue)
+12. [Dormant_Music_Files](https://github.com/sourceduty/Dormant_Music_Files)
+13. [Smart_Web_Search](https://github.com/sourceduty/Smart_Web_Search)
+14. [Sequenced_File_Folders](https://github.com/sourceduty/Sequenced_File_Folders)
+15. [Vehicle Route Analysis](https://github.com/sourceduty/Predictive_Route_Analysis)
+16. [Business Blog](https://github.com/sourceduty/Business_Blog) 
+17. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
+18. [Chain Story](https://github.com/sourceduty/Chain_Story)
+19. [Amazon_Premium](https://github.com/sourceduty/Amazon_Premium)
+20. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
+21. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
+22. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
+23. [Multiuser Meeting Locator](https://github.com/sourceduty/Multiuser_Meeting_Locator)
+24. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
+25. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
+26. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
+27. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
+28. [Advent Money App](https://github.com/sourceduty/Advent_Money)
+29. [Recommended_Food](https://github.com/sourceduty/Recommended_Food)
+30. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
+31. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
+32. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 
-#### Unlikely
+Unlikely
 
 1. [Unlikely_Concept_Ideas](https://github.com/sourceduty/Unlikely_Concept_Ideas)
 
-#### Peripheral
+Peripheral
 
 1. [Per-key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
-1. [Keybind_Instructions](https://github.com/sourceduty/Keybind_Instructions)
+2. [Keybind_Instructions](https://github.com/sourceduty/Keybind_Instructions)
 
-#### 3D Models
+3D Models
 
 1. [Cults_3D](https://github.com/sourceduty/Cults_3D)
-1. [Cura_Infocard](https://github.com/sourceduty/Cura_Infocard)
+2. [Cura_Infocard](https://github.com/sourceduty/Cura_Infocard)
 
-#### Canada.ca
+Canada.ca
 
 1. [My Canada Account](https://github.com/sourceduty/My_Canada_Account)
-1. [Ontario Parks](https://github.com/sourceduty/Ontario_Parks_Canada)
-1. [Land Palette](https://github.com/sourceduty/Land_Palette)
+2. [Ontario Parks](https://github.com/sourceduty/Ontario_Parks_Canada)
+3. [Land Palette](https://github.com/sourceduty/Land_Palette)
 
-#### ~~Twitter~~ X
+~~Twitter~~ X
 
 1. [Tweet_Marketplace](https://github.com/sourceduty/Tweet_Marketplace)
-1. [Twitter Preschedule](https://github.com/sourceduty/Tweet_Prescheduler)
+2. [Twitter Preschedule](https://github.com/sourceduty/Tweet_Prescheduler)
 
-#### Google
+Google
 
 1. [YouTube_Automation](https://github.com/sourceduty/YouTube_Automation)
-1. [YouTube_Video_Card](https://github.com/sourceduty/YouTube_Video_Card)
-1. [Google_Images_Checkbox](https://github.com/sourceduty/Google_Images_Checkbox)
-1. [YouTube_Totals](https://github.com/sourceduty/YouTube_Totals)
-1. [Google_Earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
-1. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
-1. [Video_Caption_Summary](https://github.com/sourceduty/Video_Caption_Summary)
+2. [YouTube_Video_Card](https://github.com/sourceduty/YouTube_Video_Card)
+3. [Google_Images_Checkbox](https://github.com/sourceduty/Google_Images_Checkbox)
+4. [YouTube_Totals](https://github.com/sourceduty/YouTube_Totals)
+5. [Google_Earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
+6. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
+7. [Video_Caption_Summary](https://github.com/sourceduty/Video_Caption_Summary)
 
 </details>
-<details><summary>
+<details><summary>Games</summary>
 
-### Games
-</summary>
-
-#### Board
+Board
 
 1. [Connect Four](https://github.com/sourceduty/Connect_Four)
 
-#### Retro
+Retro
 
 1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
-1. [Mario Airplane](https://github.com/sourceduty/RetroMarioAirplane)
-1. [Wall Tetris](https://github.com/sourceduty/Wall-Tetris)
-1. [Ocean Invaders](https://github.com/sourceduty/Ocean-Invaders)
-1. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
+2. [Mario Airplane](https://github.com/sourceduty/RetroMarioAirplane)
+3. [Wall Tetris](https://github.com/sourceduty/Wall-Tetris)
+4. [Ocean Invaders](https://github.com/sourceduty/Ocean-Invaders)
+5. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
 
-#### Concepts
+Concepts
 
 1. [Combat Demolition](https://github.com/sourceduty/Combat_Demolition)
-1. [4TRESS](https://github.com/sourceduty/4TRESS)
-1. [Skateboating](https://github.com/sourceduty/Skateboating)
-1. [Rage Wakeboarding](https://github.com/sourceduty/Rage_Wakeboarding)
-1. [Krazy Roo](https://github.com/sourceduty/Krazy_Roo)
-1. [Tactical Grizzly](https://github.com/sourceduty/Tactical_Grizzly)
-1. [Sphere Tanks](https://github.com/sourceduty/Sphere_Tanks)
-1. [MUND-A](https://github.com/sourceduty/MUND-A)
-1. [Source Invaders](https://github.com/sourceduty/Source_Invaders)
-1. [Diddy Kong 3D](https://github.com/sourceduty/Diddy_Kong)
-1. [Sticky Ball](https://github.com/sourceduty/Sticky_Ball)
-1. [Fornite Game Modes](https://github.com/sourceduty/Fortnite_Game_Modes)
-1. [Kick Limit Soccer](https://github.com/sourceduty/Kick_Limit_Soccer_Game)
-1. [Fortnite Storm Shield](https://github.com/sourceduty/Fortnite_Storm_Shield)
-1. [Heart Shooting Gallery](https://github.com/sourceduty/heart-shooting-gallery)
-1. [Fortnite Triple Royale](https://github.com/sourceduty/Fortnite_Triple_Royale)
-1. [SMS Games](https://github.com/sourceduty/SMS_Games)
-1. [Window_Rotation_Game](https://github.com/sourceduty/Window_Rotation_Game)
-1. [Cheat Codes](https://github.com/sourceduty/Cheat_Codes)
+2. [4TRESS](https://github.com/sourceduty/4TRESS)
+3. [Skateboating](https://github.com/sourceduty/Skateboating)
+4. [Rage Wakeboarding](https://github.com/sourceduty/Rage_Wakeboarding)
+5. [Krazy Roo](https://github.com/sourceduty/Krazy_Roo)
+6. [Tactical Grizzly](https://github.com/sourceduty/Tactical_Grizzly)
+7. [Sphere Tanks](https://github.com/sourceduty/Sphere_Tanks)
+8. [MUND-A](https://github.com/sourceduty/MUND-A)
+9. [Source Invaders](https://github.com/sourceduty/Source_Invaders)
+10. [Diddy Kong 3D](https://github.com/sourceduty/Diddy_Kong)
+11. [Sticky Ball](https://github.com/sourceduty/Sticky_Ball)
+12. [Fornite Game Modes](https://github.com/sourceduty/Fortnite_Game_Modes)
+13. [Kick Limit Soccer](https://github.com/sourceduty/Kick_Limit_Soccer_Game)
+14. [Fortnite Storm Shield](https://github.com/sourceduty/Fortnite_Storm_Shield)
+15. [Heart Shooting Gallery](https://github.com/sourceduty/heart-shooting-gallery)
+16. [Fortnite Triple Royale](https://github.com/sourceduty/Fortnite_Triple_Royale)
+17. [SMS Games](https://github.com/sourceduty/SMS_Games)
+18. [Window_Rotation_Game](https://github.com/sourceduty/Window_Rotation_Game)
+19. [Cheat Codes](https://github.com/sourceduty/Cheat_Codes)
 
 </details>
-<details><summary>
-
-### General
-</summary> 
+<details><summary>General</summary> 
 
 1. [Gold](https://github.com/sourceduty/Gold)
-1. [Mars](https://github.com/sourceduty/Mars)
-1. [Internet Content](https://github.com/sourceduty/Internet_Content)
-1. [Drugs](https://github.com/sourceduty/Drugs)
-1. [Plain_Text](https://github.com/sourceduty/Plain_Text)
-1. [Twitter](https://github.com/sourceduty/Twitter)
-1. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
-1. [Conspiracy Theories](https://github.com/sourceduty/Conspiracy_Theory)
-1. [File Metadata Ratio](https://github.com/sourceduty/File_Metadata_Ratio)
-1. [Terrorism](https://github.com/sourceduty/Terrorism)
-1. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
-1. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
-1. [Licenses](https://github.com/sourceduty/Licenses)
-1. [Neuroscience](https://github.com/sourceduty/Neuroscience)
-1. [Process_Theory](https://github.com/sourceduty/Process_Theory)
-1. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
-1. [Asimov_Laws](https://github.com/sourceduty/Asimov_Laws)
-1. [Popular Perfection](https://github.com/sourceduty/Popular_Perfection)
-1. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
-1. [Video Game History](https://github.com/sourceduty/Video_Game_History)
-1. [Starlink](https://github.com/sourceduty/Starlink)
-1. [Garbage](https://github.com/sourceduty/Garbage)
-1. [EV](https://github.com/sourceduty/EV)
-1. [Modernization](https://github.com/sourceduty/Modernization)
-1. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
-   
+2. [Mars](https://github.com/sourceduty/Mars)
+3. [Internet Content](https://github.com/sourceduty/Internet_Content)
+4. [Drugs](https://github.com/sourceduty/Drugs)
+5. [Plain_Text](https://github.com/sourceduty/Plain_Text)
+6. [Twitter](https://github.com/sourceduty/Twitter)
+7. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
+8. [Conspiracy Theories](https://github.com/sourceduty/Conspiracy_Theory)
+9. [File Metadata Ratio](https://github.com/sourceduty/File_Metadata_Ratio)
+10. [Terrorism](https://github.com/sourceduty/Terrorism)
+11. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
+12. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
+13. [Licenses](https://github.com/sourceduty/Licenses)
+14. [Neuroscience](https://github.com/sourceduty/Neuroscience)
+15. [Process_Theory](https://github.com/sourceduty/Process_Theory)
+16. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
+17. [Asimov_Laws](https://github.com/sourceduty/Asimov_Laws)
+18. [Popular Perfection](https://github.com/sourceduty/Popular_Perfection)
+19. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
+20. [Video Game History](https://github.com/sourceduty/Video_Game_History)
+21. [Starlink](https://github.com/sourceduty/Starlink)
+22. [Garbage](https://github.com/sourceduty/Garbage)
+23. [EV](https://github.com/sourceduty/EV)
+24. [Modernization](https://github.com/sourceduty/Modernization)
+25. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+
 </details>
-<details><summary>
-
-### Discussion
-
-</summary>
+<details><summary>Discussion</summary>
 
 1. [Human Culture](https://github.com/sourceduty/Human_Culture)
-1. [Predictions](https://github.com/sourceduty/Predictions)
-1. [Notes](https://github.com/sourceduty/Notes)
-1. [Organize_Emergency](https://github.com/sourceduty/Organize_Emergency)
-1. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
-1. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
+2. [Predictions](https://github.com/sourceduty/Predictions)
+3. [Notes](https://github.com/sourceduty/Notes)
+4. [Organize_Emergency](https://github.com/sourceduty/Organize_Emergency)
+5. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
+6. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
 
 </details>
+
 
 #
 [![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
