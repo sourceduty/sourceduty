@@ -272,7 +272,6 @@ Alex will be persistently maintaining Sourceduty and it's creative works. Source
 1. [EV](https://github.com/sourceduty/EV)
 1. [Modernization](https://github.com/sourceduty/Modernization)
 1. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
-1. [DRPS](https://github.com/sourceduty/DRPS)
    
 </details>
 <details><summary>
