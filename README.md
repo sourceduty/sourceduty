@@ -48,6 +48,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 17. [Narrative Search](https://github.com/sourceduty/Narrative_Search)
 18. [AI Culture](https://github.com/sourceduty/AI_Culture)
 19. [Text Emulator](https://github.com/sourceduty/Text_Emulator)
+20. [Treasure Hunt](https://github.com/sourceduty/Treasure_Hunt)
 
 </details>
 <details><summary>Python</summary>
