@@ -252,6 +252,7 @@ Concepts
 24. [Modernization](https://github.com/sourceduty/Modernization)
 25. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 26. [POV](https://github.com/sourceduty/POV)
+27. [DDR5](https://github.com/sourceduty/DDR5)
 
 </details>
 <details><summary>Discussion</summary>
