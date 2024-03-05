@@ -251,6 +251,8 @@ Concepts
 23. [EV](https://github.com/sourceduty/EV)
 24. [Modernization](https://github.com/sourceduty/Modernization)
 25. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+26. [Movies](https://github.com/sourceduty/Movies)
+27. [POV](https://github.com/sourceduty/POV)
 
 </details>
 <details><summary>Discussion</summary>
@@ -262,7 +264,6 @@ Concepts
 5. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
 6. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
 7. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
-8. [POV](https://github.com/sourceduty/POV)
 
 </details>
 
