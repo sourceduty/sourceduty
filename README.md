@@ -223,6 +223,7 @@ Concepts
 17. [SMS Games](https://github.com/sourceduty/SMS_Games)
 18. [Window_Rotation_Game](https://github.com/sourceduty/Window_Rotation_Game)
 19. [Cheat Codes](https://github.com/sourceduty/Cheat_Codes)
+20. [Quick Thinker](https://github.com/sourceduty/Quick_Thinker)
 
 </details>
 <details><summary>General</summary> 
