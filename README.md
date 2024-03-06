@@ -150,6 +150,7 @@ General
 30. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 31. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 32. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
+33. [Extensions](https://github.com/sourceduty/Extensions)
 
 Unlikely
 
@@ -252,7 +253,6 @@ Concepts
 24. [Modernization](https://github.com/sourceduty/Modernization)
 25. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 26. [POV](https://github.com/sourceduty/POV)
-27. [Extensions](https://github.com/sourceduty/Extensions)
 
 </details>
 <details><summary>Discussion</summary>
