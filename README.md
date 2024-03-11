@@ -50,6 +50,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 19. [Text Emulator](https://github.com/sourceduty/Text_Emulator)
 20. [Treasure Hunt](https://github.com/sourceduty/Treasure_Hunt)
 21. [Cancer](https://github.com/sourceduty/Cancer)
+22. [Python Diagnostics](https://github.com/sourceduty/Python-Diagnostics)
 
 </details>
 <details><summary>Python</summary>
