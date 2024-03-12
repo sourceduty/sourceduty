@@ -51,6 +51,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 20. [Treasure Hunt](https://github.com/sourceduty/Treasure_Hunt)
 21. [Cancer](https://github.com/sourceduty/Cancer)
 22. [Python Diagnostics](https://github.com/sourceduty/Python_Diagnostics)
+23. [Deep_Learning_Simulator](https://github.com/sourceduty/Deep_Learning_Simulator)
 
 </details>
 <details><summary>Python</summary>
