@@ -84,6 +84,7 @@ General
 25. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
 26. [Redundant](https://github.com/sourceduty/Redundant)
 27. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
+28. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
 
 </details>
 <details><summary>Arduino & Pi</summary>
