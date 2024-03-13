@@ -53,6 +53,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 22. [Python Diagnostics](https://github.com/sourceduty/Python_Diagnostics)
 23. [Deep_Learning_Simulator](https://github.com/sourceduty/Deep_Learning_Simulator)
 24. [Calendar Math](https://github.com/sourceduty/Calendar_Math)
+25. [Alien Life](https://github.com/sourceduty/Alien_Life)
 
 </details>
 <details><summary>Python</summary>
