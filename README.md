@@ -56,6 +56,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 23. [Deep_Learning_Simulator](https://github.com/sourceduty/Deep_Learning_Simulator)
 24. [Calendar Math](https://github.com/sourceduty/Calendar_Math)
 25. [Alien Life](https://github.com/sourceduty/Alien_Life)
+26. [Trending Business](https://github.com/sourceduty/Trending_Business)
 
 </details>
 <details><summary>Python</summary>
