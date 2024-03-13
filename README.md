@@ -57,6 +57,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 24. [Calendar Math](https://github.com/sourceduty/Calendar_Math)
 25. [Alien Life](https://github.com/sourceduty/Alien_Life)
 26. [Trending Business](https://github.com/sourceduty/Trending_Business)
+27. [Law Standard](https://github.com/sourceduty/Law_Standard)
 
 </details>
 <details><summary>Python</summary>
