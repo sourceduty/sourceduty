@@ -59,6 +59,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 26. [Trending Business](https://github.com/sourceduty/Trending_Business)
 27. [Law Standard](https://github.com/sourceduty/Law_Standard)
 28. [Photo Location](https://github.com/sourceduty/Photo_Location)
+29. [Inustry Simulator](https://github.com/sourceduty/Industry_Simulator)
 
 </details>
 <details><summary>Python</summary>
