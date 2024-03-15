@@ -268,8 +268,7 @@ Concepts
 24. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 25. [POV](https://github.com/sourceduty/POV)
 26. [Physics](https://github.com/sourceduty/Physics)
-27. [Naked Image](https://github.com/sourceduty/Naked_Image)
-28. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
+27. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
 
 </details>
 <details><summary>Discussion</summary>
