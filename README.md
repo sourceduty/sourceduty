@@ -285,6 +285,7 @@ Concepts
 10. [TV Channels](https://github.com/sourceduty/TV_Channels)
 11. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
 12. [EV Charging](https://github.com/sourceduty/EV_Charging)
+13. [Vending Trust](https://github.com/sourceduty/Vending_Trust)
 
 </details>
 
