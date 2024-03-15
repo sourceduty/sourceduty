@@ -60,6 +60,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 27. [Law Standard](https://github.com/sourceduty/Law_Standard)
 28. [Photo Location](https://github.com/sourceduty/Photo_Location)
 29. [Industry Simulator](https://github.com/sourceduty/Industry_Simulator)
+30. [Android Application](https://github.com/sourceduty/Android_App_Simulator)
 
 </details>
 <details><summary>Python</summary>
