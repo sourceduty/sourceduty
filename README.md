@@ -264,13 +264,12 @@ Concepts
 20. [Video Game History](https://github.com/sourceduty/Video_Game_History)
 21. [Starlink](https://github.com/sourceduty/Starlink)
 22. [Garbage](https://github.com/sourceduty/Garbage)
-23. [EV](https://github.com/sourceduty/EV)
-24. [Modernization](https://github.com/sourceduty/Modernization)
-25. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
-26. [POV](https://github.com/sourceduty/POV)
-27. [Physics](https://github.com/sourceduty/Physics)
-28. [Naked Image](https://github.com/sourceduty/Naked_Image)
-29. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
+23. [Modernization](https://github.com/sourceduty/Modernization)
+24. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+25. [POV](https://github.com/sourceduty/POV)
+26. [Physics](https://github.com/sourceduty/Physics)
+27. [Naked Image](https://github.com/sourceduty/Naked_Image)
+28. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
 
 </details>
 <details><summary>Discussion</summary>
