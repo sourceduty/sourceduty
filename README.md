@@ -67,6 +67,7 @@ Custom GPTs
 27. [Industry Simulator](https://github.com/sourceduty/Industry_Simulator)
 28. [Document Statistics](https://github.com/sourceduty/Document_Statistics)
 29. [House Design](https://github.com/sourceduty/House_Design)
+30. [Car Design](https://github.com/sourceduty/Car_Design)
     
 </details>
 <details><summary>Python</summary>
