@@ -35,7 +35,6 @@ ChatGPT
 
 1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
 2. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
-3. [AI Culture](https://github.com/sourceduty/AI_Culture)
 
 Custom GPTs
    
