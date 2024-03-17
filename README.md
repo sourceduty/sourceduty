@@ -66,6 +66,7 @@ Custom GPTs
 26. [Law Standard](https://github.com/sourceduty/Law_Standard)
 27. [Industry Simulator](https://github.com/sourceduty/Industry_Simulator)
 28. [Document Statistics](https://github.com/sourceduty/Document_Statistics)
+29. [House Design](https://github.com/sourceduty/House_Design)
     
 </details>
 <details><summary>Python</summary>
