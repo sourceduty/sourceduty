@@ -69,6 +69,7 @@ Custom GPTs
 29. [House Design](https://github.com/sourceduty/House_Design)
 30. [Car Design](https://github.com/sourceduty/Car_Design)
 31. [Debunk Science](https://github.com/sourceduty/Debunk_Science)
+32. [Chemist](https://github.com/sourceduty/Chemist)
     
 </details>
 <details><summary>Python</summary>
