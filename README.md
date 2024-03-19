@@ -72,6 +72,7 @@ Custom GPTs
 31. [Debunk Science](https://github.com/sourceduty/Debunk_Science)
 32. [Chemist](https://github.com/sourceduty/Chemist)
 33. [Mood Gauge](https://github.com/sourceduty/Mood_Gauge)
+34. [Stock Market](https://github.com/sourceduty/Stock_Market_AI)
     
 </details>
 <details><summary>Python</summary>
