@@ -70,6 +70,7 @@ Custom GPTs
 30. [Car Design](https://github.com/sourceduty/Car_Design)
 31. [Debunk Science](https://github.com/sourceduty/Debunk_Science)
 32. [Chemist](https://github.com/sourceduty/Chemist)
+33. [Mood Gauge](https://github.com/sourceduty/Mood_Gauge)
     
 </details>
 <details><summary>Python</summary>
