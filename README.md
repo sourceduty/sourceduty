@@ -35,6 +35,7 @@ ChatGPT
 
 1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
 2. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
+3. [Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
 
 Custom GPTs
    
@@ -102,9 +103,8 @@ General
 23. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
 24. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
 25. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
-26. [Redundant](https://github.com/sourceduty/Redundant)
-27. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
-28. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
+26. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
+27. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
 
 </details>
 <details><summary>Arduino & Pi</summary>
