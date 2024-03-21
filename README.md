@@ -36,9 +36,10 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 ChatGPT
 
-1. [ChatGPT](https://github.com/sourceduty/ChatGPT)
-2. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
-3. [Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
+1. [AI](https://github.com/sourceduty/AI)
+2. [ChatGPT](https://github.com/sourceduty/ChatGPT)
+3. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
+4. [Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
 
 Custom GPTs
    
