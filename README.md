@@ -27,7 +27,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 
 Contact and hire Alex from Sourceduty to design and develop for you or your business.
 
-> Alex: *"I'm a professional design and programming expert. I'm happy and motivated to design digital or physical products as efficiently as possible, aiming to both save and generate money. Focusing on refining my concepts to perfection, I distinguish my work by dedicating time and attention to development."*
+> Alex: *"I'm a professional designer and Python programming expert. I'm happy and motivated to design digital or physical products as efficiently as possible, aiming to both save and generate money. Focusing on refining my concepts to perfection, I distinguish my work by dedicating time and attention to development."*
 
 
 ***
