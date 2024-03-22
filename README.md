@@ -254,6 +254,7 @@ Concepts
 19. [Cheat Codes](https://github.com/sourceduty/Cheat_Codes)
 20. [Quick Thinker](https://github.com/sourceduty/Quick_Thinker)
 21. [Grand Theft Auto 8](https://github.com/sourceduty/Grand_Theft_Auto_8)
+22. [Skateless Hockey](https://github.com/sourceduty/Skateless_Hockey)
 
 </details>
 <details><summary>General</summary> 
