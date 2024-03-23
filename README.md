@@ -304,6 +304,7 @@ Concepts
 11. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
 12. [EV Charging](https://github.com/sourceduty/EV_Charging)
 13. [Vending Trust](https://github.com/sourceduty/Vending_Trust)
+14. [Nanuk 904](https://github.com/sourceduty/Nanuk_904)
 
 </details>
 
