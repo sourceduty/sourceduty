@@ -288,6 +288,7 @@ Concepts
 26. [Physics](https://github.com/sourceduty/Physics)
 27. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
 28. [Experiments](https://github.com/sourceduty/Experiments)
+29. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
 
 </details>
 <details><summary>Discussion</summary>
