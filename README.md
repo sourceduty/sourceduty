@@ -77,6 +77,7 @@ Custom GPTs
 32. [Chemist](https://github.com/sourceduty/Chemist)
 33. [Mood Gauge](https://github.com/sourceduty/Mood_Gauge)
 34. [Stock Market](https://github.com/sourceduty/Stock_Market_AI)
+25. [Group Optimizer](https://github.com/sourceduty/Group_Optimizer)
     
 </details>
 <details><summary>Python</summary>
