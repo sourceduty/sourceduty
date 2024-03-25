@@ -78,6 +78,7 @@ Custom GPTs
 33. [Mood Gauge](https://github.com/sourceduty/Mood_Gauge)
 34. [Stock Market](https://github.com/sourceduty/Stock_Market_AI)
 25. [Group Optimizer](https://github.com/sourceduty/Group_Optimizer)
+26. [Apple II Simulator](https://github.com/sourceduty/Apple_II_Simulator)
     
 </details>
 <details><summary>Python</summary>
