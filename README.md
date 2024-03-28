@@ -80,6 +80,7 @@ Custom GPTs
 25. [Group Optimizer](https://github.com/sourceduty/Group_Optimizer)
 26. [Apple II Simulator](https://github.com/sourceduty/Apple_II_Simulator)
 27. [Concept Design](https://github.com/sourceduty/Concept_Design)
+28. [Idea Analyst](https://github.com/sourceduty/Idea_Analyst)
     
 </details>
 <details><summary>Python</summary>
