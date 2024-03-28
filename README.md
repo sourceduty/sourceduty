@@ -79,6 +79,7 @@ Custom GPTs
 34. [Stock Market](https://github.com/sourceduty/Stock_Market_AI)
 25. [Group Optimizer](https://github.com/sourceduty/Group_Optimizer)
 26. [Apple II Simulator](https://github.com/sourceduty/Apple_II_Simulator)
+27. [Concept Design](https://github.com/sourceduty/Concept_Design)
     
 </details>
 <details><summary>Python</summary>
