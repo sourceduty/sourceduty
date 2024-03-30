@@ -117,7 +117,7 @@ General
 28. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
 
 </details>
-<details><summary>Electronics, Arduino & Pi</summary>
+<details><summary>Electronics</summary>
 
 Arduino
 
