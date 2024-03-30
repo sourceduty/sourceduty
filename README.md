@@ -117,7 +117,7 @@ General
 28. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
 
 </details>
-<details><summary>Arduino & Pi</summary>
+<details><summary>Electronics, Arduino & Pi</summary>
 
 Arduino
 
@@ -133,6 +133,10 @@ Raspberry Pi
 2. [Space_Station_Guide](https://github.com/sourceduty/Space_Station_Guide)
 3. [Insect_Box](https://github.com/sourceduty/Insect_Box)
 4. [Weather_Pi](https://github.com/sourceduty/Weather_Pi)
+
+Concept Electronics
+
+1. [Air Bubble Clock](https://github.com/sourceduty/Air_Bubble_Clock)
 
 </details>
 <details><summary>Windows</summary>
