@@ -138,6 +138,7 @@ Concept Electronics
 
 1. [Air Bubble Clock](https://github.com/sourceduty/Air_Bubble_Clock)
 2. [Maglev Desk Speaker](https://github.com/sourceduty/Maglev_Speaker)
+3. [Smart Laundry Basket Hamper](https://github.com/sourceduty/Smart_Laundry_Basket)
 
 </details>
 <details><summary>Windows</summary>
