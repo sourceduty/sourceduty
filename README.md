@@ -269,16 +269,25 @@ Concepts
 </details>
 <details><summary>Science</summary>
 
+Chemistry
 1. [Invasive Fish](https://github.com/sourceduty/Invasive_Fish)
 2. [Gold](https://github.com/sourceduty/Gold)
-3. [Mars](https://github.com/sourceduty/Mars)
-4. [Drugs](https://github.com/sourceduty/Drugs)
-5. [Neuroscience](https://github.com/sourceduty/Neuroscience)
-6. [Garbage](https://github.com/sourceduty/Garbage)
-7. [Experiments](https://github.com/sourceduty/Experiments)
-8. [Physics](https://github.com/sourceduty/Physics)
-9. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
-10. [EV Charging](https://github.com/sourceduty/EV_Charging)
+
+Physics
+1. [Mars](https://github.com/sourceduty/Mars)
+2. [Physics](https://github.com/sourceduty/Physics)
+
+Neuroscience
+1. [Drugs](https://github.com/sourceduty/Drugs)
+2. [Neuroscience](https://github.com/sourceduty/Neuroscience)
+
+Environment
+1. [Garbage](https://github.com/sourceduty/Garbage)
+
+Experimental
+1. [Experiments](https://github.com/sourceduty/Experiments)
+2. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
+3. [EV Charging](https://github.com/sourceduty/EV_Charging)
 
 </details>
 <details><summary>General</summary> 
