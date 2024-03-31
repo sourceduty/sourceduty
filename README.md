@@ -320,6 +320,7 @@ Concepts
 14. [Nanuk 904](https://github.com/sourceduty/Nanuk_904)
 15. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
 16. [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+17. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
 
 </details>
 
