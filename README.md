@@ -272,6 +272,7 @@ Chemistry
 1. [Invasive Fish](https://github.com/sourceduty/Invasive_Fish)
 2. [Gold](https://github.com/sourceduty/Gold)
 3. [Freshwater Weeds](https://github.com/sourceduty/Freshwater_Weeds)
+4. [Airplane Contrails](https://github.com/sourceduty/Airplane_Contrails)
 
 Physics
 1. [Mars](https://github.com/sourceduty/Mars)
