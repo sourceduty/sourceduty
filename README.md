@@ -1,4 +1,3 @@
-<br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://github.com/sourceduty/sourceduty/assets/123030236/7c2417a1-561b-4046-8103-e99da48dcb33" alt="Sourceduty" width="200" height="200">
@@ -7,13 +6,12 @@
   <h3 align="center"><strong>Sourceduty Repository Index</strong></h3>
 
   <p align="center">
-    AI, open-source codes, concept ideas and inspiration.
-    <br />
-    <br />
-    <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr"><strong>OneDrive</strong></a>
+    AI, open-source codes, concept ideas, and inspiration.
+  </p>
+  <p align="center">
+    Sourceduty also shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
   </p>
 </div>
-
 
 ***
 
