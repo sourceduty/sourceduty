@@ -35,6 +35,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 #
 
 <details><summary>AI</summary>
+<br>
 
 ChatGPT
 
@@ -83,9 +84,11 @@ Custom GPTs
 26. [Apple II Simulator](https://github.com/sourceduty/Apple_II_Simulator)
 27. [Concept Design](https://github.com/sourceduty/Concept_Design)
 28. [Idea Analyst](https://github.com/sourceduty/Idea_Analyst)
-    
+
+<br>    
 </details>
 <details><summary>Python</summary>
+<br>
 
 General
 
@@ -118,8 +121,10 @@ General
 27. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
 28. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
 
+<br>
 </details>
 <details><summary>Electronics</summary>
+<br>
 
 Arduino
 
@@ -142,20 +147,26 @@ Concept Electronics
 2. [Maglev Desk Speaker](https://github.com/sourceduty/Maglev_Speaker)
 3. [Smart Laundry Basket Hamper](https://github.com/sourceduty/Smart_Laundry_Basket)
 
+<br>
 </details>
 <details><summary>Windows</summary>
+<br>
 
 1. [Batch Files](https://github.com/sourceduty/Batch)
 2. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 
+<br>
 </details>
 <details><summary>Archcraft</summary>
+<br>
 
 1. [Archcraft_Python](https://github.com/sourceduty/Archcraft_Python)
 2. [Archcraft_Apps](https://github.com/sourceduty/Archcraft_Apps)
 
+<br>
 </details>
 <details><summary>Concepts</summary>
+<br>
 
 General
 
@@ -227,8 +238,10 @@ Google
 6. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
 7. [Video_Caption_Summary](https://github.com/sourceduty/Video_Caption_Summary)
 
+<br>
 </details>
 <details><summary>Games</summary>
+<br>
 
 Board
 
@@ -267,8 +280,10 @@ Concepts
 21. [Grand Theft Auto 8](https://github.com/sourceduty/Grand_Theft_Auto_8)
 22. [Skateless Hockey](https://github.com/sourceduty/Skateless_Hockey)
 
+<br>
 </details>
 <details><summary>Science</summary>
+<br>
 
 Chemistry
 1. [Invasive Fish](https://github.com/sourceduty/Invasive_Fish)
@@ -297,8 +312,10 @@ Experimental
 2. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
 
+<br>
 </details>
-<details><summary>General</summary> 
+<details><summary>General</summary>
+<br>
 
 1. [Internet Content](https://github.com/sourceduty/Internet_Content)
 2. [Plain_Text](https://github.com/sourceduty/Plain_Text)
@@ -325,8 +342,10 @@ Experimental
 23. [3D Printing](https://github.com/sourceduty/3D_Printing)
 24. [Crowdfunding](https://github.com/sourceduty/Crowdfunding)
 
+<br>
 </details>
 <details><summary>Discussion</summary>
+<br>
 
 1. [Human Culture](https://github.com/sourceduty/Human_Culture)
 2. [Predictions](https://github.com/sourceduty/Predictions)
@@ -344,6 +363,7 @@ Experimental
 14. [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
 15. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
 
+<br>
 </details>
 
 #
