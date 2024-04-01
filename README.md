@@ -278,6 +278,7 @@ Chemistry
 5. [Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
 6. [Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
 7. [Interior Paint Accelerant](https://github.com/sourceduty/Interior_Paint_Accelerant)
+8. [Food Inhalant](https://github.com/sourceduty/Food_Inhalant)
 
 Physics
 1. [Mars](https://github.com/sourceduty/Mars)
