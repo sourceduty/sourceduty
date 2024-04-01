@@ -26,6 +26,8 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 ***
 ***
 
+| Sourceduty currently has `215` public repos sorted and listed below into `10` different categories. |
+
 <details><summary>AI</summary>
 
 ChatGPT
