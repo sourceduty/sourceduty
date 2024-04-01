@@ -275,6 +275,7 @@ Chemistry
 4. [Airplane Contrails](https://github.com/sourceduty/Airplane_Contrails)
 5. [Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
 6. [Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
+7. [Interior Paint Accelerant](https://github.com/sourceduty/Interior_Paint_Accelerant)
 
 Physics
 1. [Mars](https://github.com/sourceduty/Mars)
