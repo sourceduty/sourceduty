@@ -24,7 +24,6 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 > Alex: *"I'm a professional designer and Python programming expert. I'm happy and motivated to design digital or physical products as efficiently as possible, aiming to both save and generate money. Focusing on refining my concepts to perfection, I distinguish my work by dedicating time and attention to development."*
 
 ***
-***
 
 | Sourceduty currently has `215` public repos sorted and listed below into `10` different categories. |
 |-|
@@ -340,7 +339,6 @@ Experimental
 
 </details>
 
-***
 ***
 
 #
