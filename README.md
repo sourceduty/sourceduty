@@ -32,6 +32,8 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 	
 </div>
 
+#
+
 <details><summary>AI</summary>
 
 ChatGPT
