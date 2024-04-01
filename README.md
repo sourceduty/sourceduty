@@ -274,6 +274,7 @@ Chemistry
 3. [Freshwater Weeds](https://github.com/sourceduty/Freshwater_Weeds)
 4. [Airplane Contrails](https://github.com/sourceduty/Airplane_Contrails)
 5. [Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
+6. [Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
 
 Physics
 1. [Mars](https://github.com/sourceduty/Mars)
