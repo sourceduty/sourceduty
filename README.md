@@ -11,10 +11,6 @@
     <br />
     <br />
     <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr"><strong>OneDrive</strong></a>
-    -
-    <a href="https://about.me/sourceduty"><strong>Links</strong></a>
-    -
-    <a href="mailto:sourceduty@gmail.com"><strong>Contact</strong></a>
   </p>
 </div>
 
