@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `216` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `217` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -84,6 +84,7 @@ Custom GPTs
 26. [Apple II Simulator](https://github.com/sourceduty/Apple_II_Simulator)
 27. [Concept Design](https://github.com/sourceduty/Concept_Design)
 28. [Idea Analyst](https://github.com/sourceduty/Idea_Analyst)
+29. [Building Plan](https://github.com/sourceduty/Building_Plan)
 
 <br>    
 </details>
