@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `218` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `219` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -43,6 +43,7 @@ ChatGPT
 2. [ChatGPT](https://github.com/sourceduty/ChatGPT)
 3. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
 4. [Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
+5. [ChatGPT Actions](https://github.com/sourceduty/ChatGPT_Actions)
 
 Custom GPTs
    
