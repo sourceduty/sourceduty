@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `217` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `218` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -307,6 +307,7 @@ Health
 
 Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
+2. [Energy](https://github.com/sourceduty/Energy)
 
 Experimental
 1. [Experiments](https://github.com/sourceduty/Experiments)
