@@ -378,3 +378,5 @@ Experimental
 #
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourceduty)
 #
+![Sourceduty's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sourceduty&theme=blue-green)
+***
