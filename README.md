@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `223` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `224` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -353,6 +353,7 @@ Experimental
 21. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
 22. [3D Printing](https://github.com/sourceduty/3D_Printing)
 23. [Crowdfunding](https://github.com/sourceduty/Crowdfunding)
+24. [Quantum](https://github.com/sourceduty/Quantum)
 
 <br>
 </details>
