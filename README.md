@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `222` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `223` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -86,6 +86,7 @@ Custom GPTs
 27. [Concept Design](https://github.com/sourceduty/Concept_Design)
 28. [Idea Analyst](https://github.com/sourceduty/Idea_Analyst)
 29. [Building Plan](https://github.com/sourceduty/Building_Plan)
+30. [Quantum Simulator](https://github.com/sourceduty/Quantum_Simulator)
 
 Artificial Superintelligence
 
