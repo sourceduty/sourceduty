@@ -310,7 +310,6 @@ Chemistry
 
 Physics
 1. [Mars](https://github.com/sourceduty/Mars)
-2. [Physics](https://github.com/sourceduty/Physics)
 3. [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
 
 Health
@@ -335,6 +334,7 @@ Experimental
 2. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
 4. [Quantum](https://github.com/sourceduty/Quantum)
+5. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 
 <br>
 </details>
