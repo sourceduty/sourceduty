@@ -360,7 +360,6 @@ Experimental
 16. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
 17. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
 18. [3D Printing](https://github.com/sourceduty/3D_Printing)
-19. [Crowdfunding](https://github.com/sourceduty/Crowdfunding)
 
 <br>
 </details>
