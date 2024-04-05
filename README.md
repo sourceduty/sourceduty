@@ -391,3 +391,5 @@ Experimental
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sourceduty&theme=dark&card_width=1000)](https://git.io/streak-stats)
 ***
+
+![Badges](https://github.com/sourceduty/sourceduty/assets/123030236/065ca042-aa04-4ccb-bcca-78cbd60cfa38)
