@@ -380,6 +380,7 @@ Experimental
 11. [Nanuk 904](https://github.com/sourceduty/Nanuk_904)
 12. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
 13. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
+14. [War Technology](https://github.com/sourceduty/War_Technology)
 
 <br>
 </details>
