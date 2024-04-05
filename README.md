@@ -87,6 +87,7 @@ Custom GPTs
 28. [Idea Analyst](https://github.com/sourceduty/Idea_Analyst)
 29. [Building Plan](https://github.com/sourceduty/Building_Plan)
 30. [Quantum Simulator](https://github.com/sourceduty/Quantum_Simulator)
+31. [Road Optimizer](https://github.com/sourceduty/Road_Optimizer)
 
 Artificial Superintelligence
 
