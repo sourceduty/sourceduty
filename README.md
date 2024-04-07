@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `227` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `228` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -94,9 +94,10 @@ Artificial Superintelligence
 
 1. [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
 
-Copyright
+General
 
 1. [Copyright AI](https://github.com/sourceduty/Copyright_AI)
+2. [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
 
 <br>    
 </details>
