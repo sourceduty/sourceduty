@@ -44,6 +44,8 @@ ChatGPT
 3. [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
 4. [Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
 5. [ChatGPT Actions](https://github.com/sourceduty/ChatGPT_Actions)
+6. [Copyright AI](https://github.com/sourceduty/Copyright_AI)
+7. [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
 
 Custom GPTs
    
@@ -94,10 +96,6 @@ Artificial Superintelligence
 
 1. [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
 
-General
-
-1. [Copyright AI](https://github.com/sourceduty/Copyright_AI)
-2. [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
 
 <br>    
 </details>
