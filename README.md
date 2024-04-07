@@ -329,6 +329,7 @@ Social
 4. [Conspiracy Theories](https://github.com/sourceduty/Conspiracy_Theory)
 5. [Internet Content](https://github.com/sourceduty/Internet_Content)
 6. [Popular Perfection](https://github.com/sourceduty/Popular_Perfection)
+7. [Intelligence Information](https://github.com/sourceduty/Intelligence_Information)
 
 Experimental
 1. [Experiments](https://github.com/sourceduty/Experiments)
