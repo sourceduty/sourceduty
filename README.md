@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `229` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `228` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -369,7 +369,7 @@ Experimental
 <br>
 
 1. [Predictions](https://github.com/sourceduty/Predictions)
-2. [Notes](https://github.com/sourceduty/Notes)
+2. [Luxury Cars](https://github.com/sourceduty/Luxury_Cars)
 3. [Organize_Emergency](https://github.com/sourceduty/Organize_Emergency)
 4. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
 5. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
@@ -382,7 +382,6 @@ Experimental
 12. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
 13. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
 14. [War Technology](https://github.com/sourceduty/War_Technology)
-15. [Luxury Cars](https://github.com/sourceduty/Luxury_Cars)
 
 <br>
 </details>
