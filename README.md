@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `235` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `236` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -93,6 +93,7 @@ Custom GPTs
 32. [PCB Architect](https://github.com/sourceduty/PCB_Architect)
 33. [Activity Balancer](https://github.com/sourceduty/Activity_Balancer)
 34. [Food Balancer](https://github.com/sourceduty/Food_Balancer)
+35. [Budget Balancer](https://github.com/sourceduty/Budget_Balancer)
 
 Artificial Superintelligence
 
