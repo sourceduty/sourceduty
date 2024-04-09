@@ -90,7 +90,7 @@ Custom GPTs
 29. [Building Plan](https://github.com/sourceduty/Building_Plan)
 30. [Quantum Simulator](https://github.com/sourceduty/Quantum_Simulator)
 31. [Road Optimizer](https://github.com/sourceduty/Road_Optimizer)
-32. [PCB Architect](https://github.com/sourceduty/PCB_Architect)\
+32. [PCB Architect](https://github.com/sourceduty/PCB_Architect)
 33. [Activity Blancer](https://github.com/sourceduty/Activity_Balancer)
 
 Artificial Superintelligence
