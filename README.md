@@ -95,7 +95,7 @@ Custom GPTs
 34. [Food Balancer](https://github.com/sourceduty/Food_Balancer)
 35. [Budget Balancer](https://github.com/sourceduty/Budget_Balancer)
 36. [Search_Multiplier](https://github.com/sourceduty/Search_Multiplier)
-37. [Creative Decau](https://github.com/sourceduty/Creative_Decay)
+37. [Creative Decay](https://github.com/sourceduty/Creative_Decay)
 
 Artificial Superintelligence
 
