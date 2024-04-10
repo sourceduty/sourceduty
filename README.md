@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `236` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `237` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -95,6 +95,7 @@ Custom GPTs
 34. [Food Balancer](https://github.com/sourceduty/Food_Balancer)
 35. [Budget Balancer](https://github.com/sourceduty/Budget_Balancer)
 36. [Search_Multiplier](https://github.com/sourceduty/Search_Multiplier)
+37. [Creative Decau](https://github.com/sourceduty/Creative_Decay)
 
 Artificial Superintelligence
 
