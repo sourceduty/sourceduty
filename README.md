@@ -96,6 +96,7 @@ Custom GPTs
 35. [Budget Balancer](https://github.com/sourceduty/Budget_Balancer)
 36. [Search_Multiplier](https://github.com/sourceduty/Search_Multiplier)
 37. [Creative Decay](https://github.com/sourceduty/Creative_Decay)
+38. [Not Sure Slang Meme Thesaurus](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus)
 
 Artificial Superintelligence
 
@@ -122,21 +123,20 @@ General
 11. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
 12. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 13. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
-14. [Not Sure Slang Meme Thesaurus](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus)
-15. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
-16. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
-17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
-18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
-19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
-20. [Machine_Learning_Template](https://github.com/sourceduty/Machine_Learning_Template)
-21. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
-22. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
-23. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
-24. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
-25. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
-26. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
-27. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
-28. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
+14. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
+15. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
+16. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
+17. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
+18. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
+19. [Machine_Learning_Template](https://github.com/sourceduty/Machine_Learning_Template)
+20. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
+21. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
+22. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
+23. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
+24. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
+25. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
+26. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
+27. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
 
 <br>
 </details>
