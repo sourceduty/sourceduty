@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `238` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `239` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -311,6 +311,7 @@ Chemistry
 7. [Interior Paint Accelerant](https://github.com/sourceduty/Interior_Paint_Accelerant)
 8. [Food Inhalant](https://github.com/sourceduty/Food_Inhalant)
 9. [Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
+10. [Golf Balls](https://github.com/sourceduty/Golf_Balls)
 
 Physics
 1. [Mars](https://github.com/sourceduty/Mars)
