@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `239` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `240` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -334,6 +334,7 @@ Social
 5. [Internet Content](https://github.com/sourceduty/Internet_Content)
 6. [Popular Perfection](https://github.com/sourceduty/Popular_Perfection)
 7. [Intelligence Information](https://github.com/sourceduty/Intelligence_Information)
+8. [International Compatibility](https://github.com/sourceduty/International_Compatibility)
 
 Experimental
 1. [Experiments](https://github.com/sourceduty/Experiments)
