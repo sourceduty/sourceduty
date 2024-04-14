@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `240` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `239` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -341,7 +341,6 @@ Experimental
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
 4. [Quantum](https://github.com/sourceduty/Quantum)
 5. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
-6. [Crookes Radiometer](https://github.com/sourceduty/Crookes_Radiometer)
 
 <br>
 </details>
