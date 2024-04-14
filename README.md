@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `240` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `241` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -315,7 +315,8 @@ Chemistry
 
 Physics
 1. [Mars](https://github.com/sourceduty/Mars)
-3. [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+2. [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+3. [Space Agencies](https://github.com/sourceduty/Space_Agencies)
 
 Health
 1. [Drugs](https://github.com/sourceduty/Drugs)
