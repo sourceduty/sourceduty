@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `241` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `240` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -56,7 +56,7 @@ Custom GPTs
 5. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
 6. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
 7. [Personality](https://github.com/sourceduty/Personality)
-8. [Home Builder](https://github.com/sourceduty/Home_Depot_Assistant)
+8. [Process_Diagram](https://github.com/sourceduty/Process_Diagram)
 9. [Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
 10. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
 11. [Connect X's](https://github.com/sourceduty/Connect-Xs)
@@ -100,7 +100,6 @@ Custom GPTs
 39. [Chain Story](https://github.com/sourceduty/Chain_Story)
 40. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
 41. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
-42. [Process_Diagram](https://github.com/sourceduty/Process_Diagram)
 
 Artificial Superintelligence
 
