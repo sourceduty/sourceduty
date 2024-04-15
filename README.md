@@ -100,7 +100,7 @@ Custom GPTs
 39. [Chain Story](https://github.com/sourceduty/Chain_Story)
 40. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
 41. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
-42. [Process_Diagram](https://github.com/sourceduty/Process_Theory)
+42. [Process_Diagram](https://github.com/sourceduty/Process_Diagram)
 
 Artificial Superintelligence
 
