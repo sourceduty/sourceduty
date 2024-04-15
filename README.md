@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `240` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `241` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
