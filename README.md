@@ -100,6 +100,7 @@ Custom GPTs
 39. [Chain Story](https://github.com/sourceduty/Chain_Story)
 40. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
 41. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
+42. [Process_Diagram](https://github.com/sourceduty/Process_Theory)
 
 Artificial Superintelligence
 
@@ -357,19 +358,18 @@ Experimental
 5. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
 6. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
 7. [Licenses](https://github.com/sourceduty/Licenses)
-8. [Process_Theory](https://github.com/sourceduty/Process_Theory)
-9. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
-10. [Plain_Text](https://github.com/sourceduty/Plain_Text)
-11. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
-12. [Video Game History](https://github.com/sourceduty/Video_Game_History)
-13. [Starlink](https://github.com/sourceduty/Starlink)
-14. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
-15. [POV](https://github.com/sourceduty/POV)
-16. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
-17. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
-18. [3D Printing](https://github.com/sourceduty/3D_Printing)
-19. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
-20. [Public Work](https://github.com/sourceduty/Public_Work)
+8. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
+9. [Plain_Text](https://github.com/sourceduty/Plain_Text)
+10. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
+11. [Video Game History](https://github.com/sourceduty/Video_Game_History)
+12. [Starlink](https://github.com/sourceduty/Starlink)
+13. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+14. [POV](https://github.com/sourceduty/POV)
+15. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
+16. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
+17. [3D Printing](https://github.com/sourceduty/3D_Printing)
+18. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+19. [Public Work](https://github.com/sourceduty/Public_Work)
 
 <br>
 </details>
