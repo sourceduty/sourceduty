@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `244` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `245` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -101,6 +101,7 @@ Custom GPTs
 40. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
 41. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
 42. [Law Document](https://github.com/sourceduty/Law_Document)
+43. [Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
 
 Artificial Superintelligence
 
