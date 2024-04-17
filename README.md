@@ -346,7 +346,10 @@ Experimental
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
 4. [Quantum](https://github.com/sourceduty/Quantum)
 5. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
-6. [Data Projects](https://github.com/sourceduty/Data_Projects)
+
+Data
+1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
+2. [Data Projects](https://github.com/sourceduty/Data_Projects)
 
 <br>
 </details>
@@ -373,7 +376,6 @@ Experimental
 17. [3D Printing](https://github.com/sourceduty/3D_Printing)
 18. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 19. [Public Work](https://github.com/sourceduty/Public_Work)
-20. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
 
 <br>
 </details>
