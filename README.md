@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `247` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `248` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -316,10 +316,12 @@ Chemistry
 9. [Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
 10. [Golf Balls](https://github.com/sourceduty/Golf_Balls)
 
-Physics
-1. [Mars](https://github.com/sourceduty/Mars)
-2. [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
-3. [Space Agencies](https://github.com/sourceduty/Space_Agencies)
+Space & Physics
+1. [Space](https://github.com/sourceduty/Space)
+2. [Mars](https://github.com/sourceduty/Mars)
+3. [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+4. [Space Agencies](https://github.com/sourceduty/Space_Agencies)
+5. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 
 Health
 1. [Drugs](https://github.com/sourceduty/Drugs)
@@ -345,7 +347,6 @@ Experimental
 2. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
 4. [Quantum](https://github.com/sourceduty/Quantum)
-5. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
