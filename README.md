@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `249` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `250` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -103,6 +103,7 @@ Custom GPTs
 42. [Law Document](https://github.com/sourceduty/Law_Document)
 43. [Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
 44. [Global Problems](https://github.com/sourceduty/Global_Problems)
+45. [Factory Simulator](https://github.com/sourceduty/Factory_Simulator)
 
 Artificial Superintelligence
 
