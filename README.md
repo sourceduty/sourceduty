@@ -68,7 +68,7 @@ Custom GPTs
 17. [Photo Location](https://github.com/sourceduty/Photo_Location)
 18. [Text Emulator](https://github.com/sourceduty/Text_Emulator)
 19. [Treasure Hunt](https://github.com/sourceduty/Treasure_Hunt)
-20. [Cancer](https://github.com/sourceduty/Cancer)
+20. [Factory Simulator](https://github.com/sourceduty/Factory_Simulator)
 21. [Python Diagnostics](https://github.com/sourceduty/Python_Diagnostics)
 22. [Deep_Learning_Simulator](https://github.com/sourceduty/Deep_Learning_Simulator)
 23. [Calendar Math](https://github.com/sourceduty/Calendar_Math)
@@ -103,7 +103,6 @@ Custom GPTs
 42. [Law Document](https://github.com/sourceduty/Law_Document)
 43. [Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
 44. [Global Problems](https://github.com/sourceduty/Global_Problems)
-45. [Factory Simulator](https://github.com/sourceduty/Factory_Simulator)
 
 Artificial Superintelligence
 
@@ -328,6 +327,7 @@ Health
 1. [Drugs](https://github.com/sourceduty/Drugs)
 2. [Neuroscience](https://github.com/sourceduty/Neuroscience)
 3. [Health](https://github.com/sourceduty/Health)
+4. [Cancer](https://github.com/sourceduty/Cancer)
 
 Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
