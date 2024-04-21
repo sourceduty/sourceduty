@@ -125,7 +125,7 @@ General
 7. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 8. [Python_Math](https://github.com/sourceduty/Python_Math)
 9. [Logic Gates](https://github.com/sourceduty/Logic)
-10. [Python Decisions](https://github.com/sourceduty/Python_Decisions)
+10. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
 11. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
 12. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 13. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
@@ -142,7 +142,6 @@ General
 24. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
 25. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
 26. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
-27. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
 
 <br>
 </details>
@@ -348,6 +347,7 @@ Experimental
 2. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
 4. [Quantum](https://github.com/sourceduty/Quantum)
+5. [Decisions](https://github.com/sourceduty/Decisions)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
