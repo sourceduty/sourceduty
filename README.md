@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `251` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `252` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -379,6 +379,7 @@ Data
 17. [3D Printing](https://github.com/sourceduty/3D_Printing)
 18. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 19. [Public Work](https://github.com/sourceduty/Public_Work)
+20. [Sudoku Challenge](https://github.com/sourceduty/Sudoku_Challenge)
 
 <br>
 </details>
