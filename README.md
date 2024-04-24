@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `252` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `253` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -353,6 +353,9 @@ Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
 2. [Data Projects](https://github.com/sourceduty/Data_Projects)
 3. [Currencies](https://github.com/sourceduty/Currencies)
+
+General
+1. [Science](https://github.com/sourceduty/Science)
 
 <br>
 </details>
