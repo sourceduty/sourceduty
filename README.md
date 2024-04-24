@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `254` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `255` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -105,9 +105,10 @@ Custom GPTs
 44. [Global Problems](https://github.com/sourceduty/Global_Problems)
 45. [Fake Information Purifier](https://github.com/sourceduty/Fake_Information_Purifier)
 
-Artificial Superintelligence
+General
 
 1. [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
+2. [National Commander](https://github.com/sourceduty/National_Commander)
 
 
 <br>    
