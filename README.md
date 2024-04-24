@@ -414,7 +414,7 @@ General
 </details>
 
 #
-![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourceduty&theme=default" width="1000">
 
