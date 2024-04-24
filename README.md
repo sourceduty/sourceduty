@@ -414,11 +414,12 @@ General
 </details>
 
 #
-[![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourceduty&theme=default" width="1000">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sourceduty&theme=dark&card_width=1000)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sourceduty&theme=dark&card_width=1000)
+
 ***
 
 ![Badges](https://github.com/sourceduty/sourceduty/assets/123030236/f65f6673-6020-4d10-9595-63562bbd521a)
