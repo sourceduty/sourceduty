@@ -55,7 +55,7 @@ Custom GPTs
 4. [Custom GPT Collab](https://github.com/sourceduty/Custom_GPT_Collab)
 5. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
 6. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
-7. [Personality](https://github.com/sourceduty/Personality)
+7. [Personality Template](https://github.com/sourceduty/Personality_Template)
 8. [Process_Diagram](https://github.com/sourceduty/Process_Diagram)
 9. [Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
 10. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
