@@ -102,7 +102,7 @@ Custom GPTs
 41. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
 42. [Law Document](https://github.com/sourceduty/Law_Document)
 43. [Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
-44. [AI_Group_Chat_Adviser](https://github.com/sourceduty/AI_Group_Chat_Adviser)
+44. [AI Group Chat Adviser](https://github.com/sourceduty/AI_Group_Chat_Adviser)
 
 General
 
