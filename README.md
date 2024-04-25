@@ -61,7 +61,7 @@ Custom GPTs
 10. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
 11. [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
 12. [Fake Information Purifier](https://github.com/sourceduty/Fake_Information_Purifier)
-13. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
+13. [Global Problems](https://github.com/sourceduty/Global_Problems)
 14. [Event Model Simulator](https://github.com/sourceduty/Event_Model_Simulator)
 15. [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 16. [Narrative Search](https://github.com/sourceduty/Narrative_Search)
@@ -102,7 +102,6 @@ Custom GPTs
 41. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
 42. [Law Document](https://github.com/sourceduty/Law_Document)
 43. [Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
-44. [Global Problems](https://github.com/sourceduty/Global_Problems)
 
 General
 
