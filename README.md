@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `257` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `258` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -106,6 +106,7 @@ Custom GPTs
 45. [Fake Information Purifier](https://github.com/sourceduty/Fake_Information_Purifier)
 46. [Data Cleaner](https://github.com/sourceduty/Data_Cleaner)
 47. [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
+48. [Event Model Simulator](https://github.com/sourceduty/Event_Model_Simulator)
 
 General
 
