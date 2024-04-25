@@ -59,11 +59,11 @@ Custom GPTs
 8. [Process_Diagram](https://github.com/sourceduty/Process_Diagram)
 9. [Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
 10. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
-11. [Connect X's](https://github.com/sourceduty/Connect-Xs)
-12. [Hacked Image](https://github.com/sourceduty/Hacked_Image)
+11. [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
+12. [Fake Information Purifier](https://github.com/sourceduty/Fake_Information_Purifier)
 13. [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
-14. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
-15. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
+14. [Event Model Simulator](https://github.com/sourceduty/Event_Model_Simulator)
+15. [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 16. [Narrative Search](https://github.com/sourceduty/Narrative_Search)
 17. [Photo Location](https://github.com/sourceduty/Photo_Location)
 18. [Text Emulator](https://github.com/sourceduty/Text_Emulator)
@@ -103,15 +103,15 @@ Custom GPTs
 42. [Law Document](https://github.com/sourceduty/Law_Document)
 43. [Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
 44. [Global Problems](https://github.com/sourceduty/Global_Problems)
-45. [Fake Information Purifier](https://github.com/sourceduty/Fake_Information_Purifier)
-46. [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
-47. [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
-48. [Event Model Simulator](https://github.com/sourceduty/Event_Model_Simulator)
 
 General
 
 1. [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
 2. [National Commander](https://github.com/sourceduty/National_Commander)
+3. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
+4. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
+5. [Hacked Image](https://github.com/sourceduty/Hacked_Image)
+6. [Connect X's](https://github.com/sourceduty/Connect-Xs)
 
 
 <br>    
