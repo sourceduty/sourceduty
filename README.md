@@ -104,7 +104,7 @@ Custom GPTs
 43. [Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
 44. [Global Problems](https://github.com/sourceduty/Global_Problems)
 45. [Fake Information Purifier](https://github.com/sourceduty/Fake_Information_Purifier)
-46. [Data Cleaner](https://github.com/sourceduty/Data_Cleaner)
+46. [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 47. [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
 48. [Event Model Simulator](https://github.com/sourceduty/Event_Model_Simulator)
 
