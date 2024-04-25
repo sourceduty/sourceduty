@@ -102,15 +102,15 @@ Custom GPTs
 41. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
 42. [Law Document](https://github.com/sourceduty/Law_Document)
 43. [Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
+44. [AI_Group_Chat_Adviser](https://github.com/sourceduty/AI_Group_Chat_Adviser)
 
 General
 
 1. [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
 2. [National Commander](https://github.com/sourceduty/National_Commander)
-3. [AI_Group-Chat-Adviser](https://github.com/sourceduty/AI_Group-Chat-Adviser)
-4. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
-5. [Hacked Image](https://github.com/sourceduty/Hacked_Image)
-6. [Connect X's](https://github.com/sourceduty/Connect-Xs)
+3. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
+4. [Hacked Image](https://github.com/sourceduty/Hacked_Image)
+5. [Connect X's](https://github.com/sourceduty/Connect-Xs)
 
 
 <br>    
