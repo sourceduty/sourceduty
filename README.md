@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `257` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `258` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -411,6 +411,7 @@ General
 16. [Windows](https://github.com/sourceduty/Windows)
 17. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
 18. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
+19. [Ancient Egypt](https://github.com/sourceduty/Ancient_Egypt)
 
 <br>
 </details>
