@@ -400,7 +400,7 @@ General
 2. [Luxury Cars](https://github.com/sourceduty/Luxury_Cars)
 3. [Organize_Emergency](https://github.com/sourceduty/Organize_Emergency)
 4. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
-5. [Sourceduty Repositories](https://github.com/sourceduty/sourceduty/discussions/1)
+5. [Ancient Egypt](https://github.com/sourceduty/Ancient_Egypt)
 6. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
 7. [Electronic Preservation](https://github.com/sourceduty/Electronic_Preservation)
 8. [WW2](https://github.com/sourceduty/WW2)
@@ -414,7 +414,7 @@ General
 16. [Windows](https://github.com/sourceduty/Windows)
 17. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
 18. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
-19. [Ancient Egypt](https://github.com/sourceduty/Ancient_Egypt)
+
 
 <br>
 </details>
