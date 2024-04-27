@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `261` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `262` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -106,6 +106,7 @@ Custom GPTs
 45. [Optimal Combination](https://github.com/sourceduty/Optimal_Combination)
 46. [Areospace Simulator](https://github.com/sourceduty/Aerospace_Simulator)
 47. [Image Caption](https://github.com/sourceduty/Image_Caption)
+48. [Business Marketizer](https://github.com/sourceduty/Business_Marketizer)
 
 General
 
