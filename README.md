@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `262` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `263` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -116,6 +116,7 @@ General
 3. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 4. [Hacked Image](https://github.com/sourceduty/Hacked_Image)
 5. [Connect X's](https://github.com/sourceduty/Connect-Xs)
+6. [Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment)
 
 
 <br>    
