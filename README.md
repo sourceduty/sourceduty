@@ -122,7 +122,6 @@ General
 5. [Connect X's](https://github.com/sourceduty/Connect-Xs)
 6. [Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment)
 
-
 <br>    
 </details>
 <details><summary>Python</summary>
@@ -377,7 +376,6 @@ General
 <details><summary>General</summary>
 <br>
 
-
 1. [GitHub](https://github.com/sourceduty/GitHub)
 2. [Twitter](https://github.com/sourceduty/Twitter)
 3. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
@@ -422,7 +420,6 @@ General
 16. [Windows](https://github.com/sourceduty/Windows)
 17. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
 18. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
-
 
 <br>
 </details>
