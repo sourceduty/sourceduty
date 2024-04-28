@@ -46,6 +46,7 @@ ChatGPT
 5. [ChatGPT Actions](https://github.com/sourceduty/ChatGPT_Actions)
 6. [Copyright AI](https://github.com/sourceduty/Copyright_AI)
 7. [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
+8. [AI Simulation](https://github.com/sourceduty/AI_Simulation)
 
 Custom GPTs
    
