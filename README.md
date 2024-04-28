@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `265` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `266` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -111,6 +111,7 @@ Custom GPTs
 59. [Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
 60. [Trading Bot Simulator](https://github.com/sourceduty/Trading_Bot_Simulator)
 61. [Professionalize](https://github.com/sourceduty/Professionalize)
+62. [Experiment Generator](https://github.com/sourceduty/Experiment_Generator)
 
 General
 
