@@ -120,6 +120,7 @@ Custom GPTs
 68. [Business Research](https://github.com/sourceduty/Business_Research)
 69. [Playlist Generator](https://github.com/sourceduty/Playlist_Generator)
 70. [Thinkability](https://github.com/sourceduty/Thinkability)
+71. [Music Mixology](https://github.com/sourceduty/Music_Mixology)
 
 General
 
