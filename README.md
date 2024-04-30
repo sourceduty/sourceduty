@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `270` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `271` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -115,6 +115,7 @@ Custom GPTs
 63. [Software Intelligence](https://github.com/sourceduty/Software_Intelligence)
 64. [Gift Radar](https://github.com/sourceduty/Gift_Radar)
 65. [Professional Value](https://github.com/sourceduty/Professional_Value)
+66. [Job Generator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 
 General
 
