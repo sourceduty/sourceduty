@@ -97,7 +97,7 @@ Custom GPTs
 45. [Budget Balancer](https://github.com/sourceduty/Budget_Balancer)
 46. [Search_Multiplier](https://github.com/sourceduty/Search_Multiplier)
 47. [Creative Decay](https://github.com/sourceduty/Creative_Decay)
-48. [Not Sure Slang Meme Thesaurus](https://github.com/sourceduty/Not_Sure_Slang_Meme_Thesaurus)
+48. [Not Sure Meme](https://github.com/sourceduty/Not_Sure_Meme)
 49. [Chain Story](https://github.com/sourceduty/Chain_Story)
 50. [Brand Footprint](https://github.com/sourceduty/Digital_Brand_Footprint)
 51. [Repo_Card_Generator](https://github.com/sourceduty/Repo_Card_Generator)
