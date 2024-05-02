@@ -346,7 +346,7 @@ Space & Physics
 3. [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
 4. [Space Agencies](https://github.com/sourceduty/Space_Agencies)
 5. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
-6. [Recycle Satellites](https://github.com/sourceduty/Recycle_Satellites)
+6. [Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
 
 Health & Biology
 1. [Drugs](https://github.com/sourceduty/Drugs)
