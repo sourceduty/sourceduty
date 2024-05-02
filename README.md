@@ -121,7 +121,7 @@ Custom GPTs
 69. [Playlist Generator](https://github.com/sourceduty/Playlist_Generator)
 70. [Thinkability](https://github.com/sourceduty/Thinkability)
 71. [Music Mixology](https://github.com/sourceduty/Music_Mixology)
-72. [3D Marketability](https://github.com/sourceduty/3D_Marketability)
+72. [Design Marketability](https://github.com/sourceduty/Design_Marketability)
 73. [Business Profile](https://github.com/sourceduty/Business_Profile)
 74. [Math Model Simulator](https://github.com/sourceduty/Math_Model_Simulator)
 
