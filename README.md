@@ -434,6 +434,7 @@ General
 16. [Windows](https://github.com/sourceduty/Windows)
 17. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
 18. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
+19. [Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
 
 <br>
 </details>
