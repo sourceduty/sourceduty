@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `277` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `278` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -122,6 +122,7 @@ Custom GPTs
 70. [Thinkability](https://github.com/sourceduty/Thinkability)
 71. [Music Mixology](https://github.com/sourceduty/Music_Mixology)
 72. [3D Marketability](https://github.com/sourceduty/3D_Marketability)
+73. [Business Profile](https://github.com/sourceduty/Business_Profile)
 
 General
 
