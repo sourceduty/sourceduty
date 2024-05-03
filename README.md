@@ -129,6 +129,7 @@ Custom GPTs
 77. [Architecture Diagram](https://github.com/sourceduty/Architecture_Diagram)
 78. [Public Simulator](https://github.com/sourceduty/Public_Simulator)
 79. [Business Simulator](https://github.com/sourceduty/Business_Automation)
+80. [Process Automation](https://github.com/sourceduty/Process_Automation)
 
 General
 
