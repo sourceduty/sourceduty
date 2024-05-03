@@ -124,6 +124,7 @@ Custom GPTs
 72. [Design Marketability](https://github.com/sourceduty/Design_Marketability)
 73. [Business Profile](https://github.com/sourceduty/Business_Profile)
 74. [Math Model Simulator](https://github.com/sourceduty/Math_Model_Simulator)
+75. [Plain_Text](https://github.com/sourceduty/Plain_Text)
 
 General
 
@@ -398,7 +399,7 @@ General
 6. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
 7. [Licenses](https://github.com/sourceduty/Licenses)
 8. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
-9. [Plain_Text](https://github.com/sourceduty/Plain_Text)
+9. [Automated Business](https://github.com/sourceduty/Automated_Business)
 10. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
 11. [Video Game History](https://github.com/sourceduty/Video_Game_History)
 12. [Starlink](https://github.com/sourceduty/Starlink)
@@ -410,7 +411,7 @@ General
 18. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 19. [Public Work](https://github.com/sourceduty/Public_Work)
 20. [Sudoku Challenge](https://github.com/sourceduty/Sudoku_Challenge)
-21. [Automated Business](https://github.com/sourceduty/Automated_Business)
+    
 
 <br>
 </details>
