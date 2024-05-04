@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `285` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `286` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -131,6 +131,7 @@ Custom GPTs
 79. [Business Simulator](https://github.com/sourceduty/Business_Automation)
 80. [Process Automation](https://github.com/sourceduty/Process_Automation)
 81. [Decision Automation](https://github.com/sourceduty/Decision_Automation)
+82. [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 
 General
 
