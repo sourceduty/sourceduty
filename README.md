@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `293` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `294` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -133,6 +133,7 @@ Custom GPTs
 81. [Decision Automation](https://github.com/sourceduty/Decision_Automation)
 82. [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 83. [Reverse Engineer](https://github.com/sourceduty/Reverse_Engineer)
+84. [Information & Data Quality](https://github.com/sourceduty/Information_Data_Quality)
 
 General
 
