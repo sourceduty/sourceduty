@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `301` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `302` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -151,6 +151,7 @@ General
 6. [Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment)
 7. [AGI](https://github.com/sourceduty/AGI)
 8. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
+9. [AI Flipbook](https://github.com/sourceduty/AI_Flipbook)
 
 <br>    
 </details>
