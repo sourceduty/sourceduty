@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `298` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `299` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -137,6 +137,7 @@ Custom GPTs
 85. [Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator)
 86. [Programming Language Writer](https://github.com/sourceduty/Programming_Language_Writer)
 87. [Automation Diagnostics](https://github.com/sourceduty/Automation_Diagnostics)
+88. [Spelling Solver](https://github.com/sourceduty/Spelling_Solver)
 
 General
 
