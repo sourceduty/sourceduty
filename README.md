@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `303` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `304` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -141,6 +141,7 @@ Custom GPTs
 89. [Product Design Analysis](https://github.com/sourceduty/Product_Design_Analysis)
 90. [Fillable Quiz](https://github.com/sourceduty/Fillable_Quiz)
 91. [Document Template](https://github.com/sourceduty/Document_Template)
+92. [Camping Compass](https://github.com/sourceduty/Camping_Compass)
 
 General
 
