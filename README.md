@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `299` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `300` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -148,6 +148,7 @@ General
 5. [Connect X's](https://github.com/sourceduty/Connect-Xs)
 6. [Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment)
 7. [AGI](https://github.com/sourceduty/AGI)
+8. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 
 <br>    
 </details>
