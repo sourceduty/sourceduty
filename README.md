@@ -138,6 +138,7 @@ Custom GPTs
 86. [Programming Language Writer](https://github.com/sourceduty/Programming_Language_Writer)
 87. [Automation Diagnostics](https://github.com/sourceduty/Automation_Diagnostics)
 88. [Spelling Solver](https://github.com/sourceduty/Spelling_Solver)
+89. [Product Design Analysis](https://github.com/sourceduty/Product_Design_Analysis)
 
 General
 
