@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `305` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `306` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -162,32 +162,33 @@ General
 
 General
 
-1. [Utility Station](https://github.com/sourceduty/Utility_Station)
-2. [3D_Model_Imaging](https://github.com/sourceduty/3D_Model_Imaging)
-3. [Music_BPM_Mp3](https://github.com/sourceduty/Music_BPM_Mp3)
-4. [White Noise](https://github.com/sourceduty/White_Noise)
-5. [Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
-6. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
-7. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
-8. [Python_Math](https://github.com/sourceduty/Python_Math)
-9. [Logic Gates](https://github.com/sourceduty/Logic)
-10. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
-11. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
-12. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
-13. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
-14. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
-15. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
-16. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
-17. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
-18. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
-19. [Machine_Learning_Template](https://github.com/sourceduty/Machine_Learning_Template)
-20. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
-21. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
-22. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
-23. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
-24. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
-25. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
-26. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
+1. [Python](https://github.com/sourceduty/Python)
+2. [Utility Station](https://github.com/sourceduty/Utility_Station)
+3. [3D_Model_Imaging](https://github.com/sourceduty/3D_Model_Imaging)
+4. [Music_BPM_Mp3](https://github.com/sourceduty/Music_BPM_Mp3)
+5. [White Noise](https://github.com/sourceduty/White_Noise)
+6. [Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
+7. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
+8. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
+9. [Python_Math](https://github.com/sourceduty/Python_Math)
+10. [Logic Gates](https://github.com/sourceduty/Logic)
+11. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
+12. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
+13. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
+14. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
+15. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
+16. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
+17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
+18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
+19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
+20. [Machine_Learning_Template](https://github.com/sourceduty/Machine_Learning_Template)
+21. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
+22. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
+23. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
+24. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
+25. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
+26. [Brand_Superiority](https://github.com/sourceduty/Brand_Superiority)
+27. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
 
 <br>
 </details>
