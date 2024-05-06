@@ -402,6 +402,7 @@ Experimental
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
 4. [Quantum](https://github.com/sourceduty/Quantum)
 5. [Decisions](https://github.com/sourceduty/Decisions)
+6. [Lawn Mowing Patterns](https://github.com/sourceduty/Lawn_Mowing_Patterns)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
@@ -436,9 +437,7 @@ General
 18. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 19. [Public Work](https://github.com/sourceduty/Public_Work)
 20. [Sudoku Challenge](https://github.com/sourceduty/Sudoku_Challenge)
-21. [Product Design](https://github.com/sourceduty/Product_Design)
-22. [Lawn Mowing Patterns](https://github.com/sourceduty/Lawn_Mowing_Patterns)
-    
+21. [Product Design](https://github.com/sourceduty/Product_Design)    
 
 <br>
 </details>
