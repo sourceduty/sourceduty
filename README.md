@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `316` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `317` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -472,6 +472,7 @@ General
 18. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
 19. [Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
 20. [Logo Generator](https://github.com/sourceduty/Logo_Generator)
+21. [Virtual Hide and Seek](https://github.com/sourceduty/Virtual_Hide_and_Seek)
 
 <br>
 </details>
