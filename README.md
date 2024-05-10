@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `319` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `320` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -448,6 +448,7 @@ General
 20. [Sudoku Challenge](https://github.com/sourceduty/Sudoku_Challenge)
 21. [Product Design](https://github.com/sourceduty/Product_Design)
 22. [Investigations](https://github.com/sourceduty/Investigations)
+23. [Encryption](https://github.com/sourceduty/Encryption)
 
 <br>
 </details>
