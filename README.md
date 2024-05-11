@@ -155,6 +155,7 @@ Custom GPTs
 103. [System Structure](https://github.com/sourceduty/System_Structure)
 104. [Encryption Specialist](https://github.com/sourceduty/Encryption_Specialist)
 105. [Format Analyzer](https://github.com/sourceduty/Format_Analyzer)
+106. [Stone Mason](https://github.com/sourceduty/Stone_Mason)
 
 General
 
@@ -167,7 +168,7 @@ General
 7. [AGI](https://github.com/sourceduty/AGI)
 8. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 9. [AI Flipbook](https://github.com/sourceduty/AI_Flipbook)
-10. [Stone Mason](https://github.com/sourceduty/Stone_Mason)
+
 
 <br>    
 </details>
