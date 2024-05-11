@@ -27,7 +27,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `323` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `324` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -167,6 +167,7 @@ General
 7. [AGI](https://github.com/sourceduty/AGI)
 8. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 9. [AI Flipbook](https://github.com/sourceduty/AI_Flipbook)
+10. [Stone Mason](https://github.com/sourceduty/Stone_Mason)
 
 <br>    
 </details>
