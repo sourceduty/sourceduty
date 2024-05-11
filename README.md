@@ -19,6 +19,8 @@ Alex Aldridge is a multifaceted talent as a self-taught designer, artist, and so
 
 Alex will be persistently maintaining Sourceduty and it's creative works without retiring. Sourceduty owns over 200 x 3D model assets and over 400 x GPT assets. This company is capable of producing and managing much more and it will be expanding into the deep future of the internet. Over the next decade, Sourceduty will continue to evolve, expanding its offerings and influence in the digital world.
 
+The name "Sourceduty" was inspired by source codes and duties or tasks. This name chosen and then quickly acquired in 2022 when it was found the be consistently available across mutiple websites. The .com domain for this name was also available and acquired at the same time.
+
 Contact and hire Alex from Sourceduty to design and develop for you or your business.
 
 > Alex: *"I'm a professional designer and Python programming expert. I'm happy and motivated to design digital or physical products as efficiently as possible, aiming to both save and generate money. Focusing on refining my concepts to perfection, I distinguish my work by dedicating time and attention to development."*
