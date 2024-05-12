@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `326` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `327` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -485,6 +485,7 @@ General
 21. [Virtual Hide and Seek](https://github.com/sourceduty/Virtual_Hide_and_Seek)
 22. [Personal Memory](https://github.com/sourceduty/Personal_Memory)
 23. [Laptop Design](https://github.com/sourceduty/Laptop_Design)
+24. [Office Comfort](https://github.com/sourceduty/Office_Comfort)
 
 <br>
 </details>
