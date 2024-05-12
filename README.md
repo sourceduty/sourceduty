@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `327` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `328` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -288,6 +288,7 @@ General
 26. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 27. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 28. [Extensions](https://github.com/sourceduty/Extensions)
+29. [Smart Folder](https://github.com/sourceduty/Smart_Folder)
 
 Unlikely
 
