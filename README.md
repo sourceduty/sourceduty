@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `334` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `335` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -292,6 +292,7 @@ General
 27. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 28. [Extensions](https://github.com/sourceduty/Extensions)
 29. [Smart Folder](https://github.com/sourceduty/Smart_Folder)
+30. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
 
 Unlikely
 
@@ -446,23 +447,20 @@ General
 6. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
 7. [Licenses](https://github.com/sourceduty/Licenses)
 8. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
-9. [Automated Business](https://github.com/sourceduty/Automated_Business)
+9. [Bank Vault Boxes](https://github.com/sourceduty/Bank_Vault_Boxes)
 10. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
 11. [Video Game History](https://github.com/sourceduty/Video_Game_History)
 12. [Starlink](https://github.com/sourceduty/Starlink)
 13. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 14. [POV](https://github.com/sourceduty/POV)
-15. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
-16. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
+15. [Encryption](https://github.com/sourceduty/Encryption)
+16. [Cumulative Vehicle Insurance](https://github.com/sourceduty/Cumulative_Vehicle_Insurance)
 17. [3D Printing](https://github.com/sourceduty/3D_Printing)
 18. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 19. [Public Work](https://github.com/sourceduty/Public_Work)
 20. [Sudoku Challenge](https://github.com/sourceduty/Sudoku_Challenge)
 21. [Product Design](https://github.com/sourceduty/Product_Design)
 22. [Investigations](https://github.com/sourceduty/Investigations)
-23. [Encryption](https://github.com/sourceduty/Encryption)
-24. [Bank Vault Boxes](https://github.com/sourceduty/Bank_Vault_Boxes)
-25. [Cumulative Vehicle Insurance](https://github.com/sourceduty/Cumulative_Vehicle_Insurance)
 
 <br>
 </details>
@@ -474,25 +472,34 @@ General
 3. [Organize_Emergency](https://github.com/sourceduty/Organize_Emergency)
 4. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
 5. [Ancient Egypt](https://github.com/sourceduty/Ancient_Egypt)
-6. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
-7. [Electronic Preservation](https://github.com/sourceduty/Electronic_Preservation)
-8. [WW2](https://github.com/sourceduty/WW2)
-9. [TV Channels](https://github.com/sourceduty/TV_Channels)
-10. [Vending Trust](https://github.com/sourceduty/Vending_Trust)
-11. [Nanuk 904](https://github.com/sourceduty/Nanuk_904)
-12. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
-13. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
-14. [War Technology](https://github.com/sourceduty/War_Technology)
-15. [Provenance](https://github.com/sourceduty/Provenance)
-16. [Windows](https://github.com/sourceduty/Windows)
-17. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
-18. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
-19. [Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
-20. [Logo Generator](https://github.com/sourceduty/Logo_Generator)
-21. [Virtual Hide and Seek](https://github.com/sourceduty/Virtual_Hide_and_Seek)
-22. [Personal Memory](https://github.com/sourceduty/Personal_Memory)
-23. [Laptop Design](https://github.com/sourceduty/Laptop_Design)
-24. [Office Comfort](https://github.com/sourceduty/Office_Comfort)
+6. [Electronic Preservation](https://github.com/sourceduty/Electronic_Preservation)
+7. [WW2](https://github.com/sourceduty/WW2)
+8. [TV Channels](https://github.com/sourceduty/TV_Channels)
+9. [Nanuk 904](https://github.com/sourceduty/Nanuk_904)
+10. [War Technology](https://github.com/sourceduty/War_Technology)
+11. [Windows](https://github.com/sourceduty/Windows)
+12. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
+13. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
+14. [Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
+15. [Logo Generator](https://github.com/sourceduty/Logo_Generator)
+16. [Virtual Hide and Seek](https://github.com/sourceduty/Virtual_Hide_and_Seek)
+17. [Personal Memory](https://github.com/sourceduty/Personal_Memory)
+18. [Laptop Design](https://github.com/sourceduty/Laptop_Design)
+19. [Office Comfort](https://github.com/sourceduty/Office_Comfort)
+
+<br>
+</details>
+<details><summary>Business</summary>
+<br>
+
+1. [Canada-USA](https://github.com/sourceduty/Canada-USA)
+2. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
+3. [Vending Trust](https://github.com/sourceduty/Vending_Trust)
+4. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
+5. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
+6. [Provenance](https://github.com/sourceduty/Provenance)
+7. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
+8. [Automated Business](https://github.com/sourceduty/Automated_Business)
 
 <br>
 </details>
