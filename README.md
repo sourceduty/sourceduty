@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `333` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `334` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -462,6 +462,7 @@ General
 22. [Investigations](https://github.com/sourceduty/Investigations)
 23. [Encryption](https://github.com/sourceduty/Encryption)
 24. [Bank Vault Boxes](https://github.com/sourceduty/Bank_Vault_Boxes)
+25. [Cumulative Vehicle Insurance](https://github.com/sourceduty/Cumulative_Vehicle_Insurance)
 
 <br>
 </details>
