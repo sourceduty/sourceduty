@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `330` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `331` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -368,6 +368,7 @@ Concepts
 20. [Quick Thinker](https://github.com/sourceduty/Quick_Thinker)
 21. [Grand Theft Auto 8](https://github.com/sourceduty/Grand_Theft_Auto_8)
 22. [Skateless Hockey](https://github.com/sourceduty/Skateless_Hockey)
+23. [Throwback Legends](https://github.com/sourceduty/Throwback_Legends)
 
 <br>
 </details>
