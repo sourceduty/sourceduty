@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `336` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `337` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -396,6 +396,7 @@ Space & Physics
 4. [Space Agencies](https://github.com/sourceduty/Space_Agencies)
 5. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 6. [Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
+7. [Airplane Design](https://github.com/sourceduty/Airplane_Design)
 
 Health & Biology
 1. [Drugs](https://github.com/sourceduty/Drugs)
