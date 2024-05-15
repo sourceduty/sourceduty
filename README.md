@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `344` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `343` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -329,10 +329,9 @@ Google
 1. [YouTube_Automation](https://github.com/sourceduty/YouTube_Automation)
 2. [YouTube_Video_Card](https://github.com/sourceduty/YouTube_Video_Card)
 3. [Google_Images_Checkbox](https://github.com/sourceduty/Google_Images_Checkbox)
-4. [YouTube_Totals](https://github.com/sourceduty/YouTube_Totals)
+4. [Video_Caption_Summary](https://github.com/sourceduty/Video_Caption_Summary)
 5. [Google_Earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
 6. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
-7. [Video_Caption_Summary](https://github.com/sourceduty/Video_Caption_Summary)
 
 <br>
 </details>
