@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `341` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `342` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -164,6 +164,7 @@ Custom GPTs
 110. [Business Exchange](https://github.com/sourceduty/Business_Exchange)
 111. [E-commerce Simulator](https://github.com/sourceduty/E-commerce_Simulator)
 112. [Blockchain Simulator](https://github.com/sourceduty/Blockchain_Simulator)
+113. [Usability Analyzer](https://github.com/sourceduty/Usability_Analyzer)
 
 General
 
