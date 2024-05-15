@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `340` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `341` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -466,6 +466,7 @@ General
 21. [Product Design](https://github.com/sourceduty/Product_Design)
 22. [Investigations](https://github.com/sourceduty/Investigations)
 23. [Usagespan](https://github.com/sourceduty/Usagespan)
+24. [Game Development](https://github.com/sourceduty/Game_Development)
 
 <br>
 </details>
