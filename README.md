@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `343` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `344` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -447,7 +447,7 @@ General
 
 1. [GitHub](https://github.com/sourceduty/GitHub)
 2. [Twitter](https://github.com/sourceduty/Twitter)
-3. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
+3. [YouTube](https://github.com/sourceduty/YouTube)
 4. [File Metadata Ratio](https://github.com/sourceduty/File_Metadata_Ratio)
 5. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
 6. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
@@ -469,6 +469,7 @@ General
 22. [Investigations](https://github.com/sourceduty/Investigations)
 23. [Usagespan](https://github.com/sourceduty/Usagespan)
 24. [Game Development](https://github.com/sourceduty/Game_Development)
+25. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
 
 <br>
 </details>
