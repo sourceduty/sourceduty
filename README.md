@@ -254,6 +254,7 @@ General
 
 1. [Batch Files](https://github.com/sourceduty/Batch)
 2. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
+3. [Smart Folder](https://github.com/sourceduty/Smart_Folder)
 
 <br>
 </details>
@@ -298,8 +299,7 @@ General
 26. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 27. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 28. [Extensions](https://github.com/sourceduty/Extensions)
-29. [Smart Folder](https://github.com/sourceduty/Smart_Folder)
-30. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
+29. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
 
 Unlikely
 
