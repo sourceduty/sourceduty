@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `343` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `344` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -49,6 +49,7 @@ ChatGPT
 6. [Copyright AI](https://github.com/sourceduty/Copyright_AI)
 7. [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
 8. [AI Simulation](https://github.com/sourceduty/AI_Simulation)
+9. [DALL-E 3](https://github.com/sourceduty/DALL-E_3)
 
 Custom GPTs
    
