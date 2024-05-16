@@ -477,6 +477,20 @@ General
 
 <br>
 </details>
+<details><summary>Business</summary>
+<br>
+
+1. [Canada-USA](https://github.com/sourceduty/Canada-USA)
+2. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
+3. [Vending Trust](https://github.com/sourceduty/Vending_Trust)
+4. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
+5. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
+6. [Provenance](https://github.com/sourceduty/Provenance)
+7. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
+8. [Automated Business](https://github.com/sourceduty/Automated_Business)
+
+<br>
+</details>
 <details><summary>Up in the Air</summary>
 <br>
 
@@ -499,20 +513,6 @@ General
 17. [Personal Memory](https://github.com/sourceduty/Personal_Memory)
 18. [Laptop Design](https://github.com/sourceduty/Laptop_Design)
 19. [Office Comfort](https://github.com/sourceduty/Office_Comfort)
-
-<br>
-</details>
-<details><summary>Business</summary>
-<br>
-
-1. [Canada-USA](https://github.com/sourceduty/Canada-USA)
-2. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
-3. [Vending Trust](https://github.com/sourceduty/Vending_Trust)
-4. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
-5. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
-6. [Provenance](https://github.com/sourceduty/Provenance)
-7. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
-8. [Automated Business](https://github.com/sourceduty/Automated_Business)
 
 <br>
 </details>
