@@ -171,7 +171,7 @@ Custom GPTs
 116. [Image Tagger](https://github.com/sourceduty/Image_Tagger)
 117. [OS Developer](https://github.com/sourceduty/OS_Developer)
 118. [Market Simulator](https://github.com/sourceduty/Market_Simulator)
-119. [Software Architect](https://github.com/sourceduty/Software_Architect)
+119. [Architectural Software Design](https://github.com/sourceduty/Architectural_Software_Design)
 
 General
 
