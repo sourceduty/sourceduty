@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `351` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `352` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -172,6 +172,7 @@ Custom GPTs
 117. [OS Developer](https://github.com/sourceduty/OS_Developer)
 118. [Market Simulator](https://github.com/sourceduty/Market_Simulator)
 119. [Architectural Software Design](https://github.com/sourceduty/Architectural_Software_Design)
+120. [Programming Complexity](https://github.com/sourceduty/Programming_Complexity)
 
 General
 
