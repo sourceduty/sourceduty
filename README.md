@@ -477,7 +477,7 @@ General
 
 <br>
 </details>
-<details><summary>Discussion</summary>
+<details><summary>Up in the Air</summary>
 <br>
 
 1. [Predictions](https://github.com/sourceduty/Predictions)
