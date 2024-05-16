@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `344` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `345` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -470,6 +470,7 @@ General
 23. [Usagespan](https://github.com/sourceduty/Usagespan)
 24. [Game Development](https://github.com/sourceduty/Game_Development)
 25. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
+26. [Vehicle Accident Areas](https://github.com/sourceduty/Vehicle_Accident_Areas)
 
 <br>
 </details>
