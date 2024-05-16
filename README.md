@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `347` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `348` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -411,6 +411,7 @@ Health & Biology
 3. [Health](https://github.com/sourceduty/Health)
 4. [Cancer](https://github.com/sourceduty/Cancer)
 5. [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
+6. [COVID-19](https://github.com/sourceduty/COVID-19)
 
 Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
