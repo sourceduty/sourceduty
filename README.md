@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `348` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `349` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -169,6 +169,7 @@ Custom GPTs
 114. [Power Grid Simulator](https://github.com/sourceduty/Power_Grid_Simulator)
 115. [Immigrant Adapter](https://github.com/sourceduty/Immigrant_Adapter)
 116. [Image Tagger](https://github.com/sourceduty/Image_Tagger)
+117. [OS Developer](https://github.com/sourceduty/OS_Developer)
 
 General
 
