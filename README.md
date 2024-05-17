@@ -13,7 +13,7 @@
   </p>
 </div>
 
-***
+#
 
 Alex Aldridge is a multifaceted talent as a self-taught designer, artist, and software developer. Sourceduty is a creative digital company that was established by Alex in late 2022. Sourceduty shares open-source codes, concept ideas and inspiration on GitHub.
 
@@ -33,7 +33,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 	
 </div>
 
-#
+***
 
 <details><summary>AI</summary>
 <br>
@@ -524,7 +524,8 @@ General
 <br>
 </details>
 
-#
+***
+
 [![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourceduty&theme=default" width="1000">
