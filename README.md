@@ -174,6 +174,7 @@ Custom GPTs
 119. [Architectural Software Design](https://github.com/sourceduty/Architectural_Software_Design)
 120. [Programming Complexity](https://github.com/sourceduty/Programming_Complexity)
 121. [Programming Diagnostics](https://github.com/sourceduty/Programming_Diagnostics)
+122. [Browser Extension](https://github.com/sourceduty/Browser_Extension)
 
 General
 
@@ -304,8 +305,7 @@ General
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 26. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 27. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
-28. [Extensions](https://github.com/sourceduty/Extensions)
-29. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
+28. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
 
 Unlikely
 
