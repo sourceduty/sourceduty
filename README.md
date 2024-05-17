@@ -533,6 +533,6 @@ General
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sourceduty&theme=dark&card_width=1000)
 
-***
+#
 
 ![Badges](https://github.com/sourceduty/sourceduty/assets/123030236/f65f6673-6020-4d10-9595-63562bbd521a)
