@@ -29,7 +29,7 @@ Contact and hire Alex from Sourceduty to design and develop for you or your busi
 
 <div align="center">
 	
-| Sourceduty currently has `354` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `355` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -176,6 +176,7 @@ Custom GPTs
 121. [Programming Diagnostics](https://github.com/sourceduty/Programming_Diagnostics)
 122. [Browser Extension](https://github.com/sourceduty/Browser_Extension)
 123. [Tax Loophole](https://github.com/sourceduty/Tax_Loophole)
+124. [Game Architect](https://github.com/sourceduty/Game_Architect)
 
 General
 
