@@ -21,10 +21,7 @@ Alex will be persistently maintaining Sourceduty and it's creative works without
 
 The name "Sourceduty" was inspired by source codes and duties or tasks. This name was chosen and then quickly acquired in 2022 when it was found the be consistently available across multiple websites. The .com domain for this name was also available and acquired at the same time.
 
-Contact and hire Alex from Sourceduty to design and develop for you or your business.
-
-> Alex: *"I'm a professional designer and Python programming expert. I'm happy and motivated to design digital or physical products as efficiently as possible, aiming to both save and generate money. Focusing on refining my concepts to perfection, I distinguish my work by dedicating time and attention to development."*
-
+> Alex: *"Beyond programming and 3D models, I try to develop and share projects or concept ideas that impress people, initiate spending and inspire others. In addition to building custom GPTs, I currently practice creating new chemicals, car designs, house designs, business models, product designs, games and electronics. There are many other scientific areas that I try to utilize, but since scientific concepts and research don't pay for anything, I don't do this often."*
 ***
 
 <div align="center">
