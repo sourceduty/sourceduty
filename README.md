@@ -29,7 +29,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 <div align="center">
 	
-| Sourceduty currently has `357` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `358` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -177,6 +177,7 @@ Custom GPTs
 122. [Browser Extension](https://github.com/sourceduty/Browser_Extension)
 123. [Tax Loophole](https://github.com/sourceduty/Tax_Loophole)
 124. [Game Architect](https://github.com/sourceduty/Game_Architect)
+125. [Dataset Analyzer](https://github.com/sourceduty/Dataset_Analyzer)
 
 General
 
