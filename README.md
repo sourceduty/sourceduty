@@ -24,6 +24,8 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 #
 
 > Alex: *"Beyond programming and 3D models, I try to develop and share projects or concept ideas that impress people, initiate spending and inspire others. In addition to building custom GPTs, I currently practice creating new chemicals, car designs, house designs, business models, product designs, games and electronics. There are many other scientific areas that I try to utilize, but since scientific concepts and research don't pay for anything, I don't do this often."*
+
+***
 ***
 
 <div align="center">
@@ -33,7 +35,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 	
 </div>
 
-***
+#
 
 <details><summary>AI</summary>
 <br>
@@ -524,6 +526,7 @@ General
 <br>
 </details>
 
+***
 ***
 
 [![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
