@@ -29,7 +29,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 <div align="center">
 	
-| Sourceduty currently has `356` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `357` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
