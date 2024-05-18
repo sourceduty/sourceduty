@@ -181,6 +181,7 @@ Custom GPTs
 124. [Game Architect](https://github.com/sourceduty/Game_Architect)
 125. [Dataset Analyzer](https://github.com/sourceduty/Dataset_Analyzer)
 126. [Product Demand](https://github.com/sourceduty/Product_Demand)
+127. [Face Compare](https://github.com/sourceduty/Face_Compare)
 
 General
 
