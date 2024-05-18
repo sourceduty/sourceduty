@@ -31,7 +31,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 <div align="center">
 	
-| Sourceduty currently has `359` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `360` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -500,6 +500,7 @@ General
 6. [Provenance](https://github.com/sourceduty/Provenance)
 7. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
 8. [Automated Business](https://github.com/sourceduty/Automated_Business)
+9. [Cults3D Sales Data Analyzer](https://github.com/sourceduty/Cults3D_Sales_Data_Analyzer)
 
 <br>
 </details>
