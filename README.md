@@ -31,7 +31,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 <div align="center">
 	
-| Sourceduty currently has `362` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `358` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -228,10 +228,6 @@ General
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
 20. [Machine_Learning_Template](https://github.com/sourceduty/Machine_Learning_Template)
-21. [Text File Metadata](https://github.com/sourceduty/Text_File_Metadata)
-22. [Python Metadata](https://github.com/sourceduty/Python_Metadata)
-23. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
-24. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
 
 <br>
 </details>
