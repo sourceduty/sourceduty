@@ -31,7 +31,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 <div align="center">
 	
-| Sourceduty currently has `362` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `363` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -184,6 +184,7 @@ Custom GPTs
 127. [Face Compare](https://github.com/sourceduty/Face_Compare)
 128. [Sam Altman](https://github.com/sourceduty/Sam_Altman)
 129. [Alex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
+130. [Digital Experiment](https://github.com/sourceduty/Digital_Experiment)
 
 General
 
