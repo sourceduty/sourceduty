@@ -31,7 +31,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 <div align="center">
 	
-| Sourceduty currently has `364` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `363` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -216,7 +216,7 @@ General
 6. [Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
 7. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
 8. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
-9. [Python_Math](https://github.com/sourceduty/Python_Math)
+9. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
 10. [Logic Gates](https://github.com/sourceduty/Logic)
 11. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
 12. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
@@ -233,7 +233,6 @@ General
 23. [Pyduino_Metadata](https://github.com/sourceduty/Pyduino_Metadata)
 24. [Clock_Metadata](https://github.com/sourceduty/Clock_Metadata)
 25. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
-26. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
 
 <br>
 </details>
