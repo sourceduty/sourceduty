@@ -31,7 +31,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 <div align="center">
 	
-| Sourceduty currently has `358` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `357` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -128,7 +128,7 @@ Custom GPTs
 71. [Music Mixology](https://github.com/sourceduty/Music_Mixology)
 72. [Design Marketability](https://github.com/sourceduty/Design_Marketability)
 73. [Business Profile](https://github.com/sourceduty/Business_Profile)
-74. [Math Model Simulator](https://github.com/sourceduty/Math_Model_Simulator)
+74. [Math Simulator](https://github.com/sourceduty/Math_Simulator)
 75. [Plain_Text](https://github.com/sourceduty/Plain_Text)
 76. [Retrowriter](https://github.com/sourceduty/Retrowriter)
 77. [Architecture Diagram](https://github.com/sourceduty/Architecture_Diagram)
@@ -186,7 +186,6 @@ Custom GPTs
 129. [Alex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
 130. [Digital Experiment](https://github.com/sourceduty/Digital_Experiment)
 131. [GPT Simulator](https://github.com/sourceduty/GPT_Simulator)
-132. [Math Simulator](https://github.com/sourceduty/Math_Simulator)
 
 General
 
