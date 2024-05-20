@@ -188,7 +188,7 @@ Custom GPTs
 131. [GPT Simulator](https://github.com/sourceduty/GPT_Simulator)
 132. [Document Complexity](https://github.com/sourceduty/Document_Complexity)
 133. [Theorem Proof](https://github.com/sourceduty/Theorem_Proof)
-134. [Theory Solver](https://github.com/sourceduty/Theory_Solver)
+134. [Theory Proof](https://github.com/sourceduty/Theory_Proof)
 
 General
 
