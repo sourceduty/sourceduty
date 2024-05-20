@@ -31,7 +31,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 <div align="center">
 	
-| Sourceduty currently has `359` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `360` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -188,6 +188,7 @@ Custom GPTs
 131. [GPT Simulator](https://github.com/sourceduty/GPT_Simulator)
 132. [Document Complexity](https://github.com/sourceduty/Document_Complexity)
 133. [Theorem Proof](https://github.com/sourceduty/Theorem_Proof)
+134. [Theory Solver](https://github.com/sourceduty/Theory_Solver)
 
 General
 
