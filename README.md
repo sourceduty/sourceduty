@@ -31,7 +31,7 @@ The name "Sourceduty" was inspired by source codes and duties or tasks. This nam
 
 <div align="center">
 	
-| Sourceduty currently has `360` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `361` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -486,6 +486,7 @@ General
 23. [Usagespan](https://github.com/sourceduty/Usagespan)
 24. [Game Development](https://github.com/sourceduty/Game_Development)
 25. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
+26. [Language Barriers](https://github.com/sourceduty/Language_Barriers)
 
 <br>
 </details>
