@@ -160,7 +160,7 @@ Custom GPTs
 103. [System Structure](https://github.com/sourceduty/System_Structure)
 104. [Encryption Specialist](https://github.com/sourceduty/Encryption_Specialist)
 105. [Format Analyzer](https://github.com/sourceduty/Format_Analyzer)
-106. [Stone Mason](https://github.com/sourceduty/Stone_Mason)
+106. [Geology Simulator](https://github.com/sourceduty/Geology_Simulator)
 107. [Business Compliance](https://github.com/sourceduty/Business_Compliance)
 108. [Security Simulator](https://github.com/sourceduty/Security_Simulator)
 109. [Product Benchmark](https://github.com/sourceduty/Product_Benchmark)
