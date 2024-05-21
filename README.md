@@ -439,6 +439,7 @@ Social
 6. [Popular Perfection](https://github.com/sourceduty/Popular_Perfection)
 7. [Intelligence Information](https://github.com/sourceduty/Intelligence_Information)
 8. [International Compatibility](https://github.com/sourceduty/International_Compatibility)
+9. [Language Barriers](https://github.com/sourceduty/Language_Barriers)
 
 Experimental
 1. [Experiments](https://github.com/sourceduty/Experiments)
@@ -486,7 +487,6 @@ General
 23. [Usagespan](https://github.com/sourceduty/Usagespan)
 24. [Game Development](https://github.com/sourceduty/Game_Development)
 25. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
-26. [Language Barriers](https://github.com/sourceduty/Language_Barriers)
 
 <br>
 </details>
