@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `362` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `363` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -489,6 +489,7 @@ General
 8. [Automated Business](https://github.com/sourceduty/Automated_Business)
 9. [Cults3D Sales Data Analyzer](https://github.com/sourceduty/Cults3D_Sales_Data_Analyzer)
 10. [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
+11. [VPN](https://github.com/sourceduty/VPN)
 
 <br>
 </details>
