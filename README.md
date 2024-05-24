@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `364` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `365` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -325,6 +325,7 @@ Canada.ca
 
 1. [Tweet_Marketplace](https://github.com/sourceduty/Tweet_Marketplace)
 2. [Twitter Preschedule](https://github.com/sourceduty/Tweet_Prescheduler)
+3. [Automatic X Milestones](https://github.com/sourceduty/Automatic_X_Milestones)
 
 Google
 
