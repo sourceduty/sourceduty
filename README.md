@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `368` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `367` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -217,7 +217,6 @@ General
 17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
-20. [Machine_Learning_Template](https://github.com/sourceduty/Machine_Learning_Template)
 
 <br>
 </details>
