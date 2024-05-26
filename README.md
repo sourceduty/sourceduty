@@ -38,6 +38,7 @@ ChatGPT
 7. [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
 8. [AI Simulation](https://github.com/sourceduty/AI_Simulation)
 9. [DALL-E 3](https://github.com/sourceduty/DALL-E_3)
+10. [ChatGPT Preview Panel Assistant](https://github.com/sourceduty/ChatGPT_Preview_Panel_Assistant)
 
 Custom GPTs
    
