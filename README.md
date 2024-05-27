@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `371` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `372` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -191,6 +191,7 @@ General
 8. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 9. [AI Flipbook](https://github.com/sourceduty/AI_Flipbook)
 10. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
+11. [xAI](https://github.com/sourceduty/xAI)
 
 
 <br>    
