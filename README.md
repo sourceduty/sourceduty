@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `372` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `373` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -178,6 +178,7 @@ Custom GPTs
 133. [Theorem Proof](https://github.com/sourceduty/Theorem_Proof)
 134. [Theory Proof](https://github.com/sourceduty/Theory_Proof)
 135. [Road Director](https://github.com/sourceduty/Road_Director)
+136. [Bulk File Classification](https://github.com/sourceduty/Bulk_File_Classification)
 
 General
 
