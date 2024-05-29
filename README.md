@@ -195,7 +195,6 @@ General
 10. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
 11. [xAI](https://github.com/sourceduty/xAI)
 
-
 <br>    
 </details>
 <details><summary>Python</summary>
@@ -303,7 +302,6 @@ General
 24. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 26. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
-
 
 Unlikely
 
