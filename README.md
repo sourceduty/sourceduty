@@ -222,7 +222,7 @@ General
 17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
-20. [Sliced GIF](https://github.com/sourceduty/Sliced_GIF_Maker)
+20. [Sliced GIF Maker](https://github.com/sourceduty/Sliced_GIF_Maker)
 
 <br>
 </details>
