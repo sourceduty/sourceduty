@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `372` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `373` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -221,6 +221,7 @@ General
 17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
+20. [ASL GIF Maker](https://github.com/sourceduty/ASL_GIF_Maker)
 
 <br>
 </details>
