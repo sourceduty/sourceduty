@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `373` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `372` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -203,12 +203,12 @@ General
 General
 
 1. [Python](https://github.com/sourceduty/Python)
-2. [Utility Station](https://github.com/sourceduty/Utility_Station)
+2. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
 3. [3D_Model_Imaging](https://github.com/sourceduty/3D_Model_Imaging)
 4. [Music_BPM_Mp3](https://github.com/sourceduty/Music_BPM_Mp3)
 5. [White Noise](https://github.com/sourceduty/White_Noise)
 6. [Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
-7. [Python Utilities](https://github.com/sourceduty/Python_Utilities)
+7. [ASL GIF Maker](https://github.com/sourceduty/ASL_GIF_Maker)
 8. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 9. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
 10. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
@@ -221,7 +221,6 @@ General
 17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
-20. [ASL GIF Maker](https://github.com/sourceduty/ASL_GIF_Maker)
 
 <br>
 </details>
