@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `373` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `372` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -300,10 +300,10 @@ General
 21. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 22. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
 23. [Advent Money App](https://github.com/sourceduty/Advent_Money)
-24. [Recommended_Food](https://github.com/sourceduty/Recommended_Food)
+24. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 26. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
-27. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
+
 
 Unlikely
 
