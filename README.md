@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `373` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `372` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -279,7 +279,7 @@ General
 1. [Experience Modes](https://github.com/sourceduty/Experience_Modes)
 2. [Pothole Prediction](https://github.com/sourceduty/Pothole_Prediction)
 3. [Video Instructor](https://github.com/sourceduty/Video_Instructor)
-4. [Ass_Detection](https://github.com/sourceduty/Ass_Detection)
+4. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 5. [Huge_Cursor](https://github.com/sourceduty/Huge_Cursor)
 6. [Video_Speed_Compression](https://github.com/sourceduty/Video_Speed_Compression)
 7. [Battery_Level_Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
@@ -301,7 +301,6 @@ General
 23. [Advent Money App](https://github.com/sourceduty/Advent_Money)
 24. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
-26. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 
 Unlikely
 
