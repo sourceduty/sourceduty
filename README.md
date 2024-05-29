@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `372` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `373` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -40,6 +40,7 @@ ChatGPT
 9. [DALL-E 3](https://github.com/sourceduty/DALL-E_3)
 10. [ChatGPT Preview Panel Assistant](https://github.com/sourceduty/ChatGPT_Preview_Panel_Assistant)
 11. [Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)
+12. [ChatGPT Books](https://github.com/sourceduty/ChatGPT_Books)
 
 Custom GPTs
    
