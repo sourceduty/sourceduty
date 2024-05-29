@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `374` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `373` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -290,7 +290,7 @@ General
 11. [Smart_Web_Search](https://github.com/sourceduty/Smart_Web_Search)
 12. [Sequenced_File_Folders](https://github.com/sourceduty/Sequenced_File_Folders)
 13. [Vehicle Route](https://github.com/sourceduty/Predictive_Route)
-14. [Business Blog](https://github.com/sourceduty/Business_Blog) 
+14. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
 15. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 16. [Amazon_Premium](https://github.com/sourceduty/Amazon_Premium)
 17. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
@@ -304,7 +304,6 @@ General
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 26. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 27. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
-28. [Document Condenser](https://github.com/sourceduty/Document_Condenser)
 
 Unlikely
 
