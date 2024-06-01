@@ -11,18 +11,13 @@
   <p align="center">
     Sourceduty also shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
   </p>
-  <p align="center">
-    
-  ![](https://komarev.com/ghpvc/?username=your-github-sourceduty&color=dc143c)
-    
-  </p>
 </div>
 
 ***
 
 <div align="center">
 	
-| Sourceduty currently has `376` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `377` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -509,6 +504,7 @@ General
 9. [Cults3D Sales Data Analyzer](https://github.com/sourceduty/Cults3D_Sales_Data_Analyzer)
 10. [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 11. [VPN](https://github.com/sourceduty/VPN)
+12. [Discount Auctioning](https://github.com/sourceduty/Discount_Auctioning)
 
 <br>
 </details>
