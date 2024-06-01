@@ -11,6 +11,11 @@
   <p align="center">
     Sourceduty also shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
   </p>
+  <p align="center">
+    
+  ![](https://komarev.com/ghpvc/?username=your-github-sourceduty&color=dc143c)
+    
+  </p>
 </div>
 
 ***
