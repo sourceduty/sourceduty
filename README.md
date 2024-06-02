@@ -510,7 +510,7 @@ General
 
 <br>
 </details>
-<details><summary>Up in the Air</summary>
+<details><summary>Miscellaneous</summary>
 <br>
 
 1. [Predictions](https://github.com/sourceduty/Predictions)
