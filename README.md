@@ -183,7 +183,6 @@ Custom GPTs
 136. [Bulk File Classification](https://github.com/sourceduty/Bulk_File_Classification)
 137. [Mystery Gift Box](https://github.com/sourceduty/Mystery_Gift_Box)
 138. [Batch File Simulator](https://github.com/sourceduty/Batch_File_Simulator)
-139. [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
 
 General
 
@@ -307,6 +306,7 @@ General
 23. [Advent Money App](https://github.com/sourceduty/Advent_Money)
 24. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
+26. [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
 
 Unlikely
 
