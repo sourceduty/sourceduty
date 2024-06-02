@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `380` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `381` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -226,6 +226,13 @@ General
 19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
 20. [Sliced GIF Maker](https://github.com/sourceduty/Sliced_GIF_Maker)
 21. [Face Zoom GIF](https://github.com/sourceduty/Face_Zoom_GIF)
+
+<br>
+</details>
+<details><summary>Javascript</summary>
+<br>
+
+1. [Catch Them All](https://github.com/sourceduty/Catch_Them_All)
 
 <br>
 </details>
