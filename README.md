@@ -229,7 +229,7 @@ General
 
 <br>
 </details>
-<details><summary>Javascript</summary>
+<details><summary>JavaScript</summary>
 <br>
 
 1. [Catch Them All](https://github.com/sourceduty/Catch_Them_All)
