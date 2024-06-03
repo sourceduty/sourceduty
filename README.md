@@ -233,7 +233,7 @@ General
 <br>
 
 1. [Catch Them All](https://github.com/sourceduty/Catch_Them_All)
-2. [Four Corners](https://github.com/sourceduty/Four_Corners)
+2. [JavaScript Projects](https://github.com/sourceduty/JavaScript_Projects)
 
 <br>
 </details>
