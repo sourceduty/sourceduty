@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `382` public repos sorted and listed below into `10` different categories. |
+| Sourceduty currently has `383` public repos sorted and listed below into `10` different categories. |
 |-|
 	
 </div>
@@ -498,6 +498,7 @@ General
 27. [Educating Computers](https://github.com/sourceduty/Educating_Computers)
 28. [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
 29. [Spot_the_Difference](https://github.com/sourceduty/Spot_the_Difference)
+30. [Programming Compatability](https://github.com/sourceduty/Programming_Compatibility)
 
 <br>
 </details>
