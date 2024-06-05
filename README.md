@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `388` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `389` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -264,6 +264,7 @@ Concept Electronics
 2. [Maglev Desk Speaker](https://github.com/sourceduty/Maglev_Speaker)
 3. [Smart Laundry Basket Hamper](https://github.com/sourceduty/Smart_Laundry_Basket)
 4. [Window-Mounted Computer](https://github.com/sourceduty/Window-Mounted_Computer)
+5. [Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
 
 General
 
