@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `390` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `391` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -265,6 +265,7 @@ Concept Electronics
 3. [Smart Laundry Basket Hamper](https://github.com/sourceduty/Smart_Laundry_Basket)
 4. [Window-Mounted Computer](https://github.com/sourceduty/Window-Mounted_Computer)
 5. [Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
+6. [Thermal Imaging PC Case](https://github.com/sourceduty/Thermal_Imaging_PC_Case)
 
 General
 
