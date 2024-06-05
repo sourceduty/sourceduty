@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `388` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `387` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -547,7 +547,6 @@ General
 18. [Laptop Design](https://github.com/sourceduty/Laptop_Design)
 19. [Office Comfort](https://github.com/sourceduty/Office_Comfort)
 20. [Developing Friends](https://github.com/sourceduty/Developing_Friends)
-21. [Weed Prices](https://github.com/sourceduty/Weed_Prices)
 
 <br>
 </details>
