@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `391` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `392` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -271,6 +271,7 @@ General
 
 1. [Microcontroller Boards](https://github.com/sourceduty/Microcontroller_Boards)
 2. [Thermal Imaging Microwave](https://github.com/sourceduty/Thermal_Imaging_Microwave)
+3. [Sugar Sensor](https://github.com/sourceduty/Sugar_Sensor)
 
 <br>
 </details>
