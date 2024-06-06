@@ -215,7 +215,7 @@ General
 5. [White Noise](https://github.com/sourceduty/White_Noise)
 6. [Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
 7. [ASL GIF Maker](https://github.com/sourceduty/ASL_GIF_Maker)
-8. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
+8. [Face Zoom GIF](https://github.com/sourceduty/Face_Zoom_GIF)
 9. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
 10. [Progress_Bar_Clock](https://github.com/sourceduty/Progress_Bar_Clock)
 11. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
@@ -228,7 +228,6 @@ General
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
 20. [Sliced GIF Maker](https://github.com/sourceduty/Sliced_GIF_Maker)
-21. [Face Zoom GIF](https://github.com/sourceduty/Face_Zoom_GIF)
 
 <br>
 </details>
@@ -323,6 +322,7 @@ General
 24. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 26. [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
+27. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
 
 Unlikely
 
