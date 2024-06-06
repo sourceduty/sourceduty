@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `391` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `390` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -219,14 +219,13 @@ General
 9. [Timed Calculator](https://github.com/sourceduty/Timed_Calculator)
 10. [Sliced GIF Maker](https://github.com/sourceduty/Sliced_GIF_Maker)
 11. [Python_List_Lab](https://github.com/sourceduty/Python_List_Lab)
-12. [Random Travel Generator](https://github.com/sourceduty/Random-Travel-Generator)
+12. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
 13. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 14. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
 15. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
 16. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
 17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
-19. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
 
 <br>
 </details>
