@@ -322,7 +322,7 @@ General
 24. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 26. [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
-27. [World Clocks Live Wallpaper](https://github.com/sourceduty/World-Clocks-Live-Wallpaper)
+27. [World Clocks Live Wallpaper](https://github.com/sourceduty/World_Clocks_Live_Wallpaper)
 
 Unlikely
 
