@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `391` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `392` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -279,6 +279,7 @@ General
 1. [Batch Files](https://github.com/sourceduty/Batch)
 2. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 3. [Smart Folder](https://github.com/sourceduty/Smart_Folder)
+4. [Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
 
 <br>
 </details>
