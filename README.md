@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `390` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `391` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -226,6 +226,7 @@ General
 16. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
 17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
+19. [Fractal Art Creator](https://github.com/sourceduty/Fractal_Art_Creator)
 
 <br>
 </details>
