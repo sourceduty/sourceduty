@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `394` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `395` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -188,6 +188,7 @@ Custom GPTs
 141. [Image Emulator](https://github.com/sourceduty/Image_Emulator)
 142. [Local Business Startup](https://github.com/sourceduty/Local_Business_Startup)
 143. [Compare Videos](https://github.com/sourceduty/Compare_Videos)
+144. [Urban Update](https://github.com/sourceduty/Urban_Update)
 
 General
 
