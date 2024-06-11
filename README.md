@@ -50,7 +50,7 @@ Custom GPTs
 3. [Android Application](https://github.com/sourceduty/Android_App_Simulator)
 4. [Custom GPT Collab](https://github.com/sourceduty/Custom_GPT_Collab)
 5. [Word to GIF](https://github.com/sourceduty/Word_to_GIF)
-6. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
+6. [PDF Image Extractor](https://github.com/sourceduty/PDF_Image_Extractor)
 7. [Personality Template](https://github.com/sourceduty/Personality_Template)
 8. [Process_Diagram](https://github.com/sourceduty/Process_Diagram)
 9. [Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
@@ -141,7 +141,7 @@ Custom GPTs
 94. [Development Organizer](https://github.com/sourceduty/Development_Organizer)
 95. [Work Distributor](https://github.com/sourceduty/Work_Distributor)
 96. [Marketing Distributor](https://github.com/sourceduty/Marketing_Distributor)
-97. [Mister Beast](https://github.com/sourceduty/Mister_Beast)
+97. [Python Game Builder](https://github.com/sourceduty/Python_Game_Builder)
 98. [Research Generator](https://github.com/sourceduty/Research_Generator)
 99. [Algorithm Generator](https://github.com/sourceduty/Algorithm_Generator)
 100. [Attribute Analyzer](https://github.com/sourceduty/Attribute_Analyzer)
@@ -192,8 +192,11 @@ Custom GPTs
 145. [Image Metadata](https://github.com/sourceduty/Image_Metadata)
 146. [Standard Government](https://github.com/sourceduty/Standard_Government)
 147. [Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
-148. [Python Game Builder](https://github.com/sourceduty/Python_Game_Builder)
-149. [PDF Image Extractor](https://github.com/sourceduty/PDF_Image_Extractor)
+
+Concept Custom GPTs
+
+1. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
+2. [Mister Beast](https://github.com/sourceduty/Mister_Beast)
 
 General
 
