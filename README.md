@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `401` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `402` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -192,6 +192,7 @@ Custom GPTs
 145. [Image Metadata](https://github.com/sourceduty/Image_Metadata)
 146. [Standard Government](https://github.com/sourceduty/Standard_Government)
 147. [Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
+148. [Python Game Builder](https://github.com/sourceduty/Python_Game_Builder)
 
 General
 
