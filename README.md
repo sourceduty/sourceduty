@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `405` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `406` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -283,6 +283,7 @@ Concept Electronics
 6. [Thermal Imaging PC Case](https://github.com/sourceduty/Thermal_Imaging_PC_Case)
 7. [Canadian Clerk Table Calendar](https://github.com/sourceduty/Canadian_Clerk_Table_Calendar)
 8. [Dyson Bladeless PC](https://github.com/sourceduty/Dyson_Bladeless_PC)
+9. [Modern Lava Lamp](https://github.com/sourceduty/Modern_Lava_Lamp)
 
 General
 
