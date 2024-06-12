@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `403` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `404` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -282,6 +282,7 @@ Concept Electronics
 5. [Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
 6. [Thermal Imaging PC Case](https://github.com/sourceduty/Thermal_Imaging_PC_Case)
 7. [Canadian Clerk Table Calendar](https://github.com/sourceduty/Canadian_Clerk_Table_Calendar)
+8. [Dyson Bladeless PC](https://github.com/sourceduty/Dyson_Bladeless_PC)
 
 General
 
