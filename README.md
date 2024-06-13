@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `408` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `409` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -487,6 +487,7 @@ Experimental
 4. [Quantum](https://github.com/sourceduty/Quantum)
 5. [Decisions](https://github.com/sourceduty/Decisions)
 6. [Lawn Mowing Patterns](https://github.com/sourceduty/Lawn_Mowing_Patterns)
+7. [Levitation Lab](https://github.com/sourceduty/Levitation_Lab)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
