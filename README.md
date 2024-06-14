@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `410` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `411` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -493,6 +493,7 @@ Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
 2. [Data Projects](https://github.com/sourceduty/Data_Projects)
 3. [Currencies](https://github.com/sourceduty/Currencies)
+4. [Data Hardware](https://github.com/sourceduty/Data_Hardware)
 
 General
 1. [Science](https://github.com/sourceduty/Science)
