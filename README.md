@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `415` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `416` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -557,6 +557,7 @@ General
 11. [VPN](https://github.com/sourceduty/VPN)
 12. [Discount Auctioning](https://github.com/sourceduty/Discount_Auctioning)
 13. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
+14. [Financial Threshold](https://github.com/sourceduty/Financial_Threshold)
 
 <br>
 </details>
