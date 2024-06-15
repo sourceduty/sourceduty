@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `413` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `414` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -244,6 +244,7 @@ General
 Libraries and Packages
 
 1. [Matplotlib Layers](https://github.com/sourceduty/Matplotlib_Layers)
+2. [Automatic Python Libraries](https://github.com/sourceduty/Automatic_Python_Libraries)
 
 <br>
 </details>
