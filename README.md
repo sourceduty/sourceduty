@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `419` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `420` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -214,6 +214,7 @@ General
 9. [AI Flipbook](https://github.com/sourceduty/AI_Flipbook)
 10. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
 11. [xAI](https://github.com/sourceduty/xAI)
+12. [Abandoned Places](https://github.com/sourceduty/Abandoned_Locations)
 
 <br>    
 </details>
