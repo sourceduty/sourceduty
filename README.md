@@ -214,7 +214,7 @@ General
 9. [AI Flipbook](https://github.com/sourceduty/AI_Flipbook)
 10. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
 11. [xAI](https://github.com/sourceduty/xAI)
-12. [Abandoned Places](https://github.com/sourceduty/Abandoned_Locations)
+12. [Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
 
 <br>    
 </details>
