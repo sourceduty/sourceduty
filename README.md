@@ -9,7 +9,7 @@
     AI, data, research, open-source codes, concept ideas and inspiration.
   </p>
   <p align="center">
-    Sourceduty also shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
+    Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
   </p>
 </div>
 
