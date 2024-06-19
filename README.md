@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `425` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `428` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
