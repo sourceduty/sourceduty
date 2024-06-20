@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `428` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `429` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -462,6 +462,7 @@ Space & Physics
 6. [Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
 7. [Airplane Design](https://github.com/sourceduty/Airplane_Design)
 8. [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
+9. [Air Vortex Blower](https://github.com/sourceduty/Air_Vortex_Blower)
 
 Health & Biology
 1. [Drugs](https://github.com/sourceduty/Drugs)
