@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `429` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `430` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -477,6 +477,7 @@ Health & Biology
 Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
 2. [Energy](https://github.com/sourceduty/Energy)
+3. [Global Warming](https://github.com/sourceduty/Global_Warming)
 
 Social
 1. [Modernization](https://github.com/sourceduty/Modernization)
