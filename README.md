@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `431` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `432` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -197,6 +197,7 @@ Custom GPTs
 150. [Video Meme Compiler](https://github.com/sourceduty/Video_Meme_Compiler)
 151. [Storage Organization](https://github.com/sourceduty/Storage_Organization)
 152. [Wedding Design](https://github.com/sourceduty/Wedding_Design)
+153. [Material Price](https://github.com/sourceduty/Material_Price)
 
 Concept Custom GPTs
 
