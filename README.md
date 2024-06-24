@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `432` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `433` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -492,6 +492,7 @@ Social
 8. [International Compatibility](https://github.com/sourceduty/International_Compatibility)
 9. [Language Barriers](https://github.com/sourceduty/Language_Barriers)
 10. [English Orthoepy](https://github.com/sourceduty/English_Orthoepy)
+11. [Russo-Ukrainian War](https://github.com/sourceduty/Russo-Ukrainian_War)
 
 Experimental
 1. [Experiments](https://github.com/sourceduty/Experiments)
