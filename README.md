@@ -1,20 +1,14 @@
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/sourceduty/sourceduty/assets/123030236/7c2417a1-561b-4046-8103-e99da48dcb33" alt="Sourceduty" width="200" height="200">
-  </a>
+![Sourceduty](https://github.com/sourceduty/sourceduty/assets/123030236/7c2417a1-561b-4046-8103-e99da48dcb33)
 
-  <h3 align="center"><strong>Sourceduty Repository Index</strong></h3>
+## **Sourceduty Repository Index**
 
-  <p align="center">
-    AI, data, research, open-source codes, concept ideas and inspiration.
-  </p>
-  <p align="center">
-    Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
-  </p>
-</div>
-  <p align="center">
+### AI, data, research, open-source codes, concept ideas and inspiration.
+
+Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
+
 > Alex: *"I want to overtake the GitHub user with most repositories within 2 or 3 years."*
-  </p>
+
+  
 ***
 
 <div align="center">
