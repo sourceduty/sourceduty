@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `435` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `436` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -201,6 +201,7 @@ Custom GPTs
 151. [Storage Organization](https://github.com/sourceduty/Storage_Organization)
 152. [Wedding Design](https://github.com/sourceduty/Wedding_Design)
 153. [Material Price](https://github.com/sourceduty/Material_Price)
+154. [Python Simulator](https://github.com/sourceduty/Python_Simulator)
 
 Concept Custom GPTs
 
