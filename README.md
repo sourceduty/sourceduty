@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `439` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `440` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -580,6 +580,7 @@ General
 15. [House Manufacturing](https://github.com/sourceduty/House_Manufacturing)
 16. [Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
 17. [EV](https://github.com/sourceduty/EV)
+18. [Wikipedia](https://github.com/sourceduty/Wikipedia)
 
 <br>
 </details>
