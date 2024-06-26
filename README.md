@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `438` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `439` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -579,6 +579,7 @@ General
 14. [Financial Threshold](https://github.com/sourceduty/Financial_Threshold)
 15. [House Manufacturing](https://github.com/sourceduty/House_Manufacturing)
 16. [Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
+17. [EV](https://github.com/sourceduty/EV)
 
 <br>
 </details>
