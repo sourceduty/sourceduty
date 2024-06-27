@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `441` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `442` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -301,6 +301,7 @@ Concept Electronics
 11. [Electronic Flagpole](https://github.com/sourceduty/Electronic_Flagpole)
 12. [UFO Traffic Light](https://github.com/sourceduty/UFO_Traffic_Light)
 13. [Corn Cob Rotisserie](https://github.com/sourceduty/Corn_Cob_Rotisserie)
+14. [Thermal Goggles](https://github.com/sourceduty/Thermal_Goggles)
 
 General
 
