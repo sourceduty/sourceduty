@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `442` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `441` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -605,12 +605,11 @@ General
 14. [Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
 15. [Logo Generator](https://github.com/sourceduty/Logo_Generator)
 16. [Virtual Hide and Seek](https://github.com/sourceduty/Virtual_Hide_and_Seek)
-17. [Personal Memory](https://github.com/sourceduty/Personal_Memory)
+17. [Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
 18. [Laptop Design](https://github.com/sourceduty/Laptop_Design)
 19. [Office Comfort](https://github.com/sourceduty/Office_Comfort)
 20. [Developing Friends](https://github.com/sourceduty/Developing_Friends)
 21. [Weddings](https://github.com/sourceduty/Weddings)
-22. [Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
 
 <br>
 </details>
