@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `442` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `443` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -560,6 +560,7 @@ General
 29. [Spot_the_Difference](https://github.com/sourceduty/Spot_the_Difference)
 30. [Programming Compatability](https://github.com/sourceduty/Programming_Compatibility)
 31. [Primary-Secondary](https://github.com/sourceduty/Primary-Secondary)
+32. [Boats](https://github.com/sourceduty/Boats)
 
 <br>
 </details>
