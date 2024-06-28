@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `443` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `444` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -522,6 +522,14 @@ Data
 3. [Currencies](https://github.com/sourceduty/Currencies)
 4. [Data Hardware](https://github.com/sourceduty/Data_Hardware)
 
+Mechanical
+1. [Manual Coffee Pod Brewer](https://github.com/sourceduty/Manual_Coffee_Pod_Brewer)
+2. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+3. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
+4. [3D Printing](https://github.com/sourceduty/3D_Printing)
+5. [Boats](https://github.com/sourceduty/Boats)
+6. [Product Design](https://github.com/sourceduty/Product_Design)
+
 General
 1. [Science](https://github.com/sourceduty/Science)
 
@@ -535,7 +543,7 @@ General
 3. [YouTube](https://github.com/sourceduty/YouTube)
 4. [Vehicle Accident Areas](https://github.com/sourceduty/Vehicle_Accident_Areas)
 5. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
-6. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
+6. [Educating Computers](https://github.com/sourceduty/Educating_Computers)
 7. [Licenses](https://github.com/sourceduty/Licenses)
 8. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
 9. [Bank Vault Boxes](https://github.com/sourceduty/Bank_Vault_Boxes)
@@ -546,21 +554,16 @@ General
 14. [POV](https://github.com/sourceduty/POV)
 15. [Encryption](https://github.com/sourceduty/Encryption)
 16. [Cumulative Vehicle Insurance](https://github.com/sourceduty/Cumulative_Vehicle_Insurance)
-17. [3D Printing](https://github.com/sourceduty/3D_Printing)
-18. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+17. [Spot_the_Difference](https://github.com/sourceduty/Spot_the_Difference)
+18. [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
 19. [Public Work](https://github.com/sourceduty/Public_Work)
 20. [Sudoku Challenge](https://github.com/sourceduty/Sudoku_Challenge)
-21. [Product Design](https://github.com/sourceduty/Product_Design)
-22. [Boats](https://github.com/sourceduty/Boats)
+21. [Primary-Secondary](https://github.com/sourceduty/Primary-Secondary)
+22. [Programming Compatability](https://github.com/sourceduty/Programming_Compatibility)
 23. [Usagespan](https://github.com/sourceduty/Usagespan)
 24. [Game Development](https://github.com/sourceduty/Game_Development)
 25. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
 26. [SQL](https://github.com/sourceduty/SQL)
-27. [Educating Computers](https://github.com/sourceduty/Educating_Computers)
-28. [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
-29. [Spot_the_Difference](https://github.com/sourceduty/Spot_the_Difference)
-30. [Programming Compatability](https://github.com/sourceduty/Programming_Compatibility)
-31. [Primary-Secondary](https://github.com/sourceduty/Primary-Secondary)
 
 <br>
 </details>
