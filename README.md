@@ -206,14 +206,14 @@ Custom GPTs
 156. [Code Challenge](https://github.com/sourceduty/Code_Challenge)
 157. [Product Authenticator](https://github.com/sourceduty/Product_Authenticator)
 158. [Graffiti](https://github.com/sourceduty/Graffiti)
+159. [Image Authenticator](https://github.com/sourceduty/Image_Authenticator)
 
 Concept Custom GPTs
 
 1. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
 2. [Mister Beast](https://github.com/sourceduty/Mister_Beast)
-3. [Image Authenticator](https://github.com/sourceduty/Image_Authenticator)
+3. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 4. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
-5. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 
 General
 
