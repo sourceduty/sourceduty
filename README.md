@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `446` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `447` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -211,6 +211,7 @@ Concept Custom GPTs
 
 1. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
 2. [Mister Beast](https://github.com/sourceduty/Mister_Beast)
+3. [Image Authenticator](https://github.com/sourceduty/Image_Authenticator)
 
 General
 
