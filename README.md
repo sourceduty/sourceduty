@@ -212,6 +212,8 @@ Concept Custom GPTs
 1. [Walk the Plank](https://github.com/sourceduty/Walk_the_Plank)
 2. [Mister Beast](https://github.com/sourceduty/Mister_Beast)
 3. [Image Authenticator](https://github.com/sourceduty/Image_Authenticator)
+4. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
+5. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 
 General
 
@@ -222,11 +224,9 @@ General
 5. [Connect X's](https://github.com/sourceduty/Connect-Xs)
 6. [Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment)
 7. [AGI](https://github.com/sourceduty/AGI)
-8. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
+8. [Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
 9. [AI Flipbook](https://github.com/sourceduty/AI_Flipbook)
-10. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
-11. [xAI](https://github.com/sourceduty/xAI)
-12. [Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
+10. [xAI](https://github.com/sourceduty/xAI)
 
 <br>    
 </details>
