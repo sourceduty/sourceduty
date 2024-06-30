@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `448` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `449` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -531,6 +531,7 @@ Mechanical
 4. [3D Printing](https://github.com/sourceduty/3D_Printing)
 5. [Boats](https://github.com/sourceduty/Boats)
 6. [Product Design](https://github.com/sourceduty/Product_Design)
+7. [Tesla Turbine](https://github.com/sourceduty/Tesla_Turbine)
 
 General
 1. [Science](https://github.com/sourceduty/Science)
