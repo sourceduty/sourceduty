@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `449` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `450` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -524,7 +524,7 @@ Data
 3. [Currencies](https://github.com/sourceduty/Currencies)
 4. [Data Hardware](https://github.com/sourceduty/Data_Hardware)
 
-Mechanical
+Electrical & Mechanical
 1. [Manual Coffee Pod Brewer](https://github.com/sourceduty/Manual_Coffee_Pod_Brewer)
 2. [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 3. [Standard_Laptops](https://github.com/sourceduty/Standard_Laptops)
@@ -532,6 +532,7 @@ Mechanical
 5. [Boats](https://github.com/sourceduty/Boats)
 6. [Product Design](https://github.com/sourceduty/Product_Design)
 7. [Tesla Turbine](https://github.com/sourceduty/Tesla_Turbine)
+8. [Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
 
 General
 1. [Science](https://github.com/sourceduty/Science)
