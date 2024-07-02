@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `455` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `456` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -493,6 +493,7 @@ Health & Biology
 6. [COVID-19](https://github.com/sourceduty/COVID-19)
 7. [Biological Computer Board](https://github.com/sourceduty/Biological_Computer_Board)
 8. [Cannabis](https://github.com/sourceduty/Cannabis)
+9. [Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
 
 Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
