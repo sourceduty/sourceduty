@@ -629,6 +629,7 @@ General
 21. [Weddings](https://github.com/sourceduty/Weddings)
 22. [Skydive Dirt Biking](https://github.com/sourceduty/Skydive_Dirt_Biking)
 23. [Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
+24. [Camera](https://github.com/sourceduty/Camera)
 
 <br>
 </details>
