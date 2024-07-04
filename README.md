@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `457` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `458` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -628,6 +628,7 @@ General
 20. [Developing Friends](https://github.com/sourceduty/Developing_Friends)
 21. [Weddings](https://github.com/sourceduty/Weddings)
 22. [Skydive Dirt Biking](https://github.com/sourceduty/Skydive_Dirt_Biking)
+23. [Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
 
 <br>
 </details>
