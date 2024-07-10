@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `465` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `466` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -639,6 +639,7 @@ General
 23. [Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
 24. [Camera](https://github.com/sourceduty/Camera)
 25. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
+26. [Canadian Métis](https://github.com/sourceduty/Canadian_Metis)
 
 <br>
 </details>
