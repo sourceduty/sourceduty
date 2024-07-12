@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `468` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `469` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -214,6 +214,7 @@ Custom GPTs
 164. [Military Product](https://github.com/sourceduty/Military_Product)
 165. [James Bond Chat](https://github.com/sourceduty/James_Bond_Chat)
 166. [Movie Developer](https://github.com/sourceduty/Movie_Developer)
+167. [Harry Potter Chat](https://github.com/sourceduty/Harry_Potter_Chat)
 
 Concept Custom GPTs
 
