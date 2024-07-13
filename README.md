@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `469` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `470` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -585,6 +585,7 @@ General
 25. [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
 26. [SQL](https://github.com/sourceduty/SQL)
 27. [Luxury Design](https://github.com/sourceduty/Luxury_Design)
+28. [Tesla Design](https://github.com/sourceduty/Tesla_Design)
 
 <br>
 </details>
