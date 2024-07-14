@@ -592,7 +592,7 @@ General
 <details><summary>Business</summary>
 <br>
 
-1. [Canada-USA](https://github.com/sourceduty/Canada-USA)
+1. [International Business](https://github.com/sourceduty/International_Business)
 2. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
 3. [Vending Trust](https://github.com/sourceduty/Vending_Trust)
 4. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
