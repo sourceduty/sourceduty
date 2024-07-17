@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `475` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `476` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -218,6 +218,7 @@ Custom GPTs
 168. [Willy Wonka Chat](https://github.com/sourceduty/Willy_Wonka_Chat)
 169. [Marty McFly Chat](https://github.com/sourceduty/Marty_McFly_Chat)
 170. [Document Enhancer](https://github.com/sourceduty/Document_Enhancer)
+171. [Product Rating](https://github.com/sourceduty/Product_Rating)
 
 Concept Custom GPTs
 
