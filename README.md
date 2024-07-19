@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `488` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `489` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -662,6 +662,7 @@ General
 23. [Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
 24. [Camera](https://github.com/sourceduty/Camera)
 25. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
+26. [Tattoo Scars](https://github.com/sourceduty/Tattoo_Scars)
 
 <br>
 </details>
