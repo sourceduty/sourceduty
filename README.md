@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `489` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `488` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -638,7 +638,7 @@ General
 <br>
 
 1. [Predictions](https://github.com/sourceduty/Predictions)
-2. [Luxury Cars](https://github.com/sourceduty/Luxury_Cars)
+2. [Canadian Métis](https://github.com/sourceduty/Canadian_Metis)
 3. [Organize_Emergency](https://github.com/sourceduty/Organize_Emergency)
 4. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
 5. [Ancient Egypt](https://github.com/sourceduty/Ancient_Egypt)
@@ -662,7 +662,6 @@ General
 23. [Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
 24. [Camera](https://github.com/sourceduty/Camera)
 25. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
-26. [Canadian Métis](https://github.com/sourceduty/Canadian_Metis)
 
 <br>
 </details>
