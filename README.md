@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `495` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `496` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -244,6 +244,7 @@ Concept Custom GPTs
 3. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 4. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
 5. [Graffiti](https://github.com/sourceduty/Graffiti)
+6. [Sourceduty News](https://github.com/sourceduty/Sourceduty_News)
 
 General
 
