@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `494` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `495` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -636,6 +636,7 @@ General
 19. [Government](https://github.com/sourceduty/Government)
 20. [Patreon](https://github.com/sourceduty/Patreon)
 21. [Manufacturing](https://github.com/sourceduty/Manufacturing)
+22. [Doors Loopy](https://github.com/sourceduty/Doors_Loopy)
 
 <br>
 </details>
