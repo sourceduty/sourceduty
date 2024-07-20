@@ -234,7 +234,7 @@ Custom GPTs
 184. [Patent Advisor](https://github.com/sourceduty/Patent_Advisor)
 185. [Animated Plots](https://github.com/sourceduty/Animated_Plots)
 186. [Bias Analyzer](https://github.com/sourceduty/Bias_Analyzer)
-187. [Contract Pro](https://github.com/sourceduty/Contract_Pro)
+187. [Contract Program](https://chatgpt.com/g/g-4R7U89xNb-contract-program)
 
 Concept Custom GPTs
 
