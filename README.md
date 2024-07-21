@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `498` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `499` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -238,6 +238,7 @@ Custom GPTs
 188. [Company News](https://github.com/sourceduty/Company_News)
 189. [Subsidiary Business](https://github.com/sourceduty/Subsidiary_Business)
 190. [Business Conglomerate](https://github.com/sourceduty/Business_Conglomerate)
+191. [Vote Advisor](https://github.com/sourceduty/Vote_Advisor)
 
 Concept Custom GPTs
 
