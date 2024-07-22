@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `504` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `505` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -243,6 +243,7 @@ Custom GPTs
 193. [Artist Radar](https://github.com/sourceduty/Artist_Radar)
 194. [Startup Business Agent](https://github.com/sourceduty/Startup_Business_Agent)
 195. [Industry Antimodel](https://github.com/sourceduty/Industry_Antimodel)
+196. [Expandability Agent](https://github.com/sourceduty/Expandability_Agent)
 
 Concept Custom GPTs
 
