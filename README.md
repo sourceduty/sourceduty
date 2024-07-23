@@ -39,7 +39,7 @@ ChatGPT
 5. [ChatGPT Actions](https://github.com/sourceduty/ChatGPT_Actions)
 6. [Copyright AI](https://github.com/sourceduty/Copyright_AI)
 7. [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
-8. [AI Simulation](https://github.com/sourceduty/AI_Simulation)
+8. [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
 9. [DALL-E 3](https://github.com/sourceduty/DALL-E_3)
 10. [ChatGPT Preview Panel Assistant](https://github.com/sourceduty/ChatGPT_Preview_Panel_Assistant)
 11. [Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)
