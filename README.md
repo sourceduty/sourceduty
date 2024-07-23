@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `509` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `510` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -248,6 +248,7 @@ Custom GPTs
 198. [History Simulator](https://github.com/sourceduty/History_Simulator)
 199. [Fashion Product](https://github.com/sourceduty/Fashion_Product)
 200. [Museum Simulator](https://github.com/sourceduty/Museum_Simulator)
+201. [Economy Simulator](https://github.com/sourceduty/Economy_Simulator)
 
 Concept Custom GPTs
 
