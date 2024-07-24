@@ -253,6 +253,7 @@ Custom GPTs
 203. [UN Simulator](https://github.com/sourceduty/UN_Simulator)
 204. [Research Planner](https://github.com/sourceduty/Research_Planner)
 205. [Business Maturity](https://github.com/sourceduty/Business_Maturity)
+206. [Data Marketer](https://github.com/sourceduty/Data_Marketer)
 
 Concept Custom GPTs
 
