@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `513` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `514` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -252,6 +252,7 @@ Custom GPTs
 202. [Burj Khalifa Simulator](https://github.com/sourceduty/Burj_Khalifa_Simulator)
 203. [UN Simulator](https://github.com/sourceduty/UN_Simulator)
 204. [Research Planner](https://github.com/sourceduty/Research_Planner)
+205. [Business Maturity](https://github.com/sourceduty/Business_Maturity)
 
 Concept Custom GPTs
 
