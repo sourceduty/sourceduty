@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `514` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `515` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -254,6 +254,7 @@ Custom GPTs
 204. [Research Planner](https://github.com/sourceduty/Research_Planner)
 205. [Business Maturity](https://github.com/sourceduty/Business_Maturity)
 206. [Data Marketer](https://github.com/sourceduty/Data_Marketer)
+207. [Transvalue Developer](https://github.com/sourceduty/Transvalue_Developer)
 
 Concept Custom GPTs
 
