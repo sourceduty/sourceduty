@@ -225,7 +225,7 @@ Custom GPTs
 175. [Motorsport Manager](https://github.com/sourceduty/Motorsport_Manager)
 176. [Product Tester](https://github.com/sourceduty/Product_Tester)
 177. [Product Demo](https://github.com/sourceduty/Product_Demo)
-178. [Quantum Biology](https://github.com/sourceduty/Quantum_Biology)
+178. [Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
 179. [My News Report](https://github.com/sourceduty/My_News_Report)
 180. [Promotion Planner](https://github.com/sourceduty/Promotion_Planner)
 181. [Business Advice](https://github.com/sourceduty/Business_Advice)
