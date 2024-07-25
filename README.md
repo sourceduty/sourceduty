@@ -709,3 +709,8 @@ General
 #
 
 ![Badges](https://github.com/sourceduty/sourceduty/assets/123030236/f65f6673-6020-4d10-9595-63562bbd521a)
+
+#
+
+![Verified Info Source](https://github.com/user-attachments/assets/b9bece67-9c25-419e-8300-45764fe042cf)
+
