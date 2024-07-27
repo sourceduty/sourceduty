@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `528` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `532` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -257,15 +257,16 @@ Custom GPTs
 207. [Transvalue Developer](https://github.com/sourceduty/Transvalue_Developer)
 208. [Outsourcing Agent](https://github.com/sourceduty/Outsourcing_Agent)
 209. [Failsafe Planner](https://github.com/sourceduty/Failsafe_Planner)
-210. [Live Data Developer](https://github.com/sourceduty/Live_Data_Developer)
-211. [Isotope Engineer](https://github.com/sourceduty/Isotope_Engineer)
-212. [Image Contest](https://github.com/sourceduty/Image_Contest)
-213. [Character Product](https://github.com/sourceduty/Character_Product)
-214. [Business_Problem-Word_Tool](https://github.com/sourceduty/Business_Problem-Word_Tool)
-215. [Experiment Proof](https://github.com/sourceduty/Experiment_Proof)
-216. [Prediction Proof](https://github.com/sourceduty/Prediction_Proof)
-217. [Copyright Free](https://github.com/sourceduty/Copyright_Free)
-218. [Movie Prop Design](https://github.com/sourceduty/Movie_Prop_Design)
+210. [Video Instructor](https://github.com/sourceduty/Video_Instructor)
+211. [Live Data Developer](https://github.com/sourceduty/Live_Data_Developer)
+212. [Isotope Engineer](https://github.com/sourceduty/Isotope_Engineer)
+213. [Image Contest](https://github.com/sourceduty/Image_Contest)
+214. [Character Product](https://github.com/sourceduty/Character_Product)
+215. [Business_Problem-Word_Tool](https://github.com/sourceduty/Business_Problem-Word_Tool)
+216. [Experiment Proof](https://github.com/sourceduty/Experiment_Proof)
+217. [Prediction Proof](https://github.com/sourceduty/Prediction_Proof)
+218. [Copyright Free](https://github.com/sourceduty/Copyright_Free)
+219. [Movie Prop Design](https://github.com/sourceduty/Movie_Prop_Design)
 
 Concept Custom GPTs
 
@@ -316,6 +317,8 @@ General
 17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 19. [Fractal Art Creator](https://github.com/sourceduty/Fractal_Art_Creator)
+20. [Serial Simulator](https://github.com/sourceduty/Serial_Simulator)
+21. [Opiniated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
 
 Libraries and Packages
 
@@ -448,6 +451,7 @@ Canada
 2. [Ontario Parks](https://github.com/sourceduty/Ontario_Parks_Canada)
 3. [Land Palette](https://github.com/sourceduty/Land_Palette)
 4. [The Corporation of Canada](https://github.com/sourceduty/The_Corporation_of_Canada)
+5. [Canadian Weather](https://github.com/sourceduty/Canadian_Weather)
 
 ~~Twitter~~ X
 
@@ -464,6 +468,7 @@ Google
 5. [Google_Earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
 6. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
 7. [YouTube Subtitles Converter](https://github.com/sourceduty/YouTube_Subtitles_Converter)
+8. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 
 GitHub
 
