@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `533` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `534` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -267,6 +267,7 @@ Custom GPTs
 217. [Prediction Proof](https://github.com/sourceduty/Prediction_Proof)
 218. [Copyright Free](https://github.com/sourceduty/Copyright_Free)
 219. [Movie Prop Design](https://github.com/sourceduty/Movie_Prop_Design)
+220. [Document Emulator](https://github.com/sourceduty/Document_Emulator)
 
 Concept Custom GPTs
 
