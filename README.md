@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `547` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `548` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -723,6 +723,7 @@ General
 25. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 26. [Tattoo Scars](https://github.com/sourceduty/Tattoo_Scars)
 27. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
+28. [Job Quality](https://github.com/sourceduty/Job_Quality)
 
 <br>
 </details>
