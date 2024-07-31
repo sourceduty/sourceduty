@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `545` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `546` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -278,6 +278,7 @@ Custom GPTs
 228. [National Template](https://github.com/sourceduty/National_Template)
 229. [Finance Model](https://github.com/sourceduty/Finance_Model)
 230. [Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
+231. [Political Simulator](https://github.com/sourceduty/Political_Simulator)
 
 Concept Custom GPTs
 
