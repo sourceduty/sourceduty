@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `550` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `551` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -282,6 +282,7 @@ Custom GPTs
 232. [Serial Format](https://github.com/sourceduty/Serial_Format)
 233. [Scuba Zip](https://github.com/sourceduty/Scuba_Zip)
 234. [Travel Spots](https://github.com/sourceduty/Travel_Spots)
+235. [Community Model](https://github.com/sourceduty/Community_Model)
 
 Concept Custom GPTs
 
