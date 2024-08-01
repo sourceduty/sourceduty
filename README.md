@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `553` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `554` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -694,6 +694,7 @@ General
 23. [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
 24. [Information Conflicts](https://github.com/sourceduty/Information_Conflicts)
 25. [Communication](https://github.com/sourceduty/Communication)
+26. [Computer Mouse Factory](https://github.com/sourceduty/Computer_Mouse_Factory)
 
 <br>
 </details>
