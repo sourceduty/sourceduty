@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `552` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `553` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -335,6 +335,7 @@ General
 19. [Fractal Art Creator](https://github.com/sourceduty/Fractal_Art_Creator)
 20. [Serial Simulator](https://github.com/sourceduty/Serial_Simulator)
 21. [Opiniated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
+22. [Sourceduty Calculator](https://github.com/sourceduty/Sourceduty_Calculator)
 
 Libraries and Packages
 
