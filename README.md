@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `555` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `556` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -624,6 +624,7 @@ Electrical & Mechanical
 6. [Product Design](https://github.com/sourceduty/Product_Design)
 7. [Tesla Turbine](https://github.com/sourceduty/Tesla_Turbine)
 8. [Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
+9. [Humanoid](https://github.com/sourceduty/Humanoid)
 
 General
 1. [Science](https://github.com/sourceduty/Science)
