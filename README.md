@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `565` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `566` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -561,6 +561,9 @@ Chemistry
 8. [Food Inhalant](https://github.com/sourceduty/Food_Inhalant)
 9. [Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
 10. [Golf Balls](https://github.com/sourceduty/Golf_Balls)
+
+Math & Analytics
+1. [Comfort-Navigation](https://github.com/sourceduty/Comfort-Navigation_Math)
 
 Space & Physics
 1. [Space](https://github.com/sourceduty/Space)
