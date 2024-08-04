@@ -290,7 +290,7 @@ Custom GPTs
 240. [Research Automation](https://github.com/sourceduty/Research_Automation)
 241. [Tactical Vehicle Strategy](https://github.com/sourceduty/Tactical_Vehicle_Strategy)
 242. [Space Maintenance](https://github.com/sourceduty/Space_Maintenance)
-243. [Math Programmer](https://github.com/sourceduty/Math_Programming)
+243. [Math Programmer](https://github.com/sourceduty/Math_Programmer)
 
 Concept Custom GPTs
 
