@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `566` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `567` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -563,7 +563,9 @@ Chemistry
 10. [Golf Balls](https://github.com/sourceduty/Golf_Balls)
 
 Math & Analytics
-1. [Comfort-Navigation](https://github.com/sourceduty/Comfort-Navigation_Math)
+1. [Math](https://github.com/sourceduty/Math)
+2. [Comfort-Navigation](https://github.com/sourceduty/Comfort-Navigation_Math)
+
 
 Space & Physics
 1. [Space](https://github.com/sourceduty/Space)
