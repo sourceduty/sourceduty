@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `573` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `574` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -295,6 +295,7 @@ Custom GPTs
 245. [Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 246. [Hardware Twin](https://github.com/sourceduty/Hardware_Twin)
 247. [Community Automation](https://github.com/sourceduty/Community_Automation)
+248. [Format Developer](https://github.com/sourceduty/Format_Developer)
 
 Concept Custom GPTs
 
