@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `570` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `571` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -292,6 +292,7 @@ Custom GPTs
 242. [Space Maintenance](https://github.com/sourceduty/Space_Maintenance)
 243. [Math Programmer](https://github.com/sourceduty/Math_Programmer)
 244. [Biological Reactor](https://github.com/sourceduty/Biological_Reactor)
+245. [Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 
 Concept Custom GPTs
 
