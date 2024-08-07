@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `580` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `581` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -553,6 +553,7 @@ Concepts
 21. [Grand Theft Auto 8](https://github.com/sourceduty/Grand_Theft_Auto_8)
 22. [Skateless Hockey](https://github.com/sourceduty/Skateless_Hockey)
 23. [Throwback Legends](https://github.com/sourceduty/Throwback_Legends)
+24. [CAPTCHA Game](https://github.com/sourceduty/CAPTCHA_Game)
 
 General:
 
