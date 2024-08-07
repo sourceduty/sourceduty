@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `579` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `580` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -466,6 +466,7 @@ General
 26. [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
 27. [World Clocks](https://github.com/sourceduty/World_Clocks)
 28. [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
+29. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
 
 Unlikely
 
