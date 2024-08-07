@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `576` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `577` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -351,6 +351,7 @@ General
 21. [Opiniated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
 22. [Sourceduty Calculator](https://github.com/sourceduty/Sourceduty_Calculator)
 23. [Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
+24. [Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
 
 Libraries and Packages
 
