@@ -376,7 +376,7 @@ Libraries and Packages
 Arduino
 
 1. [Soil Analyzer](https://github.com/sourceduty/Soil_Analyzer)
-2. [Power Time Logger](https://github.com/sourceduty/Power_Time_Logger) 
+2. [Power-Time Logger](https://github.com/sourceduty/Power-Time_Logger) 
 3. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
 4. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
 5. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
