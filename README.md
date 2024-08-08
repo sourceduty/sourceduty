@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `586` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `587` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -695,6 +695,7 @@ General
 27. [Luxury Design](https://github.com/sourceduty/Luxury_Design)
 28. [Tesla Design](https://github.com/sourceduty/Tesla_Design)
 29. [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
+30. [Termux](https://github.com/sourceduty/Termux)
 
 <br>
 </details>
