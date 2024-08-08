@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `582` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `583` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -606,6 +606,7 @@ Health & Biology
 8. [Cannabis](https://github.com/sourceduty/Cannabis)
 9. [Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
 10. [Food Design](https://github.com/sourceduty/Food_Design)
+11. [Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
 
 Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
