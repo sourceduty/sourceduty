@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `584` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `585` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -708,26 +708,27 @@ General
 6. [Provenance](https://github.com/sourceduty/Provenance)
 7. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
 8. [Automated Business](https://github.com/sourceduty/Automated_Business)
-9. [Cults3D Sales Data Analyzer](https://github.com/sourceduty/Cults3D_Sales_Data_Analyzer)
-10. [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
-11. [VPN](https://github.com/sourceduty/VPN)
-12. [Discount Auctioning](https://github.com/sourceduty/Discount_Auctioning)
-13. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
-14. [Financial Threshold](https://github.com/sourceduty/Financial_Threshold)
-15. [House Manufacturing](https://github.com/sourceduty/House_Manufacturing)
-16. [Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
-17. [EV](https://github.com/sourceduty/EV)
-18. [Wikipedia](https://github.com/sourceduty/Wikipedia)
-19. [Government](https://github.com/sourceduty/Government)
-20. [Patreon](https://github.com/sourceduty/Patreon)
-21. [Manufacturing](https://github.com/sourceduty/Manufacturing)
-22. [Doors Loopy](https://github.com/sourceduty/Doors_Loopy)
-23. [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
-24. [Information Conflicts](https://github.com/sourceduty/Information_Conflicts)
-25. [Communication](https://github.com/sourceduty/Communication)
-26. [Computer Mouse Factory](https://github.com/sourceduty/Computer_Mouse_Factory)
-27. [Policies](https://github.com/sourceduty/Policies)
-28. [Guns](https://github.com/sourceduty/Guns)
+9. [Google](https://github.com/sourceduty/Google)
+10. [Cults3D Sales Data Analyzer](https://github.com/sourceduty/Cults3D_Sales_Data_Analyzer)
+11. [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
+12. [VPN](https://github.com/sourceduty/VPN)
+13. [Discount Auctioning](https://github.com/sourceduty/Discount_Auctioning)
+14. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
+15. [Financial Threshold](https://github.com/sourceduty/Financial_Threshold)
+16. [House Manufacturing](https://github.com/sourceduty/House_Manufacturing)
+17. [Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
+18. [EV](https://github.com/sourceduty/EV)
+19. [Wikipedia](https://github.com/sourceduty/Wikipedia)
+20. [Government](https://github.com/sourceduty/Government)
+21. [Patreon](https://github.com/sourceduty/Patreon)
+22. [Manufacturing](https://github.com/sourceduty/Manufacturing)
+23. [Doors Loopy](https://github.com/sourceduty/Doors_Loopy)
+24. [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
+25. [Information Conflicts](https://github.com/sourceduty/Information_Conflicts)
+26. [Communication](https://github.com/sourceduty/Communication)
+27. [Computer Mouse Factory](https://github.com/sourceduty/Computer_Mouse_Factory)
+28. [Policies](https://github.com/sourceduty/Policies)
+29. [Guns](https://github.com/sourceduty/Guns)
 
 <br>
 </details>
