@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `589` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `590` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -302,6 +302,7 @@ Custom GPTs
 252. [Simulated Boss](https://github.com/sourceduty/Simulated_Boss)
 253. [Program Performance](https://github.com/sourceduty/Program_Performance)
 254. [Astronomy Programmer](https://github.com/sourceduty/Astronomy_Programmer)
+255. [Marine Simulator](https://github.com/sourceduty/Marine_Simulator)
 
 Concept Custom GPTs
 
