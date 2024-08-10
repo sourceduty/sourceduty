@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `592` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `593` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -45,6 +45,7 @@ ChatGPT
 11. [Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)
 12. [ChatGPT Books](https://github.com/sourceduty/ChatGPT_Books)
 13. [Extra ChatGPT Images](https://github.com/sourceduty/Extra_ChatGPT_Images)
+14. [ChatGPT Repo Automation](https://github.com/sourceduty/ChatGPT_Repo_Automation)
 
 Custom GPTs
    
