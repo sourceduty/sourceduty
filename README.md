@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `591` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `590` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -515,8 +515,7 @@ Google
 
 GitHub
 
-1. [GitHub Commit Analyzer](https://github.com/sourceduty/GitHub_Commit_Analyzer)
-2. [Commit Summary](https://github.com/sourceduty/Commit_Summary)
+1. [Commit Summary](https://github.com/sourceduty/Commit_Summary)
 
 <br>
 </details>
