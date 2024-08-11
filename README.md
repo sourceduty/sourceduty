@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `595` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `596` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -307,6 +307,7 @@ Custom GPTs
 256. [National Calendar](https://github.com/sourceduty/National_Calendar)
 257. [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 258. [Arch Linux Simulator](https://github.com/sourceduty/Arch_Linux_Sim)
+259. [Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
 
 Concept Custom GPTs
 
