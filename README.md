@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `597` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `598` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -309,6 +309,7 @@ Custom GPTs
 258. [Arch Linux Simulator](https://github.com/sourceduty/Arch_Linux_Sim)
 259. [Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
 260. [OBD2 Simulator](https://github.com/sourceduty/OBD2_Simulator)
+261. [IDE Developer](https://github.com/sourceduty/IDE_Developer)
 
 Concept Custom GPTs
 
