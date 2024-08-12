@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `602` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `601` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -689,8 +689,8 @@ General
 9. [Bank Vault Boxes](https://github.com/sourceduty/Bank_Vault_Boxes)
 10. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
 11. [Video Game History](https://github.com/sourceduty/Video_Game_History)
-12. [Starlink](https://github.com/sourceduty/Starlink)
-13. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+12. [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
+13. [Termux](https://github.com/sourceduty/Termux)
 14. [Automated Photoshop](https://github.com/sourceduty/Automated_Photoshop)
 15. [POV](https://github.com/sourceduty/POV)
 16. [Encryption](https://github.com/sourceduty/Encryption)
@@ -707,8 +707,7 @@ General
 27. [SQL](https://github.com/sourceduty/SQL)
 28. [Luxury Design](https://github.com/sourceduty/Luxury_Design)
 29. [Tesla Design](https://github.com/sourceduty/Tesla_Design)
-30. [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
-31. [Termux](https://github.com/sourceduty/Termux)
+
 
 <br>
 </details>
@@ -749,6 +748,7 @@ Sourceduty
 2. [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
 3. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
 4. [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
+5. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 
 <br>
 </details>
