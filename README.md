@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `606` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `607` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -683,36 +683,32 @@ General
 <details><summary>General</summary>
 <br>
 
-1. [GitHub](https://github.com/sourceduty/GitHub)
-2. [Twitter](https://github.com/sourceduty/Twitter)
-3. [YouTube](https://github.com/sourceduty/YouTube)
-4. [Vehicle Accident Areas](https://github.com/sourceduty/Vehicle_Accident_Areas)
-5. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
-6. [Educating Computers](https://github.com/sourceduty/Educating_Computers)
-7. [Licenses](https://github.com/sourceduty/Licenses)
-8. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
-9. [Bank Vault Boxes](https://github.com/sourceduty/Bank_Vault_Boxes)
-10. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
-11. [Video Game History](https://github.com/sourceduty/Video_Game_History)
-12. [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
-13. [Termux](https://github.com/sourceduty/Termux)
-14. [Automated Photoshop](https://github.com/sourceduty/Automated_Photoshop)
-15. [POV](https://github.com/sourceduty/POV)
-16. [Encryption](https://github.com/sourceduty/Encryption)
-17. [Cumulative Vehicle Insurance](https://github.com/sourceduty/Cumulative_Vehicle_Insurance)
-18. [Spot_the_Difference](https://github.com/sourceduty/Spot_the_Difference)
-19. [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
-20. [Public Work](https://github.com/sourceduty/Public_Work)
-21. [Sudoku Challenge](https://github.com/sourceduty/Sudoku_Challenge)
-22. [Primary-Secondary](https://github.com/sourceduty/Primary-Secondary)
-23. [Programming Compatability](https://github.com/sourceduty/Programming_Compatibility)
-24. [Usagespan](https://github.com/sourceduty/Usagespan)
-25. [Game Development](https://github.com/sourceduty/Game_Development)
-26. [Process](https://github.com/sourceduty/Process)
-27. [SQL](https://github.com/sourceduty/SQL)
-28. [Luxury Design](https://github.com/sourceduty/Luxury_Design)
-29. [Tesla Design](https://github.com/sourceduty/Tesla_Design)
-
+1. [Vehicle Accident Areas](https://github.com/sourceduty/Vehicle_Accident_Areas)
+2. [Logic_Gate_Tree_Diagrams](https://github.com/sourceduty/Logic_Gate_Tree_Diagrams)
+3. [Educating Computers](https://github.com/sourceduty/Educating_Computers)
+4. [Licenses](https://github.com/sourceduty/Licenses)
+5. [PlayerCode Font](https://github.com/sourceduty/PlayerCode)
+6. [Bank Vault Boxes](https://github.com/sourceduty/Bank_Vault_Boxes)
+7. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
+8. [Video Game History](https://github.com/sourceduty/Video_Game_History)
+9. [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
+10. [Termux](https://github.com/sourceduty/Termux)
+11. [Automated Photoshop](https://github.com/sourceduty/Automated_Photoshop)
+12. [POV](https://github.com/sourceduty/POV)
+13. [Encryption](https://github.com/sourceduty/Encryption)
+14. [Cumulative Vehicle Insurance](https://github.com/sourceduty/Cumulative_Vehicle_Insurance)
+15. [Spot_the_Difference](https://github.com/sourceduty/Spot_the_Difference)
+16. [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
+17. [Public Work](https://github.com/sourceduty/Public_Work)
+18. [Sudoku Challenge](https://github.com/sourceduty/Sudoku_Challenge)
+19. [Primary-Secondary](https://github.com/sourceduty/Primary-Secondary)
+20. [Programming Compatability](https://github.com/sourceduty/Programming_Compatibility)
+21. [Usagespan](https://github.com/sourceduty/Usagespan)
+22. [Game Development](https://github.com/sourceduty/Game_Development)
+23. [Process](https://github.com/sourceduty/Process)
+24. [SQL](https://github.com/sourceduty/SQL)
+25. [Luxury Design](https://github.com/sourceduty/Luxury_Design)
+26. [Tesla Design](https://github.com/sourceduty/Tesla_Design)
 
 <br>
 </details>
@@ -746,6 +742,10 @@ General
 25. [Information Conflicts](https://github.com/sourceduty/Information_Conflicts)
 26. [Communication](https://github.com/sourceduty/Communication)
 27. [Computer Mouse Factory](https://github.com/sourceduty/Computer_Mouse_Factory)
+28. [Facebook](https://github.com/sourceduty/Facebook)
+29. [GitHub](https://github.com/sourceduty/GitHub)
+30. [Twitter](https://github.com/sourceduty/Twitter)
+31. [YouTube](https://github.com/sourceduty/YouTube)
 
 Sourceduty
 
