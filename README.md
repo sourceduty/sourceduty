@@ -364,11 +364,10 @@ General
 19. [Fractal Art Creator](https://github.com/sourceduty/Fractal_Art_Creator)
 20. [Serial Simulator](https://github.com/sourceduty/Serial_Simulator)
 21. [Opiniated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
-22. [Sourceduty Calculator](https://github.com/sourceduty/Sourceduty_Calculator)
+22. [Close Encounters Lights](https://github.com/sourceduty/Close_Encounters_Lights)
 23. [Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
 24. [Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
 25. [ZIP Topology](https://github.com/sourceduty/ZIP_Topology)
-26. [Close Encounters Lights](https://github.com/sourceduty/Close_Encounters_Lights)
 
 Libraries and Packages
 
@@ -480,9 +479,8 @@ General
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 26. [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
 27. [World Clocks](https://github.com/sourceduty/World_Clocks)
-28. [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
-29. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
-30. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
+28. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
+29. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
 
 Unlikely
 
@@ -717,7 +715,7 @@ General
 <br>
 
 1. [International Business](https://github.com/sourceduty/International_Business)
-2. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
+2. [Policies](https://github.com/sourceduty/Policies) 
 3. [Vending Trust](https://github.com/sourceduty/Vending_Trust)
 4. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
 5. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
@@ -726,7 +724,7 @@ General
 8. [Automated Business](https://github.com/sourceduty/Automated_Business)
 9. [Google](https://github.com/sourceduty/Google)
 10. [Cults3D Sales Data Analyzer](https://github.com/sourceduty/Cults3D_Sales_Data_Analyzer)
-11. [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
+11. [Guns](https://github.com/sourceduty/Guns)
 12. [VPN](https://github.com/sourceduty/VPN)
 13. [Discount Auctioning](https://github.com/sourceduty/Discount_Auctioning)
 14. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
@@ -743,8 +741,13 @@ General
 25. [Information Conflicts](https://github.com/sourceduty/Information_Conflicts)
 26. [Communication](https://github.com/sourceduty/Communication)
 27. [Computer Mouse Factory](https://github.com/sourceduty/Computer_Mouse_Factory)
-28. [Policies](https://github.com/sourceduty/Policies)
-29. [Guns](https://github.com/sourceduty/Guns)
+
+Sourceduty
+
+1. [Sourceduty Calculator](https://github.com/sourceduty/Sourceduty_Calculator)
+2. [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
+3. [Sourceduty II](https://github.com/sourceduty/Sourceduty_2)
+4. [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 
 <br>
 </details>
@@ -799,4 +802,3 @@ General
 #
 
 ![Verified Info Source](https://github.com/user-attachments/assets/b9bece67-9c25-419e-8300-45764fe042cf)
-
