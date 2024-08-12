@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `604` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `605` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -316,6 +316,7 @@ Custom GPTs
 265. [Data Performance](https://github.com/sourceduty/Data_Performance)
 266. [Ship Fleet Asset Simulator](https://github.com/sourceduty/Ship_Fleet-Asset_Simulator)
 267. [Cargowise One Simulator](https://github.com/sourceduty/Cargowise_Simulator)
+268. [Tractor Interface](https://github.com/sourceduty/Tractor_Interface)
 
 Concept Custom GPTs
 
