@@ -379,7 +379,6 @@ General
 23. [Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
 24. [Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
 25. [ZIP Topology](https://github.com/sourceduty/ZIP_Topology)
-26. [Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
 
 Libraries and Packages
 
@@ -493,6 +492,7 @@ General
 27. [World Clocks](https://github.com/sourceduty/World_Clocks)
 28. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
 29. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
+30. [Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
 
 Unlikely
 
