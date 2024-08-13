@@ -176,7 +176,7 @@ Custom GPTs
 125. [Dataset Analyzer](https://github.com/sourceduty/Dataset_Analyzer)
 126. [Product Demand](https://github.com/sourceduty/Product_Demand)
 127. [Face Compare](https://github.com/sourceduty/Face_Compare)
-128. [Sam Altman](https://github.com/sourceduty/Sam_Altman)
+128. [Health Informatics Simulator](https://github.com/sourceduty/Health_Informatics_Simulator)
 129. [Alex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
 130. [Digital Experiment](https://github.com/sourceduty/Digital_Experiment)
 131. [GPT Simulator](https://github.com/sourceduty/GPT_Simulator)
@@ -322,7 +322,6 @@ Custom GPTs
 271. [EV Toolbox](https://github.com/sourceduty/EV_Toolbox)
 272. [Combinatorics Simulator](https://github.com/sourceduty/Combinatorics_Simulator)
 273. [Microbiology Simulator](https://github.com/sourceduty/Microbiology_Simulator)
-274. [Health Informatics Simulator](https://github.com/sourceduty/Health_Informatics_Simulator)
 
 Concept Custom GPTs
 
@@ -332,6 +331,7 @@ Concept Custom GPTs
 4. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
 5. [Graffiti](https://github.com/sourceduty/Graffiti)
 6. [Sourceduty News](https://github.com/sourceduty/Sourceduty_News)
+7. [Sam Altman](https://github.com/sourceduty/Sam_Altman)
 
 General
 
