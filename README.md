@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `615` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `616` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -322,6 +322,7 @@ Custom GPTs
 271. [EV Toolbox](https://github.com/sourceduty/EV_Toolbox)
 272. [Combinatorics Simulator](https://github.com/sourceduty/Combinatorics_Simulator)
 273. [Microbiology Simulator](https://github.com/sourceduty/Microbiology_Simulator)
+274. [Dragon's Den](https://github.com/sourceduty/Dragons_Den)
 
 Concept Custom GPTs
 
