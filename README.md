@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `609` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `610` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -319,6 +319,7 @@ Custom GPTs
 268. [Tractor Interface](https://github.com/sourceduty/Tractor_Interface)
 269. [Space Terminal](https://github.com/sourceduty/Space_Terminal)
 270. [Taskbar Programmer](https://github.com/sourceduty/Taskbar_Programmer)
+271. [EV Toolbox](https://github.com/sourceduty/EV_Toolbox)
 
 Concept Custom GPTs
 
