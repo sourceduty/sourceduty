@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `617` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `618` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -324,6 +324,7 @@ Custom GPTs
 273. [Microbiology Simulator](https://github.com/sourceduty/Microbiology_Simulator)
 274. [Dragon's Den](https://github.com/sourceduty/Dragons_Den)
 275. [Airplane Programmer](https://github.com/sourceduty/Airplane_Progammer)
+276. [Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)
 
 Concept Custom GPTs
 
