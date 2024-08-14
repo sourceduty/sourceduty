@@ -810,7 +810,7 @@ Sourceduty
 
 ***
 
-Important links:
+Important repos:
 
 [GitHub](https://github.com/sourceduty/GitHub)
 <br>
