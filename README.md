@@ -12,7 +12,7 @@
     Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
   </p>
   <p align="center">
- Alex: <em>"I want to overtake the GitHub user with most repositories within 2 or 3 years."</em>
+ Alex: <em>"I want to overtake the GitHub user with most repositories within 1 or 2 years."</em>
   </p>
 </div>
   
