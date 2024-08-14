@@ -814,7 +814,7 @@ Important repos:
 
 [GitHub](https://github.com/sourceduty/GitHub)
 <br>
-[Sourceduty OS](https://github.com/sourceduty/Sourceduty_Business)
+[Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 <br>
 [Alex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
 
