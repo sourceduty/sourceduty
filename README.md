@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `619` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `620` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -326,6 +326,7 @@ Custom GPTs
 275. [Airplane Programmer](https://github.com/sourceduty/Airplane_Progammer)
 276. [Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)
 277. [Rocket Programmer](https://github.com/sourceduty/Rocket_Programmer)
+278. [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
 
 Concept Custom GPTs
 
