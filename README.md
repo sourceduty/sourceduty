@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `622` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `621` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -713,7 +713,7 @@ General
 15. [Spot_the_Difference](https://github.com/sourceduty/Spot_the_Difference)
 16. [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
 17. [Public Work](https://github.com/sourceduty/Public_Work)
-18. [Sudoku Challenge](https://github.com/sourceduty/Sudoku_Challenge)
+18. [Public Opinion Standard](https://github.com/sourceduty/Public_Opinion_Standard)
 19. [Primary-Secondary](https://github.com/sourceduty/Primary-Secondary)
 20. [Programming Compatability](https://github.com/sourceduty/Programming_Compatibility)
 21. [Usagespan](https://github.com/sourceduty/Usagespan)
@@ -722,7 +722,6 @@ General
 24. [SQL](https://github.com/sourceduty/SQL)
 25. [Luxury Design](https://github.com/sourceduty/Luxury_Design)
 26. [Tesla Design](https://github.com/sourceduty/Tesla_Design)
-27. [Public Opinion Standard](https://github.com/sourceduty/Public_Opinion_Standard)
 
 <br>
 </details>
