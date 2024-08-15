@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `628` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `629` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -334,6 +334,7 @@ Custom GPTs
 283. [Automation Sim](https://github.com/sourceduty/Automation_Sim)
 284. [Document Update](https://github.com/sourceduty/Document_Update)
 285. [Movie Bookscript](https://github.com/sourceduty/Movie_Bookscript)
+286. [Metamodel Developer](https://github.com/sourceduty/Metamodel_Developer)
 
 Concept Custom GPTs
 
