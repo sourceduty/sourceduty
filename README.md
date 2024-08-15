@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `624` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `625` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -692,6 +692,7 @@ Electrical & Mechanical
 General
 1. [Science](https://github.com/sourceduty/Science)
 2. [Myth Proof](https://github.com/sourceduty/Myth_Proof)
+3. [Theory](https://github.com/sourceduty/Theory)
 
 <br>
 </details>
