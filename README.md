@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `631` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `632` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -337,6 +337,7 @@ Custom GPTs
 286. [Metamodel Developer](https://github.com/sourceduty/Metamodel_Developer)
 287. [System Control Theory](https://github.com/sourceduty/System_Control_Theory)
 288. [Radio Simulator](https://github.com/sourceduty/Radio_Simulator)
+289. [Digital Radio & Telecom](https://github.com/sourceduty/Digital_Radio_Telecom)
 
 Concept Custom GPTs
 
