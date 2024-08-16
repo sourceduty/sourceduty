@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `633` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `634` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -509,6 +509,7 @@ General
 28. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
 29. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
 30. [Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
+31. [Geo-Historic Word Valuation](https://github.com/sourceduty/Geo-Historic_Word_Valuation)
 
 Unlikely
 
