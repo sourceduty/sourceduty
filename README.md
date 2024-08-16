@@ -1,7 +1,5 @@
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/sourceduty/sourceduty/assets/123030236/7c2417a1-561b-4046-8103-e99da48dcb33" alt="Sourceduty" width="200" height="200">
-  </a>
+
+![Security 1](https://github.com/user-attachments/assets/03cbad01-9260-4baf-a6b1-74402635bd51)
 
   <h3 align="center"><strong>Sourceduty Repository Index</strong></h3>
 
