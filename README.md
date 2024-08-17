@@ -655,7 +655,7 @@ Health & Biology
 9. [Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
 10. [Food Design](https://github.com/sourceduty/Food_Design)
 11. [Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
-12. [Global Gay Problem](https://github.com/sourceduty/Global_Gay_Problem)
+12. [Global Gay Problems](https://github.com/sourceduty/Global_Gay_Problem)
 
 Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
