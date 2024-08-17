@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `640` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `641` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -342,6 +342,7 @@ Custom GPTs
 290. [Material Age Tool](https://github.com/sourceduty/Material_Age_Tool)
 291. [Luxury Product](https://github.com/sourceduty/Luxury_Product)
 292. [Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
+293. [Neuromorphic Simulator](https://github.com/sourceduty/Neuromorphic_Simulator)
 
 Concept Custom GPTs
 
