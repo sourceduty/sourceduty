@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `645` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `646` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -346,6 +346,7 @@ Custom GPTs
 294. [Neuroquantum Simulator](https://github.com/sourceduty/Neuroquantum_Simulator)
 295. [Military Programmer](https://github.com/sourceduty/Military_Programmer)
 296. [Semaphore Sign](https://github.com/sourceduty/Semaphore_Sign)
+297. [Thinking As](https://github.com/sourceduty/Thinking_As)
 
 Concept Custom GPTs
 
