@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `656` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `657` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -839,6 +839,7 @@ Sourceduty
 27. [Tattoo Scars](https://github.com/sourceduty/Tattoo_Scars)
 28. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
 29. [Job Quality](https://github.com/sourceduty/Job_Quality)
+30. [Coercion](https://github.com/sourceduty/Coercion)
 
 <br>
 </details>
