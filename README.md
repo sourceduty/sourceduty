@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `658` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `659` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -354,6 +354,7 @@ Custom GPTs
 302. [Government Automation](https://github.com/sourceduty/Government_Automation)
 303. [3D Model Analysis](https://github.com/sourceduty/3D_Model_Analysis)
 304. [Fishing Expert](https://github.com/sourceduty/Fishing_Expert)
+305. [Metaphysical Science](https://github.com/sourceduty/Metaphysical_Science)
 
 Concept Custom GPTs
 
