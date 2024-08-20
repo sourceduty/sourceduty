@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `657` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `658` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -689,6 +689,7 @@ Social
 13. [Social Security](https://github.com/sourceduty/Social_Security)
 14. [Donald Trump Shooting](https://github.com/sourceduty/Donald_Trump_Shooting)
 15. [Human Names](https://github.com/sourceduty/Human_Names)
+16. [Politics](https://github.com/sourceduty/Politics)
 
 Experimental
 1. [Experiments](https://github.com/sourceduty/Experiments)
