@@ -58,7 +58,7 @@ Custom GPTs
 6. [PDF Image Extractor](https://github.com/sourceduty/PDF_Image_Extractor)
 7. [Personality Template](https://github.com/sourceduty/Personality_Template)
 8. [Process_Diagram](https://github.com/sourceduty/Process_Diagram)
-9. [Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
+9. [Same Voice](https://github.com/sourceduty/Same_Voice)
 10. [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
 11. [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
 12. [Fake Information Purifier](https://github.com/sourceduty/Fake_Information_Purifier)
@@ -356,7 +356,6 @@ Custom GPTs
 304. [Fishing Expert](https://github.com/sourceduty/Fishing_Expert)
 305. [Metaphysical Science](https://github.com/sourceduty/Metaphysical_Science)
 306. [Accent Simulator](https://github.com/sourceduty/Accent_Simulator)
-307. [Same Voice](https://github.com/sourceduty/Same_Voice)
 
 Concept Custom GPTs
 
