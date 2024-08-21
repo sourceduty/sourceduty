@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `662` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `663` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -704,6 +704,7 @@ Experimental
 7. [Levitation Lab](https://github.com/sourceduty/Levitation_Lab)
 8. [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
 9. [Reactors](https://github.com/sourceduty/Reactors)
+10. [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
