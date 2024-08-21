@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `661` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `662` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -357,6 +357,7 @@ Custom GPTs
 305. [Metaphysical Science](https://github.com/sourceduty/Metaphysical_Science)
 306. [Accent Simulator](https://github.com/sourceduty/Accent_Simulator)
 307. [Campaign Planner](https://github.com/sourceduty/Campaign_Planner)
+308. [Reactors](https://github.com/sourceduty/Reactors)
 
 Concept Custom GPTs
 
