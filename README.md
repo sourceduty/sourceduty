@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `659` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `660` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -356,6 +356,7 @@ Custom GPTs
 304. [Fishing Expert](https://github.com/sourceduty/Fishing_Expert)
 305. [Metaphysical Science](https://github.com/sourceduty/Metaphysical_Science)
 306. [Accent Simulator](https://github.com/sourceduty/Accent_Simulator)
+307. [Same Voice](https://github.com/sourceduty/Same_Voice)
 
 Concept Custom GPTs
 
