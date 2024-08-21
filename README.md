@@ -357,7 +357,6 @@ Custom GPTs
 305. [Metaphysical Science](https://github.com/sourceduty/Metaphysical_Science)
 306. [Accent Simulator](https://github.com/sourceduty/Accent_Simulator)
 307. [Campaign Planner](https://github.com/sourceduty/Campaign_Planner)
-308. [Reactors](https://github.com/sourceduty/Reactors)
 
 Concept Custom GPTs
 
@@ -704,6 +703,7 @@ Experimental
 6. [Lawn Mowing Patterns](https://github.com/sourceduty/Lawn_Mowing_Patterns)
 7. [Levitation Lab](https://github.com/sourceduty/Levitation_Lab)
 8. [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
+9. [Reactors](https://github.com/sourceduty/Reactors)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
