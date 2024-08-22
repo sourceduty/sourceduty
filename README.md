@@ -359,6 +359,7 @@ Custom GPTs
 307. [Campaign Planner](https://github.com/sourceduty/Campaign_Planner)
 308. [Ion Simulator](https://github.com/sourceduty/Ion_Simulator)
 309. [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+310. [Computational Programming](https://github.com/sourceduty/Computational_Programming)
 
 Concept Custom GPTs
 
@@ -706,7 +707,6 @@ Experimental & Theory
 7. [Levitation Lab](https://github.com/sourceduty/Levitation_Lab)
 8. [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
 9. [Reactors](https://github.com/sourceduty/Reactors)
-10. [Computational Programming](https://github.com/sourceduty/Computational_Programming)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
