@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `663` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `664` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -694,7 +694,7 @@ Social
 15. [Human Names](https://github.com/sourceduty/Human_Names)
 16. [Politics](https://github.com/sourceduty/Politics)
 
-Experimental
+Experimental & Theory
 1. [Experiments](https://github.com/sourceduty/Experiments)
 2. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
@@ -705,6 +705,7 @@ Experimental
 8. [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
 9. [Reactors](https://github.com/sourceduty/Reactors)
 10. [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+11. [Computational Programming](https://github.com/sourceduty/Computational_Programming)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
