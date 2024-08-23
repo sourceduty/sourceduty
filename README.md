@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `670` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `671` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -732,6 +732,7 @@ Electrical & Mechanical
 9. [Humanoid](https://github.com/sourceduty/Humanoid)
 10. [Energy Systems](https://github.com/sourceduty/Energy_Systems)
 11. [Motorcycles](https://github.com/sourceduty/Motorcycles)
+12. [Active Offline NFC Security](https://github.com/sourceduty/Active_Offline_NFC_Security)
 
 General
 1. [Science](https://github.com/sourceduty/Science)
