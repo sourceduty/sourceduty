@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `667` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `668` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -361,6 +361,7 @@ Custom GPTs
 309. [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 310. [Computational Programming](https://github.com/sourceduty/Computational_Programming)
 311. [Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
+312. [Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
 
 Concept Custom GPTs
 
@@ -709,6 +710,7 @@ Experimental & Theory
 8. [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
 9. [Reactors](https://github.com/sourceduty/Reactors)
 10. [Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
+11.  [Theory](https://github.com/sourceduty/Theory)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
@@ -732,7 +734,6 @@ Electrical & Mechanical
 General
 1. [Science](https://github.com/sourceduty/Science)
 2. [Myth Proof](https://github.com/sourceduty/Myth_Proof)
-3. [Theory](https://github.com/sourceduty/Theory)
 
 <br>
 </details>
