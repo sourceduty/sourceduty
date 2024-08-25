@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `673` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `674` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -366,6 +366,7 @@ Custom GPTs
 314. [Xenodynamics](https://github.com/sourceduty/Xenodynamics)
 315. [Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
 316. [Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
+317. [Book Quality](https://github.com/sourceduty/Book_Quality)
 
 Concept Custom GPTs
 
