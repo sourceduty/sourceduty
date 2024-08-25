@@ -363,11 +363,9 @@ Custom GPTs
 311. [Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
 312. [Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
 313. [Computational Networks](https://github.com/sourceduty/Computational_Networks)
-314. [Xenodynamics](https://github.com/sourceduty/Xenodynamics)
-315. [Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
-316. [Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
-317. [Book Quality](https://github.com/sourceduty/Book_Quality)
-318. [Quantum Informatics](https://github.com/sourceduty/Quantum_Informatics)
+314. [Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
+315. [Quantum Informatics](https://github.com/sourceduty/Quantum_Informatics)
+316. [Book Quality](https://github.com/sourceduty/Book_Quality)
 
 Concept Custom GPTs
 
@@ -655,7 +653,6 @@ Math & Analytics
 2. [Comfort-Navigation](https://github.com/sourceduty/Comfort-Navigation_Math)
 3. [Snow Load](https://github.com/sourceduty/Snow_Load)
 
-
 Space & Physics
 1. [Space](https://github.com/sourceduty/Space)
 2. [Mars](https://github.com/sourceduty/Mars)
@@ -717,6 +714,9 @@ Experimental & Theory
 9. [Reactors](https://github.com/sourceduty/Reactors)
 10. [Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
 11.  [Theory](https://github.com/sourceduty/Theory)
+12.  [Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
+13.  [Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
+14.  [Xenodynamics](https://github.com/sourceduty/Xenodynamics)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
