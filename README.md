@@ -369,6 +369,7 @@ Custom GPTs
 317. [Hack Automation](https://github.com/sourceduty/Hack_Automation)
 318. [Social Prep](https://github.com/sourceduty/Social_Prep)
 319. [Security Automation](https://github.com/sourceduty/Security_Automation)
+320. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 
 Concept Custom GPTs
 
@@ -661,12 +662,11 @@ Space & Physics
 2. [Mars](https://github.com/sourceduty/Mars)
 3. [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
 4. [Space Agencies](https://github.com/sourceduty/Space_Agencies)
-5. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
+5. [Trains](https://github.com/sourceduty/Trains)
 6. [Reused Satellites](https://github.com/sourceduty/Reused_Satellites)
 7. [Airplane Design](https://github.com/sourceduty/Airplane_Design)
 8. [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
 9. [Air Vortex Blower](https://github.com/sourceduty/Air_Vortex_Blower)
-10. [Trains](https://github.com/sourceduty/Trains)
 
 Health & Biology
 1. [Drugs](https://github.com/sourceduty/Drugs)
