@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `676` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `677` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -367,6 +367,7 @@ Custom GPTs
 315. [Quantum Informatics](https://github.com/sourceduty/Quantum_Informatics)
 316. [Book Quality](https://github.com/sourceduty/Book_Quality)
 317. [Hack Automation](https://github.com/sourceduty/Hack_Automation)
+318. [Social Prep](https://github.com/sourceduty/Social_Prep)
 
 Concept Custom GPTs
 
