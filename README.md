@@ -20,7 +20,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `678` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `679` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -720,6 +720,7 @@ Experimental & Theory
 12.  [Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
 13.  [Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
 14.  [Xenodynamics](https://github.com/sourceduty/Xenodynamics)
+15.  [Computational Chronophysics](https://github.com/sourceduty/Computational_Chronophysics)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
