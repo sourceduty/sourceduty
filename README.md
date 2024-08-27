@@ -321,7 +321,7 @@ Custom GPTs
 272. [Combinatorics Simulator](https://github.com/sourceduty/Combinatorics_Simulator)
 273. [Microbiology Simulator](https://github.com/sourceduty/Microbiology_Simulator)
 274. [Dragon's Den](https://github.com/sourceduty/Dragons_Den)
-275. [Airplane Programmer](https://github.com/sourceduty/Airplane_Progammer)
+275. [Aviation Programmer](https://chatgpt.com/g/g-Ittb4saQw-aviation-programmer)
 276. [Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)
 277. [Rocket Programmer](https://github.com/sourceduty/Rocket_Programmer)
 278. [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
