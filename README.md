@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `688` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `689` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -726,6 +726,7 @@ Experimental & Theory
 18.  [Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
 19.  [Computational Agribusiness](https://github.com/sourceduty/Computational_Agribusiness)
 20.  [Computational Hyperchemistry](https://github.com/sourceduty/Computational_Hyperchemistry)
+21.  [Computational Sociodynamics](https://github.com/sourceduty/Computational_Sociodynamics)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
