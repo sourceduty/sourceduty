@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `694` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `695` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -372,6 +372,7 @@ Custom GPTs
 323. [Molecular Automation](https://github.com/sourceduty/Molecular_Automation)
 324. [Biochemical Programming](https://github.com/sourceduty/Biochemical_Programming)
 325. [Military Automation](https://github.com/sourceduty/Military_Automation)
+326. [Military Chemistry](https://github.com/sourceduty/Military_Chemistry)
 
 Concept Custom GPTs
 
