@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `685` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `686` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -369,6 +369,7 @@ Custom GPTs
 320. [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 321. [Botany Automation](https://github.com/sourceduty/Botany_Automation)
 322. [HPC](https://github.com/sourceduty/Virtual_HPC_Simulator)
+323. [Molecular Automation](https://github.com/sourceduty/Molecular_Automation)
 
 Concept Custom GPTs
 
