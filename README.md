@@ -879,6 +879,8 @@ Important repos:
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 <br>
 [Alex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
+<br>
+[New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 
 ***
 
