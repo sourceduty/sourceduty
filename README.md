@@ -827,7 +827,7 @@ General
 30. [Twitter](https://github.com/sourceduty/Twitter)
 31. [YouTube](https://github.com/sourceduty/YouTube)
 32. [Tight Ship](https://github.com/sourceduty/Tight_Ship)
-33. [GitHub Legal](https://github.com/sourceduty/GitHub_Legal)
+33. [Legal](https://github.com/sourceduty/Legal)
 
 Sourceduty
 
