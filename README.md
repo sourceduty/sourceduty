@@ -885,6 +885,8 @@ Important repos:
 [Alex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
 <br>
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[Communication](https://github.com/sourceduty/Communication)
 
 ***
 
