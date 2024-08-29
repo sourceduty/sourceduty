@@ -710,7 +710,7 @@ Social
 15. [Human Names](https://github.com/sourceduty/Human_Names)
 16. [Politics](https://github.com/sourceduty/Politics)
 
-Experimental & Theory
+Computational, Experimental & Theory
 1. [Experiments](https://github.com/sourceduty/Experiments)
 2. [Emergency_Buoys](https://github.com/sourceduty/Emergency_Buoys)
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
@@ -734,6 +734,7 @@ Experimental & Theory
 21.  [Computational Sociodynamics](https://github.com/sourceduty/Computational_Sociodynamics)
 22.  [Cyberdiagnostic Physics](https://github.com/sourceduty/Cyberdiagnostic_Physics)
 23.  [Electrophysics Reactor](https://github.com/sourceduty/Electrophysics_Reactor)
+24.  [ANNs](https://github.com/sourceduty/ANNs)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
@@ -794,7 +795,6 @@ General
 27. [Big Data](https://github.com/sourceduty/Big_Data)
 28. [ANTI-](https://github.com/sourceduty/ANTI-)
 29. [Optimize](https://github.com/sourceduty/Optimize)
-30. [ANNs](https://github.com/sourceduty/ANNs)
 
 <br>
 </details>
