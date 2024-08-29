@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `697` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `698` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -794,6 +794,7 @@ General
 27. [Big Data](https://github.com/sourceduty/Big_Data)
 28. [ANTI-](https://github.com/sourceduty/ANTI-)
 29. [Optimize](https://github.com/sourceduty/Optimize)
+30. [ANNs](https://github.com/sourceduty/ANNs)
 
 <br>
 </details>
