@@ -902,6 +902,8 @@ Important repos:
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 <br>
 [Communication](https://github.com/sourceduty/Communication)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 
