@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `701` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `702` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -378,6 +378,7 @@ Custom GPTs
 329. [Tree Identity](https://github.com/sourceduty/Tree_Identity)
 330. [Electronic Simulator](https://github.com/sourceduty/Electronic_Simulator)
 331. [Nuclear Chemistry Simulator](https://github.com/sourceduty/Nuclear_Chemistry_Simulator)
+332. [Theoretical Science Simulator](https://github.com/sourceduty/Theoretical_Science_Simulator)
 
 Concept Custom GPTs
 
