@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `704` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `705` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -741,6 +741,7 @@ Computational, Experimental & Theory
 22.  [Cyberdiagnostic Physics](https://github.com/sourceduty/Cyberdiagnostic_Physics)
 23.  [Electrophysics Reactor](https://github.com/sourceduty/Electrophysics_Reactor)
 24.  [ANNs](https://github.com/sourceduty/ANNs)
+25.  [Computational Metarobotics](https://github.com/sourceduty/Computational_Metarobotics)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
