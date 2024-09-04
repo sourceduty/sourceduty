@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `709` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `710` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -846,6 +846,7 @@ General
 30. [Twitter](https://github.com/sourceduty/Twitter)
 31. [YouTube](https://github.com/sourceduty/YouTube)
 32. [Tight Ship](https://github.com/sourceduty/Tight_Ship)
+33. [Military](https://github.com/sourceduty/Military)
 
 Sourceduty
 
