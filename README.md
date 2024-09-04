@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `710` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `709` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -870,7 +870,7 @@ Sourceduty
 8. [WW3](https://github.com/sourceduty/WW3)
 9. [TV Channels](https://github.com/sourceduty/TV_Channels)
 10. [Rugged Storage Boxes](https://github.com/sourceduty/Rugged_Storage_Boxes)
-11. [War Technology](https://github.com/sourceduty/War_Technology)
+11. [Job Quality](https://github.com/sourceduty/Job_Quality)
 12. [Windows](https://github.com/sourceduty/Windows)
 13. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
 14. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
@@ -888,7 +888,6 @@ Sourceduty
 26. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 27. [Tattoo Scars](https://github.com/sourceduty/Tattoo_Scars)
 28. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
-29. [Job Quality](https://github.com/sourceduty/Job_Quality)
 
 <br>
 </details>
