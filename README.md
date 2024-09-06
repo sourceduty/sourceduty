@@ -388,7 +388,7 @@ Custom GPTs
 339. [Mechanical Simulator](https://github.com/sourceduty/Mechanical_Simulator)
 340. [Network & Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
 341. [Computational Logic](https://github.com/sourceduty/Computational_Logic)
-342. [U-boat Command](https://github.com/sourceduty/U-boat_Command)
+342. [U-Boat Command](https://github.com/sourceduty/U-Boat_Command)
 
 Concept Custom GPTs
 
