@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `712` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `713` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -562,6 +562,7 @@ General
 29. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
 30. [Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
 31. [Geo-Historic Word Valuation](https://github.com/sourceduty/Geo-Historic_Word_Valuation)
+32. [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
 
 Unlikely
 
