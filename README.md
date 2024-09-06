@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `711` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `712` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -388,6 +388,7 @@ Custom GPTs
 339. [Mechanical Simulator](https://github.com/sourceduty/Mechanical_Simulator)
 340. [Network & Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
 341. [Computational Logic](https://github.com/sourceduty/Computational_Logic)
+342. [U-boat Command](https://github.com/sourceduty/U-boat_Command)
 
 Concept Custom GPTs
 
