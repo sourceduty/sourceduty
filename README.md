@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `716` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `717` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -391,6 +391,7 @@ Custom GPTs
 342. [U-Boat Command](https://github.com/sourceduty/U-Boat_Command)
 343. [4D Printing](https://github.com/sourceduty/4D_Printing)
 344. [Research Draft Notes](https://github.com/sourceduty/Research_Draft_Notes)
+345. [Python Patterns](https://github.com/sourceduty/Python_Patterns)
 
 Concept Custom GPTs
 
