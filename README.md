@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `717` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `716` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -39,11 +39,10 @@ ChatGPT
 8. [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
 9. [DALL-E 3](https://github.com/sourceduty/DALL-E_3)
 10. [ChatGPT Preview Panel Assistant](https://github.com/sourceduty/ChatGPT_Preview_Panel_Assistant)
-11. [Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)
+11. [Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
 12. [ChatGPT Books](https://github.com/sourceduty/ChatGPT_Books)
 13. [Extra ChatGPT Images](https://github.com/sourceduty/Extra_ChatGPT_Images)
 14. [ChatGPT Repo Automation](https://github.com/sourceduty/ChatGPT_Repo_Automation)
-15. [Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
 
 Custom GPTs
    
