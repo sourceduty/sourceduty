@@ -812,7 +812,7 @@ General
 11. [Automated Photoshop](https://github.com/sourceduty/Automated_Photoshop)
 12. [POV](https://github.com/sourceduty/POV)
 13. [Encryption](https://github.com/sourceduty/Encryption)
-14. [Cumulative Vehicle Insurance](https://github.com/sourceduty/Cumulative_Vehicle_Insurance)
+14. [ANTI-](https://github.com/sourceduty/ANTI-)
 15. [Spot_the_Difference](https://github.com/sourceduty/Spot_the_Difference)
 16. [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
 17. [Public Work](https://github.com/sourceduty/Public_Work)
@@ -826,7 +826,6 @@ General
 25. [Luxury Design](https://github.com/sourceduty/Luxury_Design)
 26. [Tesla Design](https://github.com/sourceduty/Tesla_Design)
 27. [Big Data](https://github.com/sourceduty/Big_Data)
-28. [ANTI-](https://github.com/sourceduty/ANTI-)
 
 <br>
 </details>
