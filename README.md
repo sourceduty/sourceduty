@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `730` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `729` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
