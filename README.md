@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `734` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `735` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -410,6 +410,7 @@ Custom GPTs
 362. [Business Systems](https://github.com/sourceduty/Business_Systems)
 363. [Programmable Evolution](https://github.com/sourceduty/Programmable_Evolution)
 364. [Airborne Systems](https://github.com/sourceduty/Airborne_Systems)
+365. [Automated Locations](https://github.com/sourceduty/Automated_Locations)
 
 Concept Custom GPTs
 
