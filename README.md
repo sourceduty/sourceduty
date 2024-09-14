@@ -407,7 +407,7 @@ Custom GPTs
 359. [Property Bills](https://github.com/sourceduty/Property_Bills)
 360. [Employee Agent](https://github.com/sourceduty/Employee_Agent)
 361. [Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
-362. [Business Systems](https://github.com/sourceduty/Business-Systems)
+362. [Business Systems](https://github.com/sourceduty/Business_Systems)
 
 Concept Custom GPTs
 
