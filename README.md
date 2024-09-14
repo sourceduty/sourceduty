@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `732` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `733` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -407,6 +407,7 @@ Custom GPTs
 359. [Property Bills](https://github.com/sourceduty/Property_Bills)
 360. [Employee Agent](https://github.com/sourceduty/Employee_Agent)
 361. [Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
+362. [Business Systems](https://github.com/sourceduty/Business-Systems)
 
 Concept Custom GPTs
 
