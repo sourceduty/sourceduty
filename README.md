@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `735` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `734` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -840,7 +840,7 @@ General
 
 1. [International Business](https://github.com/sourceduty/International_Business)
 2. [Policies](https://github.com/sourceduty/Policies) 
-3. [Vending Trust](https://github.com/sourceduty/Vending_Trust)
+3. [Port Perry](https://github.com/sourceduty/Port-Perry)
 4. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
 5. [Casino Tactics](https://github.com/sourceduty/Casino_Tactics)
 6. [Provenance](https://github.com/sourceduty/Provenance)
@@ -871,7 +871,6 @@ General
 31. [YouTube](https://github.com/sourceduty/YouTube)
 32. [Tight Ship](https://github.com/sourceduty/Tight_Ship)
 33. [Military](https://github.com/sourceduty/Military)
-34. [Port Perry](https://github.com/sourceduty/Port-Perry)
 
 Sourceduty
 
