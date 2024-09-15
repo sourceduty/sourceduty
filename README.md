@@ -401,7 +401,7 @@ Custom GPTs
 353. [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 354. [Education Automation](https://github.com/sourceduty/Education_Automation)
 355. [File Automation](https://github.com/sourceduty/File_Automation)
-356. [Philosophy](https://github.com/sourceduty/Philosophy)
+356. [File Farming](https://github.com/sourceduty/File_Farming)
 357. [Meal Generator](https://github.com/sourceduty/Meal_Generator)
 358. [Benchmark Automation](https://github.com/sourceduty/Benchmark_Automation)
 359. [Property Bills](https://github.com/sourceduty/Property_Bills)
@@ -413,7 +413,6 @@ Custom GPTs
 365. [Automated Locations](https://github.com/sourceduty/Automated_Locations)
 366. [Automated Solar Power](https://github.com/sourceduty/Automated_Solar_Power)
 367. [Material Computation](https://github.com/sourceduty/Material_Computation)
-368. [File Farming](https://github.com/sourceduty/File_Farming)
 
 Concept Custom GPTs
 
@@ -778,6 +777,7 @@ Computational, Experimental & Theory
 24.  [ANNs](https://github.com/sourceduty/ANNs)
 25.  [Computational Metarobotics](https://github.com/sourceduty/Computational_Metarobotics)
 26.  [Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
+27.  [Philosophy](https://github.com/sourceduty/Philosophy)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
