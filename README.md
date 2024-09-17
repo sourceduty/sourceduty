@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `743` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `744` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -416,6 +416,7 @@ Custom GPTs
 368. [Systematic Aerologics](https://github.com/sourceduty/Systematic_Aerologics)
 369. [Computational Quantum Topology](https://github.com/sourceduty/Computational_Quantum_Topology)
 370. [Property Locale](https://github.com/sourceduty/Property_Locale)
+371. [Download Automation](https://github.com/sourceduty/Download_Automation)
 
 Concept Custom GPTs
 
