@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `745` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `746` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -418,6 +418,7 @@ Custom GPTs
 370. [Property Locale](https://github.com/sourceduty/Property_Locale)
 371. [Download Automation](https://github.com/sourceduty/Download_Automation)
 372. [Thermotronics](https://github.com/sourceduty/Thermotronics)
+373. [Neurorobotic Simulator](https://github.com/sourceduty/Neurorobotic_Simulator)
 
 Concept Custom GPTs
 
