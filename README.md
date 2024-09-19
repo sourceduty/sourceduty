@@ -545,7 +545,7 @@ General
 <br>
 
 1. [Batch Files](https://github.com/sourceduty/Batch)
-2. [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
+2. [Right_Click Converter](https://github.com/sourceduty/Right_Click_Converter)
 3. [Smart Folder](https://github.com/sourceduty/Smart_Folder)
 4. [Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
 5. [Registry](https://github.com/sourceduty/Registry)
