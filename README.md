@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `756` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `757` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -853,6 +853,7 @@ General
 26. [Tesla Design](https://github.com/sourceduty/Tesla_Design)
 27. [Big Data](https://github.com/sourceduty/Big_Data)
 28. [Awesome GitHub](https://github.com/sourceduty/Awesome_GitHub)
+29. [Sound](https://github.com/sourceduty/Sound)
 
 <br>
 </details>
