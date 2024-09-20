@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `754` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `755` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -600,6 +600,7 @@ General
 30. [Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
 31. [Geo-Historic Word Valuation](https://github.com/sourceduty/Geo-Historic_Word_Valuation)
 32. [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
+33. [Collage Image](https://github.com/sourceduty/Collage_Image)
 
 Unlikely
 
