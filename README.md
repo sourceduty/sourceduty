@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `759` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `760` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -856,6 +856,7 @@ General
 28. [Awesome GitHub](https://github.com/sourceduty/Awesome_GitHub)
 29. [Sound](https://github.com/sourceduty/Sound)
 30. [Intelligence](https://github.com/sourceduty/Intelligence)
+31. [News](https://github.com/sourceduty/News)
 
 <br>
 </details>
