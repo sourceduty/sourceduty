@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `768` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `769` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -433,6 +433,7 @@ Custom GPTs
 385. [Trump Simulator](https://github.com/sourceduty/Trump_Simulator)
 386. [Biden Simulator](https://github.com/sourceduty/Biden_Simulator)
 387. [World Leader Sim](https://github.com/sourceduty/World_Leader_Sim)
+388. [Einstein Game](https://github.com/sourceduty/Einstein_Game)
 
 Concept Custom GPTs
 
