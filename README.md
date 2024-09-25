@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `775` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `774` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -589,7 +589,7 @@ General
 3. [Video Instructor](https://github.com/sourceduty/Video_Instructor)
 4. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 5. [Huge_Cursor](https://github.com/sourceduty/Huge_Cursor)
-6. [Video_Speed_Compression](https://github.com/sourceduty/Video_Speed_Compression)
+6. [Collage Image](https://github.com/sourceduty/Collage_Image)
 7. [Battery_Level_Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
 8. [SMS_Web_Search](https://github.com/sourceduty/SMS_Web_Search)
 9. [Web_Download_Queue](https://github.com/sourceduty/Web_Download_Queue)
@@ -616,7 +616,6 @@ General
 30. [Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
 31. [Geo-Historic Word Valuation](https://github.com/sourceduty/Geo-Historic_Word_Valuation)
 32. [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
-33. [Collage Image](https://github.com/sourceduty/Collage_Image)
 
 Unlikely
 
