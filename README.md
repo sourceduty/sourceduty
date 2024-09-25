@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `771` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `770` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -899,7 +899,7 @@ General
 23. [Doors Loopy](https://github.com/sourceduty/Doors_Loopy)
 24. [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
 25. [Information Conflicts](https://github.com/sourceduty/Information_Conflicts)
-26. [Communication](https://github.com/sourceduty/Communication)
+26. [International Business](https://github.com/sourceduty/International_Business)
 27. [Computer Mouse Factory](https://github.com/sourceduty/Computer_Mouse_Factory)
 28. [Facebook](https://github.com/sourceduty/Facebook)
 29. [GitHub](https://github.com/sourceduty/GitHub)
@@ -907,7 +907,6 @@ General
 31. [YouTube](https://github.com/sourceduty/YouTube)
 32. [Tight Ship](https://github.com/sourceduty/Tight_Ship)
 33. [Military](https://github.com/sourceduty/Military)
-34. [International Business](https://github.com/sourceduty/International_Business)
 
 Sourceduty
 
@@ -969,8 +968,6 @@ Important repos:
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 <br>
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
-<br>
-[Communication](https://github.com/sourceduty/Communication)
 
 ***
 
