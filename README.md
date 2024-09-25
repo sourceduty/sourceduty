@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `773` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `774` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -438,6 +438,7 @@ Custom GPTs
 390. [Einstain Battle](https://github.com/sourceduty/Einstein_Battle)
 391. [Task Manager Sim](https://github.com/sourceduty/Task_Manager_Sim)
 392. [Business School](https://github.com/sourceduty/Business_School)
+393. [Language School](https://github.com/sourceduty/Language_School)
 
 Concept Custom GPTs
 
