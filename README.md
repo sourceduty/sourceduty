@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `774` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `773` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -602,7 +602,7 @@ General
 16. [Amazon_Premium](https://github.com/sourceduty/Amazon_Premium)
 17. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
 18. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
-19. [Multiuser Meeting Locator](https://github.com/sourceduty/Multiuser_Meeting_Locator)
+19. [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
 20. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
 21. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 22. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
@@ -615,7 +615,6 @@ General
 29. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
 30. [Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
 31. [Geo-Historic Word Valuation](https://github.com/sourceduty/Geo-Historic_Word_Valuation)
-32. [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
 
 Unlikely
 
