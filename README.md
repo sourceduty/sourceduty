@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `774` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `775` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -444,6 +444,7 @@ Custom GPTs
 396. [Internet Exploration](https://github.com/sourceduty/Internet_Exploration)
 397. [System Standard](https://github.com/sourceduty/System_Standard)
 398. [School System](https://github.com/sourceduty/School_System)
+399. [Sourceduty Strategist](https://github.com/sourceduty/Sourceduty_Strategist)
 
 Concept Custom GPTs
 
