@@ -972,6 +972,8 @@ Important repos:
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 <br>
 [Gaming](https://github.com/sourceduty/gaming)
+<br>
+[Communication](https://github.com/sourceduty/Communication)
 
 ***
 
