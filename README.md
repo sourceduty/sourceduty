@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `771` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `772` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -950,6 +950,7 @@ Sourceduty
 26. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 27. [Tattoo Scars](https://github.com/sourceduty/Tattoo_Scars)
 28. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
+29. [Communication](https://github.com/sourceduty/Communication)
 
 <br>
 </details>
