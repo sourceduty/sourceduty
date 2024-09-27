@@ -445,7 +445,7 @@ Custom GPTs
 397. [System Standard](https://github.com/sourceduty/System_Standard)
 398. [School System](https://github.com/sourceduty/School_System)
 399. [Sourceduty Strategist](https://github.com/sourceduty/Sourceduty_Strategist)
-400. [Airport Systems](https://github.com/sourceduty/Airport_Systems)
+400. [Airport System](https://github.com/sourceduty/Airport_Systems)
 
 Concept Custom GPTs
 
