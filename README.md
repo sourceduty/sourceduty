@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `777` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `778` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -446,6 +446,7 @@ Custom GPTs
 398. [School System](https://github.com/sourceduty/School_System)
 399. [Sourceduty Strategist](https://github.com/sourceduty/Sourceduty_Strategist)
 400. [Airport System](https://github.com/sourceduty/Airport_Systems)
+401. [Amazonian](https://github.com/sourceduty/Amazonian)
 
 Concept Custom GPTs
 
