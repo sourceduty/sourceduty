@@ -680,7 +680,7 @@ Board
 
 Retro
 
-1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
+1. [Sky Tetris](https://github.com/sourceduty/Sky_Tetris)
 2. [Mario Airplane](https://github.com/sourceduty/RetroMarioAirplane)
 3. [Wall Tetris](https://github.com/sourceduty/Wall_Tetris)
 4. [Ocean Invaders](https://github.com/sourceduty/Ocean-Invaders)
