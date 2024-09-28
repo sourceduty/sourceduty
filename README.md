@@ -682,7 +682,7 @@ Retro
 
 1. [Sky Tetris](https://github.com/sourceduty/SkyTetris)
 2. [Mario Airplane](https://github.com/sourceduty/RetroMarioAirplane)
-3. [Wall Tetris](https://github.com/sourceduty/Wall-Tetris)
+3. [Wall Tetris](https://github.com/sourceduty/Wall_Tetris)
 4. [Ocean Invaders](https://github.com/sourceduty/Ocean-Invaders)
 5. [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
 
