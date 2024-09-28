@@ -964,28 +964,6 @@ Sourceduty
 
 ***
 
-Important repos:
-
-[GitHub](https://github.com/sourceduty/GitHub)
-<br>
-[Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
-<br>
-[Alex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
-<br>
-[New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
-<br>
-[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
-<br>
-[Improvement Value](https://github.com/sourceduty/Improvement_Value)
-<br>
-[Gaming](https://github.com/sourceduty/gaming)
-<br>
-[Communication](https://github.com/sourceduty/Communication)
-<br>
-[Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
-
-***
-
 ✨ Thanks for using exclusive Sourceduty repos!
 
 ***
