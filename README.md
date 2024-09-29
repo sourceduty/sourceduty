@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `786` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `787` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -455,6 +455,7 @@ Custom GPTs
 407. [In-Game Money](https://github.com/sourceduty/In-Game_Money)
 408. [Airport Simulator](https://github.com/sourceduty/Airport_Simulator)
 409. [Shipping Simulator](https://github.com/sourceduty/Shipping_Simulator)
+410. [Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
 
 Concept Custom GPTs
 
