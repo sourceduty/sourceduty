@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `788` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `789` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -457,6 +457,7 @@ Custom GPTs
 409. [Shipping Simulator](https://github.com/sourceduty/Shipping_Simulator)
 410. [Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
 411. [Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
+412. [Computational Cybernetics](https://github.com/sourceduty/Computational_Cybernetics)
 
 Concept Custom GPTs
 
