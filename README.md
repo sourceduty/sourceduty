@@ -901,7 +901,7 @@ General
 4. [Chinese Manufacturing](https://github.com/sourceduty/Chinese_Manufacturing)
 5. [Military](https://github.com/sourceduty/Military)
 6. [Provenance](https://github.com/sourceduty/Provenance)
-7. [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
+7. [Tight Ship](https://github.com/sourceduty/Tight_Ship)
 8. [Automated Business](https://github.com/sourceduty/Automated_Business)
 9. [Google](https://github.com/sourceduty/Google)
 10. [Cults3D Sales Data Analyzer](https://github.com/sourceduty/Cults3D_Sales_Data_Analyzer)
@@ -926,7 +926,6 @@ General
 29. [GitHub](https://github.com/sourceduty/GitHub)
 30. [Twitter](https://github.com/sourceduty/Twitter)
 31. [YouTube](https://github.com/sourceduty/YouTube)
-32. [Tight Ship](https://github.com/sourceduty/Tight_Ship)
 
 Sourceduty
 
@@ -936,6 +935,7 @@ Sourceduty
 4. [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 5. [Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 6. [Sourceduty Website](https://github.com/sourceduty/Sourceduty_Website)
+7. [3D Models](https://github.com/sourceduty/3D_Models)
 
 <br>
 </details>
