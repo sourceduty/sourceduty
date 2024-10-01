@@ -978,7 +978,7 @@ Sourceduty
 
 ***
 
-✨ Thanks for using exclusive and evolving repos!
+✨ Thanks for using these exclusive and evolving repos!
 
 ***
 
