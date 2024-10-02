@@ -462,7 +462,7 @@ Custom GPTs
 413. [Computational Politics](https://github.com/sourceduty/Computational_Politics)
 414. [Ship Captain Simulator](https://github.com/sourceduty/Ship_Captain_Simulator)
 415. [Sourceduty Employee](https://github.com/sourceduty/Sourceduty_Employee)
-416. [Author Automation](https://github.com/sourceduty/Author_Automation)
+416. [Writing Automation](https://github.com/sourceduty/Writing_Automation)
 
 Concept Custom GPTs
 
