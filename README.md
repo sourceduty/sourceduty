@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `795` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `796` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -892,6 +892,7 @@ General
 30. [Intelligence](https://github.com/sourceduty/Intelligence)
 31. [News](https://github.com/sourceduty/News)
 32. [Canada](https://github.com/sourceduty/Canada)
+33. [Structural Design](https://github.com/sourceduty/Structural_Design)
 
 <br>
 </details>
