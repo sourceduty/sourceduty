@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `801` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `802` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -467,6 +467,7 @@ Custom GPTs
 418. [Skynet Simulator](https://github.com/sourceduty/Skynet_Simulator)
 419. [Computational Astrophysics](https://github.com/sourceduty/Computational_Astrophysics)
 420. [Computational VM](https://github.com/sourceduty/Computational_VM)
+421. [Computational Prompting](https://github.com/sourceduty/Computational_Prompting)
 
 Concept Custom GPTs
 
