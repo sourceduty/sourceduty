@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `799` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `800` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -465,6 +465,7 @@ Custom GPTs
 416. [Writing Automation](https://github.com/sourceduty/Writing_Automation)
 417. [Titanic Simulator](https://github.com/sourceduty/Titanic_Simulator)
 418. [Skynet Simulator](https://github.com/sourceduty/Skynet_Simulator)
+419. [Computational Astrophysics](https://github.com/sourceduty/Computational_Astrophysics)
 
 Concept Custom GPTs
 
