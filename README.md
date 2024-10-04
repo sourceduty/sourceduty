@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `804` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `805` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -757,6 +757,8 @@ Math & Analytics
 1. [Math](https://github.com/sourceduty/Math)
 2. [Comfort-Navigation](https://github.com/sourceduty/Comfort-Navigation_Math)
 3. [Snow Load](https://github.com/sourceduty/Snow_Load)
+4. [Algorithms](https://github.com/sourceduty/Algorithms)
+5. [Lawn Mowing Patterns](https://github.com/sourceduty/Lawn_Mowing_Patterns)
 
 Space & Physics
 1. [Space](https://github.com/sourceduty/Space)
@@ -813,7 +815,7 @@ Computational, Experimental & Theory
 3. [EV Charging](https://github.com/sourceduty/EV_Charging)
 4. [Quantum](https://github.com/sourceduty/Quantum)
 5. [Decisions](https://github.com/sourceduty/Decisions)
-6. [Lawn Mowing Patterns](https://github.com/sourceduty/Lawn_Mowing_Patterns)
+6. [Evolution](https://github.com/sourceduty/Evolution)
 7. [Levitation Lab](https://github.com/sourceduty/Levitation_Lab)
 8. [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
 9. [Reactors](https://github.com/sourceduty/Reactors)
@@ -835,7 +837,6 @@ Computational, Experimental & Theory
 25.  [Computational Metarobotics](https://github.com/sourceduty/Computational_Metarobotics)
 26.  [Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 27.  [Philosophy](https://github.com/sourceduty/Philosophy)
-28.  [Evolution](https://github.com/sourceduty/Evolution)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
