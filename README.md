@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `806` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `807` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -471,6 +471,7 @@ Custom GPTs
 422. [Geometry Simulator](https://github.com/sourceduty/Geometry_Simulator)
 423. [Electricity Game](https://github.com/sourceduty/Electricity_Game)
 424. [Law & Regulation Maker](https://github.com/sourceduty/Law_Regulation_Maker)
+425. [Cryptocurrency Simulator](https://github.com/sourceduty/Cryptocurrency_Simulator)
 
 Concept Custom GPTs
 
