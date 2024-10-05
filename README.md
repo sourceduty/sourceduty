@@ -470,7 +470,7 @@ Custom GPTs
 421. [Computational Prompting](https://github.com/sourceduty/Computational_Prompting)
 422. [Geometry Simulator](https://github.com/sourceduty/Geometry_Simulator)
 423. [Electricity Game](https://github.com/sourceduty/Electricity_Game)
-424. [Law & regulation Maker](https://github.com/sourceduty/Law_Regulation_Maker)
+424. [Law & Regulation Maker](https://github.com/sourceduty/Law_Regulation_Maker)
 
 Concept Custom GPTs
 
