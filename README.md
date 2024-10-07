@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `815` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `816` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -479,6 +479,7 @@ Custom GPTs
 430. [Software Roast](https://github.com/sourceduty/Software_Roast)
 431. [Botanical Diagnostics](https://github.com/sourceduty/Botanical_Diagnostics)
 432. [Vehicle Roast](https://github.com/sourceduty/Vehicle_Roast)
+433. [Handwriting](https://github.com/sourceduty/Handwriting)
 
 Concept Custom GPTs
 
