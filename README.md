@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `814` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `815` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -794,6 +794,7 @@ Health & Biology
 10. [Food Design](https://github.com/sourceduty/Food_Design)
 11. [Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
 12. [Global Gay Problems](https://github.com/sourceduty/Global_Gay_Problem)
+13. [Aripiprazole STPD](https://github.com/sourceduty/Aripiprazole_STPD)
 
 Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
