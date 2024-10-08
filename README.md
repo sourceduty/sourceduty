@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `820` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `821` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -484,6 +484,7 @@ Custom GPTs
 435. [Astronaut Software](https://github.com/sourceduty/Astronaut_Software)
 436. [GPT-Five](https://github.com/sourceduty/GPT-Five)
 437. [Font Dev](https://github.com/sourceduty/Font_Dev)
+438. [New Language](https://github.com/sourceduty/New_Language)
 
 Concept Custom GPTs
 
