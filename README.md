@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `824` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `825` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -958,6 +958,7 @@ General
 29. [GitHub](https://github.com/sourceduty/GitHub)
 30. [Twitter](https://github.com/sourceduty/Twitter)
 31. [YouTube](https://github.com/sourceduty/YouTube)
+32. [Vending Recycler](https://github.com/sourceduty/Vending_Recycler)
 
 Sourceduty
 
