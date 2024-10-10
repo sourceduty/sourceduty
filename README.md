@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `826` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `827` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -576,11 +576,12 @@ Arduino
 
 Raspberry Pi
 
-1. [Helipad Pi](https://github.com/sourceduty/Helipad_Pi)
-2. [Space_Station_Guide](https://github.com/sourceduty/Space_Station_Guide)
-3. [Insect_Box](https://github.com/sourceduty/Insect_Box)
-4. [Weather_Pi](https://github.com/sourceduty/Weather_Pi)
-5. [PI-PC Case](https://github.com/sourceduty/Pi-PC_Case)
+1. [Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
+2. [Helipad Pi](https://github.com/sourceduty/Helipad_Pi)
+3. [Space_Station_Guide](https://github.com/sourceduty/Space_Station_Guide)
+4. [Insect_Box](https://github.com/sourceduty/Insect_Box)
+5. [Weather_Pi](https://github.com/sourceduty/Weather_Pi)
+6. [PI-PC Case](https://github.com/sourceduty/Pi-PC_Case)
 
 Concept Electronics
 
