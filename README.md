@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `827` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `828` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -489,6 +489,7 @@ Custom GPTs
 440. [Game Diagnostics](https://github.com/sourceduty/Game_Diagnostics)
 441. [Natural Maker](https://github.com/sourceduty/Natural_Maker)
 442. [Computational Taxonomy](https://github.com/sourceduty/Computational_Taxonomy)
+443. [Fanatics](https://github.com/sourceduty/Fanatics)
 
 Concept Custom GPTs
 
