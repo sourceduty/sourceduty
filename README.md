@@ -1012,9 +1012,7 @@ Sourceduty
 </details>
 
 ***
-
 ✨ Thanks for using these exclusive and evolving repos!
-
 ***
 
 [![Sourceduty's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourceduty&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -1024,5 +1022,6 @@ Sourceduty
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sourceduty&theme=dark&card_width=1000)
 
 #
-
+![Collage](https://github.com/user-attachments/assets/8fb079e5-d734-4939-9434-349b01eb39af)
+#
 ![Badges](https://github.com/sourceduty/sourceduty/assets/123030236/f65f6673-6020-4d10-9595-63562bbd521a)
