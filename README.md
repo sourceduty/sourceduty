@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `829` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `830` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -491,6 +491,7 @@ Custom GPTs
 442. [Computational Taxonomy](https://github.com/sourceduty/Computational_Taxonomy)
 443. [Fanatics](https://github.com/sourceduty/Fanatics)
 444. [Live Simulation](https://github.com/sourceduty/Live_Simulation)
+445. [Command Line Interface](https://github.com/sourceduty/Command_Line_Interface)
 
 Concept Custom GPTs
 
