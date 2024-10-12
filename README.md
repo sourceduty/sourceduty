@@ -902,7 +902,7 @@ General
 6. [Bank Vault Boxes](https://github.com/sourceduty/Bank_Vault_Boxes)
 7. [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
 8. [Video Game History](https://github.com/sourceduty/Video_Game_History)
-9. [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
+9. [Upcycling](https://github.com/sourceduty/Upcycling)
 10. [Termux](https://github.com/sourceduty/Termux)
 11. [Automated Photoshop](https://github.com/sourceduty/Automated_Photoshop)
 12. [POV](https://github.com/sourceduty/POV)
