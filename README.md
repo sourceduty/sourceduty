@@ -492,7 +492,7 @@ Custom GPTs
 443. [Fanatics](https://github.com/sourceduty/Fanatics)
 444. [Live Simulation](https://github.com/sourceduty/Live_Simulation)
 445. [Command Line Interface](https://github.com/sourceduty/Command_Line_Interface)
-446. [Upcycle Designer](https://github.com/sourceduty/Upcycle_Designer)
+446. [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
 
 Concept Custom GPTs
 
