@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `836` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `837` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -497,6 +497,7 @@ Custom GPTs
 448. [Hunting Blind](https://github.com/sourceduty/Hunting_Blind)
 449. [Indian Design](https://github.com/sourceduty/Indian_Design)
 450. [Pi Game](https://github.com/sourceduty/Pi_Game)
+451. [GOOGIE ART](https://github.com/sourceduty/GOOGIE_ART)
 
 Concept Custom GPTs
 
