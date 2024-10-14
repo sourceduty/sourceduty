@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `838` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `837` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -545,7 +545,7 @@ General
 12. [Text_File_Name_Suggestion](https://github.com/sourceduty/Text_File_Name_Suggestion)
 13. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 14. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
-15. [Simple Chatbot](https://github.com/sourceduty/Simple_Chatbot)
+15. [Custom Python GPTs](https://github.com/sourceduty/Custom_Python_GPTs)
 16. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
 17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
@@ -556,7 +556,6 @@ General
 23. [Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
 24. [Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
 25. [ZIP Topology](https://github.com/sourceduty/ZIP_Topology)
-26. [Custom Python GPTs](https://github.com/sourceduty/Custom_Python_GPTs)
 
 Libraries and Packages
 
