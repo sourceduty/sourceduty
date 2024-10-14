@@ -679,7 +679,7 @@ Unlikely
 
 Peripheral
 
-1. [Per-Key RGB Keyboard](https://github.com/sourceduty/Per-key_RGB_Keyboard)
+1. [Per-Key RGB Keyboard](https://github.com/sourceduty/Per-Key_RGB_Keyboard)
 2. [Keybind_Instructions](https://github.com/sourceduty/Keybind_Instructions)
 
 3D Models
