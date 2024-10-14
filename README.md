@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `837` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `838` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -820,6 +820,7 @@ Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
 2. [Energy](https://github.com/sourceduty/Energy)
 3. [Global Warming](https://github.com/sourceduty/Global_Warming)
+4. [Farm Waste](https://github.com/sourceduty/Farm_Waste)
 
 Social
 1. [Modernization](https://github.com/sourceduty/Modernization)
