@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `839` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `840` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -499,6 +499,7 @@ Custom GPTs
 450. [Pi Game](https://github.com/sourceduty/Pi_Game)
 451. [GOOGIE ART](https://github.com/sourceduty/GOOGIE_ART)
 452. [Art Robotics](https://github.com/sourceduty/Art_Robotics)
+453. [Crypto IoT](https://github.com/sourceduty/Crypto_IoT)
 
 Concept Custom GPTs
 
