@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `842` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `843` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -501,6 +501,7 @@ Custom GPTs
 452. [Art Robotics](https://github.com/sourceduty/Art_Robotics)
 453. [Crypto IoT](https://github.com/sourceduty/Crypto_IoT)
 454. [Wood Machine](https://github.com/sourceduty/Wood_Machine)
+455. [Subreddit Finder](https://github.com/sourceduty/Subreddit_Finder)
 
 Concept Custom GPTs
 
