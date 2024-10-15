@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `841` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `842` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -802,6 +802,7 @@ Space & Physics
 8. [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
 9. [Air Vortex Blower](https://github.com/sourceduty/Air_Vortex_Blower)
 10. [Cosmology](https://github.com/sourceduty/Cosmology)
+11. [Space Exploration](https://github.com/sourceduty/Space_Exploration)
 
 Health & Biology
 1. [Drugs](https://github.com/sourceduty/Drugs)
