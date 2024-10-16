@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `846` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `845` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -998,7 +998,7 @@ Sourceduty
 
 1. [Predictions](https://github.com/sourceduty/Predictions)
 2. [Canadian Métis](https://github.com/sourceduty/Canadian_Metis)
-3. [Organize_Emergency](https://github.com/sourceduty/Organize_Emergency)
+3. [Communication](https://github.com/sourceduty/Communication)
 4. [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
 5. [Ancient Egypt](https://github.com/sourceduty/Ancient_Egypt)
 6. [Electronic Preservation](https://github.com/sourceduty/Electronic_Preservation)
@@ -1024,7 +1024,6 @@ Sourceduty
 26. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 27. [Tattoo Scars](https://github.com/sourceduty/Tattoo_Scars)
 28. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
-29. [Communication](https://github.com/sourceduty/Communication)
 
 <br>
 </details>
