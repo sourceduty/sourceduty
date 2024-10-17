@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `849` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `850` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -508,6 +508,7 @@ Custom GPTs
 459. [Place Product](https://github.com/sourceduty/Place_Product)
 460. [Bud Business](https://github.com/sourceduty/Bud_Business)
 461. [GTA IRL](https://github.com/sourceduty/GTA_IRL)
+462. [Parts Project](https://github.com/sourceduty/Parts_Project)
 
 Concept Custom GPTs
 
