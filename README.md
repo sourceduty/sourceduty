@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `850` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `849` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -516,9 +516,8 @@ Concept Custom GPTs
 2. [Mister Beast](https://github.com/sourceduty/Mister_Beast)
 3. [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 4. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
-5. [Graffiti](https://github.com/sourceduty/Graffiti)
+5. [Sam Altman](https://github.com/sourceduty/Sam_Altman)
 6. [Sourceduty News](https://github.com/sourceduty/Sourceduty_News)
-7. [Sam Altman](https://github.com/sourceduty/Sam_Altman)
 
 General
 
