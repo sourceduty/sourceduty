@@ -1019,7 +1019,7 @@ Sourceduty
 13. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
 14. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
 15. [Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
-16. [Logo Generator](https://github.com/sourceduty/Logo_Generator)
+16. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
 17. [Virtual Hide and Seek](https://github.com/sourceduty/Virtual_Hide_and_Seek)
 18. [Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
 19. [Laptop Design](https://github.com/sourceduty/Laptop_Design)
@@ -1031,7 +1031,6 @@ Sourceduty
 25. [Camera](https://github.com/sourceduty/Camera)
 26. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 27. [Tattoo Scars](https://github.com/sourceduty/Tattoo_Scars)
-28. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
 
 <br>
 </details>
