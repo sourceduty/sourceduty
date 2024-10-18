@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `852` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `853` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -512,6 +512,7 @@ Custom GPTs
 462. [Parts Project](https://github.com/sourceduty/Parts_Project)
 463. [Rebrand](https://github.com/sourceduty/Rebrand)
 464. [Insect Identity](https://github.com/sourceduty/Insect_Identity)
+465. [Song Audio Value](https://github.com/sourceduty/Song_Audio_Value)
 
 Concept Custom GPTs
 
