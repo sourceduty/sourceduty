@@ -44,7 +44,7 @@ ChatGPT
 13. [Extra ChatGPT Images](https://github.com/sourceduty/Extra_ChatGPT_Images)
 14. [ChatGPT Repo Automation](https://github.com/sourceduty/ChatGPT_Repo_Automation)
 15. [Local Offline AI](https://github.com/sourceduty/Local_Offline_AI)
-16. [SORA](https://github.com/sourceduty/SORA)
+16. [Sora](https://github.com/sourceduty/Sora)
 
 Custom GPTs
    
