@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `857` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `858` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -539,6 +539,7 @@ General
 9. [AI Flipbook](https://github.com/sourceduty/AI_Flipbook)
 10. [xAI](https://github.com/sourceduty/xAI)
 11. [AI Design Contests](https://github.com/sourceduty/AI_Design_Contests)
+12. [NLP](https://github.com/sourceduty/NLP)
 
 <br>    
 </details>
