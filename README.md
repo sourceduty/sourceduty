@@ -211,7 +211,7 @@ Custom GPTs
 161. [Movie Product](https://github.com/sourceduty/Movie_Product)
 162. [Animal Product](https://github.com/sourceduty/Animal_Product)
 163. [Drug Product](https://github.com/sourceduty/Drug_Product)
-164. [Military Product](https://github.com/sourceduty/Military_Product)
+164. [Science News Report](https://github.com/sourceduty/Science_News_Report)
 165. [James Bond Chat](https://github.com/sourceduty/James_Bond_Chat)
 166. [Movie Developer](https://github.com/sourceduty/Movie_Developer)
 167. [Harry Potter Chat](https://github.com/sourceduty/Harry_Potter_Chat)
@@ -516,7 +516,6 @@ Custom GPTs
 466. [Social Simulator](https://github.com/sourceduty/Social_Simulator)
 467. [Format Origin](https://github.com/sourceduty/Format_Origin)
 468. [Math Template](https://github.com/sourceduty/Math_Template)
-469. [Science News Report](https://github.com/sourceduty/Science_News_Report)
 
 Concept Custom GPTs
 
