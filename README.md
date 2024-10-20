@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `860` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `861` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -889,6 +889,7 @@ Computational, Experimental & Theory
 28.  [HPMC](https://github.com/sourceduty/HPMC)
 29.  [Theory of Norms](https://github.com/sourceduty/Theory_of_Norms)
 30.  [Polar Duality Theory](https://github.com/sourceduty/Polar_Duality_Theory)
+31.  [Quadrilateral Polarity Theory](https://github.com/sourceduty/Quadrilateral_Polarity_Theory)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
