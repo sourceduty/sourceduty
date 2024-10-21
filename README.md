@@ -532,7 +532,7 @@ Concept Custom GPTs
 
 General
 
-1. [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
+1. [ASI](https://github.com/sourceduty/ASI)
 2. [National Commander](https://github.com/sourceduty/National_Commander)
 3. [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 4. [Hacked Image](https://github.com/sourceduty/Hacked_Image)
