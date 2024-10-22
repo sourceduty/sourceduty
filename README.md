@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `866` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `867` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -521,6 +521,7 @@ Custom GPTs
 471. [Animal IoT](https://github.com/sourceduty/Animal_IoT)
 472. [Problem Solved](https://github.com/sourceduty/Problem_Solved)
 473. [Instruction Creator](https://github.com/sourceduty/Instruction_Creator)
+474. [Natural Shelter](https://github.com/sourceduty/Natural_Shelter)
 
 Concept Custom GPTs
 
