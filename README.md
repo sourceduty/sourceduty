@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `869` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `870` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -525,6 +525,7 @@ Custom GPTs
 475. [Stupidity Rating](https://github.com/sourceduty/Stupidity_Rating)
 476. [DevOps Guide](https://github.com/sourceduty/DevOps_Guide)
 477. [Freelance Bos](https://github.com/sourceduty/Freelance_Boss)
+478. [Framework Forge](https://github.com/sourceduty/Framework_Forge)
 
 Concept Custom GPTs
 
