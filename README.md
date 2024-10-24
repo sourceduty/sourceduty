@@ -129,7 +129,7 @@ Custom GPTs
 79. [Business Simulator](https://github.com/sourceduty/Business_Automation)
 80. [Process Automation](https://github.com/sourceduty/Process_Automation)
 81. [Decision Automation](https://github.com/sourceduty/Decision_Automation)
-82. [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
+82. [Bot-to-Bot](https://chatgpt.com/g/g-IsgXMZS6N-bot-to-bot)
 83. [Reverse Engineer](https://github.com/sourceduty/Reverse_Engineer)
 84. [Information & Data Quality](https://github.com/sourceduty/Information_Data_Quality)
 85. [Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator)
