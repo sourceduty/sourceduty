@@ -6,7 +6,7 @@
   <h3 align="center"><strong>Sourceduty Repository Index</strong></h3>
 
   <p align="center">
-    AI, data, research, science, open-source codes, theory, experiments, design, concept ideas, industry and inspiration. 
+    AI, data, research, science, open-source codes, theory, design, concept ideas, industry, invention and inspiration. 
   </p>
   <p align="center">
     Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
