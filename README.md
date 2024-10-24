@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `874` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `875` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -530,6 +530,7 @@ Custom GPTs
 480. [Genetic Simulator](https://github.com/sourceduty/Genetic_Simulator)
 481. [Supercity](https://github.com/sourceduty/Supercity)
 482. [Battery Management](https://github.com/sourceduty/Battery_Management)
+483. [Metadata Automation](https://github.com/sourceduty/Metadata_Automation)
 
 Concept Custom GPTs
 
