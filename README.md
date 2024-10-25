@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `877` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `878` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -533,6 +533,7 @@ Custom GPTs
 482. [Battery Management](https://github.com/sourceduty/Battery_Management)
 483. [Metadata Automation](https://github.com/sourceduty/Metadata_Automation)
 484. [Virtual Model](https://github.com/sourceduty/Virtual_Model)
+485. [Vehicle Promo](https://github.com/sourceduty/Vehicle_Promo)
 
 Concept Custom GPTs
 
