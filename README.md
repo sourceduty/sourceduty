@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `876` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `877` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -45,6 +45,7 @@ ChatGPT
 14. [ChatGPT Repo Automation](https://github.com/sourceduty/ChatGPT_Repo_Automation)
 15. [Local Offline AI](https://github.com/sourceduty/Local_Offline_AI)
 16. [Sora](https://github.com/sourceduty/Sora)
+17. [GPT-Driven](https://github.com/sourceduty/GPT-Driven)
 
 Custom GPTs
    
