@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `884` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `885` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -539,6 +539,7 @@ Custom GPTs
 488. [Video Image](https://github.com/sourceduty/Video_Image)
 489. [High Python](https://github.com/sourceduty/High_Python)
 490. [Sea Life Fashion](https://github.com/sourceduty/Sea_Life_Fashion)
+491. [Challenge 30 Days](https://github.com/sourceduty/Challenge_30_Days)
 
 Concept Custom GPTs
 
