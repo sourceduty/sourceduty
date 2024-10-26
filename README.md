@@ -598,7 +598,7 @@ General
 
 Libraries and Packages
 
-1. [Matplotlib Layers](https://github.com/sourceduty/Matplotlib_Layers)
+1. [Matplotlib](https://github.com/sourceduty/Matplotlib)
 2. [Automatic Python Libraries](https://github.com/sourceduty/Automatic_Python_Libraries)
 
 <br>
