@@ -716,7 +716,7 @@ General
 28. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
 29. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
 30. [Snake Pencil](https://github.com/sourceduty/Snake_Pencil)
-31. [PowerShell Boss](https://github.com/sourceduty/Powershell_Boss)
+31. [PowerShell Boss](https://github.com/sourceduty/PowerShell_Boss)
 
 Unlikely
 
