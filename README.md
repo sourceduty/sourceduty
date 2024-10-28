@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `888` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `889` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -541,6 +541,7 @@ Custom GPTs
 490. [Sea Life Fashion](https://github.com/sourceduty/Sea_Life_Fashion)
 491. [Challenge 30 Days](https://github.com/sourceduty/Challenge_30_Days)
 492. [Simulation Dev](https://github.com/sourceduty/Simulation_Dev)
+493. [Synthetic Life Simulator](https://github.com/sourceduty/Synthetic_Life_Simulator)
 
 Concept Custom GPTs
 
