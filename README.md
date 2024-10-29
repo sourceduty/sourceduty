@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `892` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `893` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -544,6 +544,7 @@ Custom GPTs
 493. [Synthetic Life Simulator](https://github.com/sourceduty/Synthetic_Life_Simulator)
 494. [Network Simulator](https://github.com/sourceduty/Network_Simulator)
 495. [Automated Scientist](https://github.com/sourceduty/Automated_Scientist)
+496. [Heavy Equipment](https://github.com/sourceduty/Heavy_Equipment)
 
 Concept Custom GPTs
 
