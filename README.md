@@ -539,7 +539,7 @@ Custom GPTs
 488. [Video Image](https://github.com/sourceduty/Video_Image)
 489. [High Python](https://github.com/sourceduty/High_Python)
 490. [Sea Life Fashion](https://github.com/sourceduty/Sea_Life_Fashion)
-491. [Challenge 30 Days](https://github.com/sourceduty/Challenge_30_Days)
+491. [30 Day Challenge](https://github.com/sourceduty/30_Day_Challenge)
 492. [Simulation Dev](https://github.com/sourceduty/Simulation_Dev)
 493. [Synthetic Life Simulator](https://github.com/sourceduty/Synthetic_Life_Simulator)
 494. [Network Simulator](https://github.com/sourceduty/Network_Simulator)
