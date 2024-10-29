@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `891` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `892` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -602,6 +602,7 @@ General
 24. [Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
 25. [ZIP Topology](https://github.com/sourceduty/ZIP_Topology)
 26. [Python Boss](https://github.com/sourceduty/Python_Boss)
+27. [Terminal Buttons](https://github.com/sourceduty/Terminal_Buttons)
 
 Libraries and Packages
 
