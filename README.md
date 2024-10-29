@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `896` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `897` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -548,6 +548,7 @@ Custom GPTs
 497. [Fashion School](https://github.com/sourceduty/Fashion_School)
 498. [Visual Song Creator](https://github.com/sourceduty/Visual_Song_Creator)
 499. [Silly Food](https://github.com/sourceduty/Silly_Food)
+500. [Music Fashion](https://github.com/sourceduty/Music_Fashion)
 
 Concept Custom GPTs
 
