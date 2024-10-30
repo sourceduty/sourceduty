@@ -552,6 +552,7 @@ Custom GPTs
 501. [Virtual Machine Network](https://github.com/sourceduty/VMN)
 502. [Antique Fashion](https://github.com/sourceduty/Antique_Fashion)
 503. [Event Generator](https://github.com/sourceduty/Event_Generator)
+504. [Mining Machine](https://github.com/sourceduty/Mining_Machine)
 
 Concept Custom GPTs
 
@@ -828,7 +829,7 @@ General:
 
 Chemistry
 1. [Invasive Fish](https://github.com/sourceduty/Invasive_Fish)
-2. [Gold](https://github.com/sourceduty/Gold)
+2. [Eye Spray](https://github.com/sourceduty/Eye_Spray)
 3. [Freshwater Weeds](https://github.com/sourceduty/Freshwater_Weeds)
 4. [Airplane Contrails](https://github.com/sourceduty/Airplane_Contrails)
 5. [Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
@@ -837,7 +838,6 @@ Chemistry
 8. [Food Inhalant](https://github.com/sourceduty/Food_Inhalant)
 9. [Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
 10. [Golf Balls](https://github.com/sourceduty/Golf_Balls)
-11. [Eye Spray](https://github.com/sourceduty/Eye_Spray)
 
 Math & Analytics
 1. [Math](https://github.com/sourceduty/Math)
