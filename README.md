@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `901` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `902` public repos sorted and listed below into `12` different categories. |
 |-|
 	
 </div>
@@ -554,6 +554,7 @@ Custom GPTs
 503. [Event Generator](https://github.com/sourceduty/Event_Generator)
 504. [Mining Machine](https://github.com/sourceduty/Mining_Machine)
 505. [Survival Tech](https://github.com/sourceduty/Survival_Tech)
+506. [Robot Me](https://github.com/sourceduty/Robot_Me)
 
 Concept Custom GPTs
 
