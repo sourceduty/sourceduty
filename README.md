@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `906` public repos sorted and listed below into `12` different categories. |
+| Sourceduty currently has `1` index containing `906` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -634,6 +634,14 @@ Libraries and Packages
 
 <br>
 </details>
+<details><summary>C++</summary>
+<br>
+
+1. [Smart Folder](https://github.com/sourceduty/Smart_Folder)
+2. [Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
+
+<br>
+</details>
 <details><summary>Electronics</summary>
 <br>
 
@@ -685,10 +693,9 @@ General
 
 1. [Batch Files](https://github.com/sourceduty/Batch)
 2. [Right_Click Converter](https://github.com/sourceduty/Right_Click_Converter)
-3. [Smart Folder](https://github.com/sourceduty/Smart_Folder)
+3. [Shortbar](https://github.com/sourceduty/Shortbar)
 4. [Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
 5. [Registry](https://github.com/sourceduty/Registry)
-6. [Shortbar](https://github.com/sourceduty/Shortbar)
 
 <br>
 </details>
@@ -727,7 +734,7 @@ General
 20. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
 21. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 22. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
-23. [Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
+23. [PowerShell Boss](https://github.com/sourceduty/PowerShell_Boss)
 24. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
 26. [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
@@ -735,7 +742,6 @@ General
 28. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
 29. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
 30. [Snake Pencil](https://github.com/sourceduty/Snake_Pencil)
-31. [PowerShell Boss](https://github.com/sourceduty/PowerShell_Boss)
 
 Unlikely
 
