@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `907` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `908` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -1049,6 +1049,7 @@ General
 33. [Logo Design](https://github.com/sourceduty/Logo_Design)
 34. [2fa](https://github.com/sourceduty/2fa)
 35. [Business Security](https://github.com/sourceduty/Business_Security)
+36. [Shopping Carts](https://github.com/sourceduty/Shopping_Carts)
 
 Sourceduty
 
