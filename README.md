@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `906` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `907` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -558,7 +558,7 @@ Custom GPTs
 507. [Image Power](https://github.com/sourceduty/Image_Power)
 508. [Text Power](https://github.com/sourceduty/Text_Power)
 509. [Alternate Reality](https://github.com/sourceduty/Alternate_Reality)
-
+510. [Single Worker](https://github.com/sourceduty/Single_Worker)
 
 Concept Custom GPTs
 
