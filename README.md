@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `911` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `912` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -561,6 +561,7 @@ Custom GPTs
 510. [Single Worker](https://github.com/sourceduty/Single_Worker)
 511. [Automated Upload](https://github.com/sourceduty/Automated_Upload)
 512. [Open Banking](https://github.com/sourceduty/Open_Banking)
+513. [Art Automation](https://github.com/sourceduty/Art_Automation)
 
 Concept Custom GPTs
 
