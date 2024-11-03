@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `912` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `913` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -681,6 +681,7 @@ Concept Electronics
 12. [UFO Traffic Light](https://github.com/sourceduty/UFO_Traffic_Light)
 13. [Corn Cob Rotisserie](https://github.com/sourceduty/Corn_Cob_Rotisserie)
 14. [Thermal Goggles](https://github.com/sourceduty/Thermal_Goggles)
+15. [AI Vision Mouse](https://github.com/sourceduty/AI_Vision_Mouse)
 
 General
 
