@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `920` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `921` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -567,6 +567,7 @@ Custom GPTs
 516. [Joint Project](https://github.com/sourceduty/Joint_Project)
 517. [Video Parody](https://github.com/sourceduty/Video_Parody)
 518. [Luxury Simulator](https://github.com/sourceduty/Luxury_Simulator)
+519. [Software Logo](https://github.com/sourceduty/Software_Logo)
 
 Concept Custom GPTs
 
