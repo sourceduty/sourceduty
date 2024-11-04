@@ -1055,7 +1055,7 @@ General
 31. [YouTube](https://github.com/sourceduty/YouTube)
 32. [Vending Recycler](https://github.com/sourceduty/Vending_Recycler)
 33. [Logo Design](https://github.com/sourceduty/Logo_Design)
-34. [2fa](https://github.com/sourceduty/2fa)
+34. [2FA](https://github.com/sourceduty/2FA)
 35. [Business Security](https://github.com/sourceduty/Business_Security)
 36. [Shopping Carts](https://github.com/sourceduty/Shopping_Carts)
 37. [Open-Source](https://github.com/sourceduty/Open-Source)
