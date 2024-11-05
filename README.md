@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `927` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `928` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -574,6 +574,7 @@ Custom GPTs
 523. [Standard Measure](https://github.com/sourceduty/Standard_Measure)
 524. [British Chat](https://github.com/sourceduty/British_Chat)
 525. [Fabric Identity](https://github.com/sourceduty/Fabric_Identity)
+526. [Price Check](https://github.com/sourceduty/Price_Check)
 
 Concept Custom GPTs
 
