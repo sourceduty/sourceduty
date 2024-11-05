@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `929` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `930` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -576,6 +576,7 @@ Custom GPTs
 525. [Fabric Identity](https://github.com/sourceduty/Fabric_Identity)
 526. [Price Check](https://github.com/sourceduty/Price_Check)
 527. [Court Simulator](https://github.com/sourceduty/Court_Simulator)
+528. [Database Creator](https://github.com/sourceduty/Database_Creator)
 
 Concept Custom GPTs
 
