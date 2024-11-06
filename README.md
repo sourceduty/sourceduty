@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `934` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `935` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -578,6 +578,7 @@ Custom GPTs
 527. [Court Simulator](https://github.com/sourceduty/Court_Simulator)
 528. [Database Creator](https://github.com/sourceduty/Database_Creator)
 529. [Cluster GPTs](https://github.com/sourceduty/Cluster_GPTs)
+530. [Program Generator](https://github.com/sourceduty/Program_Generator)
 
 Concept Custom GPTs
 
