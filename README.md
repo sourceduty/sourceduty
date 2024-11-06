@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `933` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `934` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -1117,6 +1117,7 @@ Sourceduty
 24. [Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
 25. [Camera](https://github.com/sourceduty/Camera)
 26. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
+27. [Black Paper](https://github.com/sourceduty/Black_Paper)
 
 <br>
 </details>
