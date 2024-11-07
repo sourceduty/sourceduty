@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `942` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `943` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -585,6 +585,7 @@ Custom GPTs
 534. [Social Sync](https://github.com/sourceduty/Social_Sync)
 535. [Statistic Simulator](https://github.com/sourceduty/Statistic_Simulator)
 536. [Semiconductor Sim](https://github.com/sourceduty/Semiconductor_Sim)
+537. [Lowest Priced](https://github.com/sourceduty/Lowest_Priced)
 
 Concept Custom GPTs
 
