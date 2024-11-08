@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `944` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `948` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -525,7 +525,7 @@ Custom GPTs
 474. [Natural Shelter](https://github.com/sourceduty/Natural_Shelter)
 475. [Stupidity Rating](https://github.com/sourceduty/Stupidity_Rating)
 476. [DevOps Guide](https://github.com/sourceduty/DevOps_Guide)
-477. [Freelance Bos](https://github.com/sourceduty/Freelance_Boss)
+477. [Freelance Boss](https://github.com/sourceduty/Freelance_Boss)
 478. [Framework Forge](https://github.com/sourceduty/Framework_Forge)
 479. [Cryptography Simulator](https://github.com/sourceduty/Cryptography_Simulator)
 480. [Genetic Simulator](https://github.com/sourceduty/Genetic_Simulator)
@@ -588,6 +588,10 @@ Custom GPTs
 537. [Lowest Priced](https://github.com/sourceduty/Lowest_Priced)
 538. [Social Media Shoutouts](https://github.com/sourceduty/Social_Media_Shoutouts)
 539. [Computer Metrics](https://github.com/sourceduty/Computer_Metrics)
+540. [Lifestyle Story](https://github.com/sourceduty/Lifestyle_Story)
+541. [Theoretical Experiment](https://github.com/sourceduty/Theoretical_Experiment)
+542. [Birds Eye Visualizer](https://github.com/sourceduty/Birds_Eye_Visualizer)
+543. [Modern Origin](https://github.com/sourceduty/Modern_Origin)
 
 Concept Custom GPTs
 
@@ -772,6 +776,7 @@ General
 28. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
 29. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
 30. [Snake Pencil](https://github.com/sourceduty/Snake_Pencil)
+31. [Logic Guage](https://github.com/sourceduty/Logic_Gauge)
 
 Unlikely
 
