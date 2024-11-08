@@ -438,7 +438,7 @@ Custom GPTs
 387. [World Leader Sim](https://github.com/sourceduty/World_Leader_Sim)
 388. [Einstein Battle](https://github.com/sourceduty/Einstein_Battle)
 389. [Survivalist Game](https://github.com/sourceduty/Survivalist_Game)
-390. [Einstain Battle](https://github.com/sourceduty/Einstein_Battle)
+390. [Einstain Game](https://github.com/sourceduty/Einstein_Game)
 391. [Task Manager Sim](https://github.com/sourceduty/Task_Manager_Sim)
 392. [Business School](https://github.com/sourceduty/Business_School)
 393. [Language School](https://github.com/sourceduty/Language_School)
