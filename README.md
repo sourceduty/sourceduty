@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `945` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `944` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -1128,7 +1128,6 @@ Sourceduty
 25. [Camera](https://github.com/sourceduty/Camera)
 26. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 27. [Black Paper](https://github.com/sourceduty/Black_Paper)
-28. [Alex Aldridge Investigation](https://github.com/sourceduty/Alex_Aldridge_Investigation)
 
 <br>
 </details>
