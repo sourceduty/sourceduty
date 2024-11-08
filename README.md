@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `947` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `948` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -592,6 +592,7 @@ Custom GPTs
 541. [Theoretical Experiment](https://github.com/sourceduty/Theoretical_Experiment)
 542. [Birds Eye Visualizer](https://github.com/sourceduty/Birds_Eye_Visualizer)
 543. [Modern Origin](https://github.com/sourceduty/Modern_Origin)
+544. [Movie Game Character](https://github.com/sourceduty/Movie_Game_Character)
 
 Concept Custom GPTs
 
