@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `953` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `954` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -598,6 +598,7 @@ Custom GPTs
 547. [Speech Psychology](https://github.com/sourceduty/Speech_Psychology)
 548. [National Update](https://github.com/sourceduty/National_Update)
 549. [Travel Receptionist](https://github.com/sourceduty/Travel_Receptionist)
+550. [Friend Crisis](https://github.com/sourceduty/Friend_Crisis)
 
 Concept Custom GPTs
 
