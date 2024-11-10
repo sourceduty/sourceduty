@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `959` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `960` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -956,6 +956,7 @@ Social
 15. [Human Names](https://github.com/sourceduty/Human_Names)
 16. [Politics](https://github.com/sourceduty/Politics)
 17. [Communications](https://github.com/sourceduty/Communication)
+18. [ALex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
 
 Computational, Experimental & Theory
 1. [Experiments](https://github.com/sourceduty/Experiments)
