@@ -63,7 +63,7 @@ Custom GPTs
 12. [Fake Information Purifier](https://github.com/sourceduty/Fake_Information_Purifier)
 13. [Global Problems](https://github.com/sourceduty/Global_Problems)
 14. [Event Model Simulator](https://github.com/sourceduty/Event_Model_Simulator)
-15. [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
+15. [Data Generator](https://github.com/sourceduty/data_generator)
 16. [Narrative Search](https://github.com/sourceduty/Narrative_Search)
 17. [Photo Location](https://github.com/sourceduty/Photo_Location)
 18. [Text Emulator](https://github.com/sourceduty/Text_Emulator)
