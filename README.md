@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `965` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `957` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -453,7 +453,7 @@ Custom GPTs
 402. [AR & VR](https://github.com/sourceduty/AR_VR)
 403. [AI + IoT](https://github.com/sourceduty/AI_IoT)
 404. [EV Simulator](https://github.com/sourceduty/EV_Simulator)
-405. [Movie/Game Character](https://github.com/sourceduty/Movie_Game_Character)
+405. [EV Builder](https://github.com/sourceduty/EV_Builder)
 406. [Sourceduty Explorer](https://github.com/sourceduty/Sourceduty_Explorer)
 407. [In-Game Money](https://github.com/sourceduty/In-Game_Money)
 408. [Airport Simulator](https://github.com/sourceduty/Airport_Simulator)
@@ -495,7 +495,7 @@ Custom GPTs
 444. [Live Simulation](https://github.com/sourceduty/Live_Simulation)
 445. [Command Line Interface](https://github.com/sourceduty/Command_Line_Interface)
 446. [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
-447. [Bird's Eye Visualizer](https://github.com/sourceduty/Birds_Eye_Visualizer)
+447. [Art & Design Sales](https://github.com/sourceduty/Art-Design_Sales)
 448. [Hunting Blind](https://github.com/sourceduty/Hunting_Blind)
 449. [Indian Design](https://github.com/sourceduty/Indian_Design)
 450. [Pi Game](https://github.com/sourceduty/Pi_Game)
@@ -602,8 +602,6 @@ Custom GPTs
 551. [Funny Software](https://github.com/sourceduty/Funny_Software)
 552. [Product Review Automation](https://github.com/sourceduty/Product_Review_Automation)
 553. [Brand Pattern](https://github.com/sourceduty/Brand_Pattern)
-554. [Art & Design Sales](https://github.com/sourceduty/Art-Design_Sales)
-555. [EV Builder](https://github.com/sourceduty/EV_Builder)
 
 Concept Custom GPTs
 
@@ -654,7 +652,7 @@ General
 14. [Mouse_History_Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
 15. [Custom Python GPTs](https://github.com/sourceduty/Custom_Python_GPTs)
 16. [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
-17. [Canadian_Weather](https://github.com/sourceduty/Canadian_Weather)
+17. Terminal Buttons](https://github.com/sourceduty/Terminal_Buttons)
 18. [Highlighted_Map](https://github.com/sourceduty/Highlighted_Map)
 19. [Fractal Art Creator](https://github.com/sourceduty/Fractal_Art_Creator)
 20. [Serial Simulator](https://github.com/sourceduty/Serial_Simulator)
@@ -664,7 +662,6 @@ General
 24. [Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
 25. [ZIP Topology](https://github.com/sourceduty/ZIP_Topology)
 26. [Python Boss](https://github.com/sourceduty/Python_Boss)
-27. [Terminal Buttons](https://github.com/sourceduty/Terminal_Buttons)
 
 Libraries and Packages
 
@@ -698,7 +695,6 @@ Arduino
 2. [Power-Time Logger](https://github.com/sourceduty/Power-Time_Logger) 
 3. [Gun Target](https://github.com/sourceduty/ArduinoTarget)
 4. [ScreenTime Break](https://github.com/sourceduty/ScreenTimeBreak)
-5. [Serial_Simulator](https://github.com/sourceduty/Serial_Simulator)
 
 Raspberry Pi
 
@@ -765,7 +761,7 @@ General
 
 1. [Experience Modes](https://github.com/sourceduty/Experience_Modes)
 2. [Pothole Prediction](https://github.com/sourceduty/Pothole_Prediction)
-3. [Video Instructor](https://github.com/sourceduty/Video_Instructor)
+3. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
 4. [Encoded_Interactive_Graphic](https://github.com/sourceduty/Encoded_Interactive_Graphic_Format)
 5. [Huge_Cursor](https://github.com/sourceduty/Huge_Cursor)
 6. [Collage Image](https://github.com/sourceduty/Collage_Image)
@@ -788,9 +784,7 @@ General
 23. [PowerShell Boss](https://github.com/sourceduty/PowerShell_Boss)
 24. [Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar)
 25. [Cursor_Taskbar_Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu)
-26. [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
-27. [World Clocks](https://github.com/sourceduty/World_Clocks)
-28. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
+26. [World Clocks](https://github.com/sourceduty/World_Clocks)
 
 Unlikely
 
@@ -829,7 +823,6 @@ Google
 5. [Google_Earth_Dynamics](https://github.com/sourceduty/Google_Earth_Dynamics)
 6. [Chrome_Context_Menu_Holder](https://github.com/sourceduty/Google_Chrome_Context_Menu_Holder)
 7. [YouTube Subtitles Converter](https://github.com/sourceduty/YouTube_Subtitles_Converter)
-8. [YouTube Subtitle Analytics](https://github.com/sourceduty/YouTube-Subtitle-Analytics)
 
 GitHub
 
@@ -1135,7 +1128,7 @@ Sourceduty
 13. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
 14. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
 15. [Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
-16. [Timeless Products](https://github.com/sourceduty/Timeless_Products)
+16. [Black Paper](https://github.com/sourceduty/Black_Paper)
 17. [Virtual Hide and Seek](https://github.com/sourceduty/Virtual_Hide_and_Seek)
 18. [Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
 19. [Laptop Design](https://github.com/sourceduty/Laptop_Design)
@@ -1146,7 +1139,6 @@ Sourceduty
 24. [Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
 25. [Camera](https://github.com/sourceduty/Camera)
 26. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
-27. [Black Paper](https://github.com/sourceduty/Black_Paper)
 
 <br>
 </details>
