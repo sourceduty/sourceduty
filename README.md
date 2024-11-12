@@ -235,7 +235,7 @@ Custom GPTs
 184. [Patent Advisor](https://github.com/sourceduty/Patent_Advisor)
 185. [Animated Plots](https://github.com/sourceduty/Animated_Plots)
 186. [Bias Analyzer](https://github.com/sourceduty/Bias_Analyzer)
-187. [Contract Program](https://chatgpt.com/g/g-4R7U89xNb-contract-program)
+187. [Contract Program](https://github.com/sourceduty/Contract_Program)
 188. [Company News](https://github.com/sourceduty/Company_News)
 189. [Subsidiary Business](https://github.com/sourceduty/Subsidiary_Business)
 190. [Business Conglomerate](https://github.com/sourceduty/Business_Conglomerate)
