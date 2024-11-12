@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `967` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `966` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -114,7 +114,7 @@ Custom GPTs
 63. [Software Intelligence](https://github.com/sourceduty/Software_Intelligence)
 64. [Gift Radar](https://github.com/sourceduty/Gift_Radar)
 65. [Professional Value](https://github.com/sourceduty/Professional_Value)
-66. [Job Generator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
+66. [Job Generator](https://github.com/sourceduty/Job_Generator)
 67. [Unknown Research](https://github.com/sourceduty/Unknown_Research)
 68. [Business Research](https://github.com/sourceduty/Business_Research)
 69. [Playlist Generator](https://github.com/sourceduty/Playlist_Generator)
@@ -130,7 +130,7 @@ Custom GPTs
 79. [Business Simulator](https://github.com/sourceduty/Business_Automation)
 80. [Process Automation](https://github.com/sourceduty/Process_Automation)
 81. [Decision Automation](https://github.com/sourceduty/Decision_Automation)
-82. [Bot-to-Bot](https://chatgpt.com/g/g-IsgXMZS6N-bot-to-bot)
+82. [Bot-to-Bot](https://github.com/sourceduty/Bot-to-Bot)
 83. [Reverse Engineer](https://github.com/sourceduty/Reverse_Engineer)
 84. [Information & Data Quality](https://github.com/sourceduty/Information_Data_Quality)
 85. [Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator)
@@ -171,13 +171,13 @@ Custom GPTs
 120. [Programming Complexity](https://github.com/sourceduty/Programming_Complexity)
 121. [Programming Diagnostics](https://github.com/sourceduty/Programming_Diagnostics)
 122. [Browser Extension](https://github.com/sourceduty/Browser_Extension)
-123. [Tax Loophole](https://github.com/sourceduty/Tax_Loophole)
+123. [Public Trends](https://github.com/sourceduty/Public_Trends)
 124. [Game Architect](https://github.com/sourceduty/Game_Architect)
 125. [Dataset Analyzer](https://github.com/sourceduty/Dataset_Analyzer)
 126. [Product Demand](https://github.com/sourceduty/Product_Demand)
 127. [Face Compare](https://github.com/sourceduty/Face_Compare)
 128. [Health Informatics Simulator](https://github.com/sourceduty/Health_Informatics_Simulator)
-129. [Alex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
+129. [AI Model](https://github.com/sourceduty/AI_Model)
 130. [Digital Experiment](https://github.com/sourceduty/Digital_Experiment)
 131. [GPT Simulator](https://github.com/sourceduty/GPT_Simulator)
 132. [Document Complexity](https://github.com/sourceduty/Document_Complexity)
@@ -433,7 +433,7 @@ Custom GPTs
 382. [Python Machine](https://github.com/sourceduty/Python_Machine)
 383. [Footage Location](https://github.com/sourceduty/Footage_Location)
 384. [Email Automation](https://github.com/sourceduty/Email_Automation)
-385. [Trump Simulator](https://github.com/sourceduty/Trump_Simulator)
+385. [Help Software](https://github.com/sourceduty/Help_Software)
 386. [Biden Simulator](https://github.com/sourceduty/Biden_Simulator)
 387. [World Leader Sim](https://github.com/sourceduty/World_Leader_Sim)
 388. [Einstein Battle](https://github.com/sourceduty/Einstein_Battle)
@@ -605,9 +605,6 @@ Custom GPTs
 554. [Art & Design Sales](https://github.com/sourceduty/Art-Design_Sales)
 555. [EV Builder](https://github.com/sourceduty/EV_Builder)
 556. [Private Military](https://github.com/sourceduty/Private_Military)
-557. [Help Software](https://github.com/sourceduty/Help_Software)
-558. [Public Trends](https://github.com/sourceduty/Public_Trends)
-559. [AI Model](https://github.com/sourceduty/AI_Model)
 
 Concept Custom GPTs
 
@@ -617,6 +614,8 @@ Concept Custom GPTs
 4. [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
 5. [Sam Altman](https://github.com/sourceduty/Sam_Altman)
 6. [Sourceduty News](https://github.com/sourceduty/Sourceduty_News)
+7. [Tax Loophole](https://github.com/sourceduty/Tax_Loophole)
+8. [Trump Simulator](https://github.com/sourceduty/Trump_Simulator)
 
 General
 
@@ -748,6 +747,7 @@ General
 4. [Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
 5. [Registry](https://github.com/sourceduty/Registry)
 6. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
+7. [Windows](https://github.com/sourceduty/Windows)
 
 <br>
 </details>
@@ -977,7 +977,7 @@ Computational, Experimental & Theory
 14.  [Xenodynamics](https://github.com/sourceduty/Xenodynamics)
 15.  [Computational Chronophysics](https://github.com/sourceduty/Computational_Chronophysics)
 16.  [Diagnostic Physics](https://github.com/sourceduty/Diagnostic_Physics)
-17.  [Qunatum Neurogenetics](https://github.com/sourceduty/Quantum_Neurogenetics)
+17.  [Quantum Neurogenetics](https://github.com/sourceduty/Quantum_Neurogenetics)
 18.  [Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
 19.  [Computational Agribusiness](https://github.com/sourceduty/Computational_Agribusiness)
 20.  [Computational Hyperchemistry](https://github.com/sourceduty/Computational_Hyperchemistry)
@@ -1132,7 +1132,7 @@ Sourceduty
 9. [TV Channels](https://github.com/sourceduty/TV_Channels)
 10. [Rugged Storage Boxes](https://github.com/sourceduty/Rugged_Storage_Boxes)
 11. [Job Quality](https://github.com/sourceduty/Job_Quality)
-12. [Windows](https://github.com/sourceduty/Windows)
+12. [Funny](https://github.com/sourceduty/Funny)
 13. [Game Consoles](https://github.com/sourceduty/Game_Consoles)
 14. [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
 15. [Automated 3D Modelling](https://github.com/sourceduty/Automated_3D_Modelling)
@@ -1148,7 +1148,6 @@ Sourceduty
 25. [Camera](https://github.com/sourceduty/Camera)
 26. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 27. [Black Paper](https://github.com/sourceduty/Black_Paper)
-28. [Funny](https://github.com/sourceduty/Funny)
 
 <br>
 </details>
