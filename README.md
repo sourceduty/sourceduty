@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `963` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `964` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -726,6 +726,7 @@ Concept Electronics
 13. [Corn Cob Rotisserie](https://github.com/sourceduty/Corn_Cob_Rotisserie)
 14. [Thermal Goggles](https://github.com/sourceduty/Thermal_Goggles)
 15. [AI Vision Mouse](https://github.com/sourceduty/AI_Vision_Mouse)
+16. [Vehicle Comfort-Motion Tool](https://github.com/sourceduty/Vehicle_Comfort-Motion_Tool)
 
 General
 
