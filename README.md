@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `966` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `967` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -747,6 +747,7 @@ General
 3. [Shortbar](https://github.com/sourceduty/Shortbar)
 4. [Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
 5. [Registry](https://github.com/sourceduty/Registry)
+6. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
 
 <br>
 </details>
@@ -780,8 +781,8 @@ General
 15. [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 16. [Geo-Historic Word Valuation](https://github.com/sourceduty/Geo-Historic_Word_Valuation)
 17. [Dynamic_Text_Editor](https://github.com/sourceduty/Dynamic_Text_Editor)
-18. [Windows_Deviance](https://github.com/sourceduty/Windows_Deviance)
-19. [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
+18. [Snake Pencil](https://github.com/sourceduty/Snake_Pencil)
+19. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
 20. [Contact_Verification](https://github.com/sourceduty/Contact_Verification)
 21. [Voicemail-2-Text](https://github.com/sourceduty/Voicemail-2-Text)
 22. [Trash_Capacity](https://github.com/sourceduty/Trash_Capacity)
@@ -791,9 +792,6 @@ General
 26. [Opinionated Analysis Report](https://github.com/sourceduty/Opinionated_Analysis_Report)
 27. [World Clocks](https://github.com/sourceduty/World_Clocks)
 28. [3D STL Manager](https://github.com/sourceduty/3D_STL_Manager)
-29. [Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
-30. [Snake Pencil](https://github.com/sourceduty/Snake_Pencil)
-31. [Logic Guage](https://github.com/sourceduty/Logic_Gauge)
 
 Unlikely
 
@@ -935,8 +933,7 @@ Health & Biology
 9. [Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
 10. [Food Design](https://github.com/sourceduty/Food_Design)
 11. [Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
-12. [Global Gay Problems](https://github.com/sourceduty/Global_Gay_Problem)
-13. [Aripiprazole STPD](https://github.com/sourceduty/Aripiprazole_STPD)
+12. [Aripiprazole STPD](https://github.com/sourceduty/Aripiprazole_STPD)
 
 Environment
 1. [Garbage](https://github.com/sourceduty/Garbage)
@@ -962,7 +959,6 @@ Social
 15. [Human Names](https://github.com/sourceduty/Human_Names)
 16. [Politics](https://github.com/sourceduty/Politics)
 17. [Communications](https://github.com/sourceduty/Communication)
-18. [ALex Aldridge](https://github.com/sourceduty/Alex_Aldridge)
 
 Computational, Experimental & Theory
 1. [Experiments](https://github.com/sourceduty/Experiments)
@@ -996,6 +992,7 @@ Computational, Experimental & Theory
 29.  [Theory of Norms](https://github.com/sourceduty/Theory_of_Norms)
 30.  [Polar Duality Theory](https://github.com/sourceduty/Polar_Duality_Theory)
 31.  [Quadrilateral Polarity Theory](https://github.com/sourceduty/Quadrilateral_Polarity_Theory)
+32.  [Logic Guage](https://github.com/sourceduty/Logic_Gauge)
 
 Data
 1. [Data Metrics](https://github.com/sourceduty/Data_Metrics)
@@ -1151,6 +1148,7 @@ Sourceduty
 25. [Camera](https://github.com/sourceduty/Camera)
 26. [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 27. [Black Paper](https://github.com/sourceduty/Black_Paper)
+28. [Funny](https://github.com/sourceduty/Funny)
 
 <br>
 </details>
