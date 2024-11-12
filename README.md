@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `964` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `965` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -606,6 +606,7 @@ Custom GPTs
 555. [EV Builder](https://github.com/sourceduty/EV_Builder)
 556. [Private Military](https://github.com/sourceduty/Private_Military)
 557. [Help Software](https://github.com/sourceduty/Help_Software)
+558. [Public Trends](https://github.com/sourceduty/Public_Trends)
 
 Concept Custom GPTs
 
