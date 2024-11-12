@@ -17,7 +17,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index containing `966` public repos sorted and listed below into `13` different categories. |
+| Sourceduty currently has `1` index containing `965` public repos sorted and listed below into `13` different categories. |
 |-|
 	
 </div>
@@ -323,7 +323,7 @@ Custom GPTs
 272. [Combinatorics Simulator](https://github.com/sourceduty/Combinatorics_Simulator)
 273. [Microbiology Simulator](https://github.com/sourceduty/Microbiology_Simulator)
 274. [Dragon's Den](https://github.com/sourceduty/Dragons_Den)
-275. [Aviation Programmer](https://chatgpt.com/g/g-Ittb4saQw-aviation-programmer)
+275. [Private Military](https://github.com/sourceduty/Private_Military)
 276. [Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)
 277. [Rocket Programmer](https://github.com/sourceduty/Rocket_Programmer)
 278. [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
@@ -604,7 +604,6 @@ Custom GPTs
 553. [Brand Pattern](https://github.com/sourceduty/Brand_Pattern)
 554. [Art & Design Sales](https://github.com/sourceduty/Art-Design_Sales)
 555. [EV Builder](https://github.com/sourceduty/EV_Builder)
-556. [Private Military](https://github.com/sourceduty/Private_Military)
 
 Concept Custom GPTs
 
