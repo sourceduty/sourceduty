@@ -3,7 +3,7 @@
     <img src="https://github.com/sourceduty/sourceduty/assets/123030236/7c2417a1-561b-4046-8103-e99da48dcb33" alt="Sourceduty" width="200" height="200">
   </a>
 
-  <h3 align="center"><strong>Sourceduty Repository Index</strong></h3>
+  <h3 align="center"><strong>Sourceduty Main Repository</strong></h3>
 
   <p align="center">
    Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
@@ -14,7 +14,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` index and `965` public repos.|
+| Sourceduty currently has `1` main repo with `965` total public repos.|
 |-|
 	
 </div>
