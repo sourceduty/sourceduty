@@ -29,6 +29,10 @@ The name "Sourceduty" reflects the company's core values, derived from the combi
 
 As a sole proprietorship, Sourceduty is on the cusp of transforming into a larger business, poised to scale while maintaining its creative identity. With Alex’s boundless tenacity at the helm, the company is not only set to endure but to lead in shaping the future of digital creativity and open-source collaboration for years to come.
 
+Sourceduty supports open research and open development by leveraging GitHub repositories as hubs for collaboration and innovation. These repositories serve as transparent and accessible spaces where contributors can share ideas, refine solutions, and build upon each other’s work. Open research within GitHub ensures that methodologies, findings, and tools are not only documented but also openly available, enabling others to replicate, validate, or expand upon them. This approach fosters a culture of inclusivity and accountability, as every contribution is visible and attributed, reinforcing trust and encouraging participation from a diverse global community.
+
+Contribute to Sourceduty repos using [this](https://github.com/user-attachments/files/17784680/collaboration.txt) guide.
+
 ***
 ✨ Thanks for using these exclusive and evolving repos!
 ***
