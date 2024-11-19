@@ -6,6 +6,10 @@
   <h3 align="center"><strong>Sourceduty Main Repository</strong></h3>
 
   <p align="center">
+  Invention, scientific theory, AI, programming, concept design, engineering and open-source innovation.
+  </p>
+
+  <p align="center">
    Sourceduty offers <a href="https://github.com/sourceduty/Sourceduty_Services">services</a> and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
   </p>
 </div>
