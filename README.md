@@ -3,7 +3,7 @@
     <img src="https://github.com/sourceduty/sourceduty/assets/123030236/7c2417a1-561b-4046-8103-e99da48dcb33" alt="Sourceduty" width="200" height="200">
   </a>
 
-  <h3 align="center"><strong>Sourceduty Main Repository</strong></h3>
+  <h3 align="center"><strong>Sourceduty Main Repo</strong></h3>
 
   <p align="center">
   Invention, scientific theory, AI, programming, concept design, engineering and open-source innovation.
