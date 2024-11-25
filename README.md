@@ -18,7 +18,7 @@
 
 <div align="center">
 	
-| Sourceduty currently has `1` main repo with `994` total public repos.|
+| Sourceduty currently has `1` main repo with `995` total public repos.|
 |-|
 	
 </div>
