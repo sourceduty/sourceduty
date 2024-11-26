@@ -48,4 +48,6 @@ Contribute to Sourceduty repos using [this](https://github.com/user-attachments/
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sourceduty&theme=dark&card_width=1000)
 
 #
+![Active Development](https://github.com/user-attachments/assets/1d411a8d-6678-450d-8f8a-ce5438aba25a)
+#
 ![Badges](https://github.com/sourceduty/sourceduty/assets/123030236/f65f6673-6020-4d10-9595-63562bbd521a)
