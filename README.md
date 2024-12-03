@@ -29,13 +29,17 @@ Sourceduty is a dynamic digital creative company founded by Alex Aldridge in lat
 
 Since its inception, Sourceduty has steadily grown, with an impressive portfolio that includes over [200 3D model assets](https://cults3d.com/en/users/sourceduty/3d-models) and more than [800 GPT-powered assets](https://github.com/sourceduty/ChatGPT). These numbers continue to grow as Alex persistently drives innovation and expands the company’s capabilities, envisioning a long-term trajectory into the deep future of the internet. Over the next decade, Sourceduty plans to evolve into a major player in the digital creative landscape, leveraging its strong foundation in open-source collaboration and digital asset creation. 
 
-The name "Sourceduty" reflects the company's core values, derived from the combination of "source code" and "duties"—a fitting representation of its mission to create and share valuable digital assets. The brand was quickly established across multiple platforms, and the acquisition of the sought-after .com domain cemented its digital footprint.
-
 As a sole proprietorship, Sourceduty is on the cusp of transforming into a larger business, poised to scale while maintaining its creative identity. With Alex’s boundless tenacity at the helm, the company is not only set to endure but to lead in shaping the future of digital creativity and open-source collaboration for years to come.
 
 Sourceduty supports open research and open development by leveraging GitHub repositories as hubs for collaboration and innovation. These repositories serve as transparent and accessible spaces where contributors can share ideas, refine solutions, and build upon each other’s work. Open research within GitHub ensures that methodologies, findings, and tools are not only documented but also openly available, enabling others to replicate, validate, or expand upon them. This approach fosters a culture of inclusivity and accountability, as every contribution is visible and attributed, reinforcing trust and encouraging participation from a diverse global community.
 
 Contribute to Sourceduty repos using [this](https://github.com/user-attachments/files/17784680/collaboration.txt) guide. Control your privacy using an [offline GPT](https://github.com/sourceduty/Local_Offline_AI).
+
+#
+
+The name "Sourceduty" reflects the company's core values, derived from the combination of "source code" and "duties"—a fitting representation of its mission to create and share valuable digital assets. The brand was quickly established across multiple platforms, and the acquisition of the sought-after .com domain cemented its digital footprint.
+
+Alex utilizes the same terminology in different contexts using different synonyms. Examples like code/script, hack/mod, using/utilizing, building/developing and network/grid. Words often used by Alex are: hierarchy, abstraction, process, acronym, topology.
 
 ***
 ✨ Thanks for using these exclusive and evolving repos!
