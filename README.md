@@ -6,7 +6,7 @@
   <h3 align="center"><strong>Sourceduty Main Repo</strong></h3>
 
   <p align="center">
-  Invention, scientific theory, AI, programming, concept design, engineering and open-source innovation.
+  Invention, science, theory, AI, programming, concept design, engineering and open-source innovation.
   </p>
 
   <p align="center">
