@@ -37,9 +37,7 @@ Push to Sourceduty repos using [this](https://github.com/user-attachments/files/
 
 #
 
-The name "Sourceduty" reflects the company's core values, derived from the combination of "source code" and "duties"—a fitting representation of its mission to create and share valuable digital assets. The brand was quickly established across multiple platforms, and the acquisition of the sought-after .com domain cemented its digital footprint.
-
-Alex utilizes the same terminology in different contexts using different synonyms. Examples like code/script, hack/mod, using/utilizing, building/developing and network/grid. Words often used by Alex are: hierarchy, concept, framework, abstraction, process, acronym, topology.
+The name "Sourceduty" was inspired by source codes and duties or tasks. This name was chosen and then quickly acquired in 2022 when it was found the be consistently available across multiple websites. The .com domain for this name was also available and acquired at the same time. Alex utilizes the same terminology in different contexts using different synonyms. Examples like code/script, hack/mod, using/utilizing, building/developing and network/grid. Words often used by Alex are: hierarchy, concept, framework, abstraction, process, acronym, topology.
 
 ***
 ✨ Thanks for using these exclusive and evolving repos!
