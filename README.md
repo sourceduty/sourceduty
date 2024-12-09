@@ -33,7 +33,7 @@ These numbers continue to grow as Alex persistently drives innovation and expand
 
 Sourceduty supports open research and open development by leveraging GitHub repositories as hubs for collaboration and innovation. These repositories serve as transparent and accessible spaces where contributors can share ideas, refine solutions, and build upon each other’s work. Open research within GitHub ensures that methodologies, findings, and tools are not only documented but also openly available, enabling others to replicate, validate, or expand upon them. This approach fosters a culture of inclusivity and accountability, as every contribution is visible and attributed, reinforcing trust and encouraging participation from a diverse global community.
 
-Contribute to Sourceduty repos using [this](https://github.com/user-attachments/files/17784680/collaboration.txt) guide. Control your privacy using an [offline GPT](https://github.com/sourceduty/Local_Offline_AI).
+Push to Sourceduty repos using [this](https://github.com/user-attachments/files/17784680/collaboration.txt) guide. Control your privacy using an [offline GPT](https://github.com/sourceduty/Local_Offline_AI).
 
 #
 
