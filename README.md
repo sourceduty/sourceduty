@@ -39,7 +39,7 @@ Push to Sourceduty repos using [this](https://github.com/user-attachments/files/
 
 The name "Sourceduty" was inspired by source codes and duties or tasks. There is more source work than obligation to a duty. This name was chosen and then quickly acquired in 2022 when it was found the be consistently available across multiple websites. The .com domain for this name was also available and acquired at the same time. 
 
-Alex utilizes the same terminology in different contexts using different synonyms. Examples like code/script, hack/mod, using/utilizing, building/developing and network/grid. Words often used by Alex are: hierarchy, concept, framework, abstraction, process, acronym, topology.
+Alex utilizes the same terminology at different abstraction levels and in different contexts with different synonyms. Examples like code/script, hack/mod, using/utilizing, building/developing and network/grid. Words often used by Alex are: hierarchy, concept, framework, abstraction, process, acronym, topology. Alex actively uses the highest levels of theoretical terminology in theoretical computer science.
 
 ***
 ✨ Thanks for using these exclusive and evolving repos!
