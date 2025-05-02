@@ -1,1 +1,4 @@
 ![Sourceduty](https://github.com/user-attachments/assets/08a2e6fb-5f02-48d4-af93-9a67ae6bcce4)
+#
+Sourceduty is a dynamic digital creative company founded by Alex Aldridge in late 2022, based in Canada but with a vision that extends globally. As a self-taught designer, inventor, and software developer, Alex brings a unique blend of talents to the company, which specializes in sharing open-source codes, computer science, concept ideas, and creative inspiration. This work is unconcentrated and unspecialized for 5 years as this business is being established for the Earth and outer space.
+#
