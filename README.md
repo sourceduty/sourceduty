@@ -1,4 +1,4 @@
-![Red Astronaut](https://github.com/user-attachments/assets/92f9dc62-4f97-4b95-b2da-9f0d4f284b09)
+![Red Astronaut](https://github.com/user-attachments/assets/784b0d08-2275-434a-8907-2ce6f068acde)
 
 #
 
