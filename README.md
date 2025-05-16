@@ -6,5 +6,4 @@ Sourceduty is a dynamic digital creative company founded by Alex Aldridge in lat
 
 #
 
-![Sourceduty Future Timeline](https://github.com/user-attachments/assets/cfa373a7-6d2b-4e05-bf8f-be230f22b4ea)
 ![Sourceduty](https://github.com/user-attachments/assets/5d06ff32-2032-47ec-ad6e-237611b66614)
