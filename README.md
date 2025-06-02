@@ -1,4 +1,4 @@
-![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
+![Sourceduty Alex](https://github.com/user-attachments/assets/0cf52d6d-2fcc-46b8-b234-7c1180903241)
 
 <br>
 
@@ -8,4 +8,4 @@ Sourceduty is a dynamic digital creative company founded by [Alex Aldridge](http
 
 <br>
 
-![Sourceduty](https://github.com/user-attachments/assets/d0706da1-f089-4915-b3c0-6ada2c76c73f)
+![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
