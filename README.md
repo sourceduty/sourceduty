@@ -1,4 +1,4 @@
-![Alex_Aldridge_Old](https://github.com/user-attachments/assets/7a7b6164-4390-42f8-8f9b-4bcf18841a6e)
+![Summer Beach Snowman](https://github.com/user-attachments/assets/3bf44b55-b058-484c-996a-7b6aee15f9b1)
 
 <br>
 
