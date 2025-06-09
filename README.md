@@ -1,4 +1,4 @@
-![Desert Beach Mirage](https://github.com/user-attachments/assets/34ac9e8a-f03e-4921-878c-892732a9975d)
+![Hollow Log Bridge](https://github.com/user-attachments/assets/a5c7fc23-c821-4dc3-ac5f-8770d287232e)
 
 <br>
 
