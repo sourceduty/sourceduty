@@ -1,4 +1,4 @@
-![Alex in 2000](https://github.com/user-attachments/assets/6d3c5890-5169-4b41-998d-3f3504bcd6ad)
+![Desert Beach Mirage](https://github.com/user-attachments/assets/34ac9e8a-f03e-4921-878c-892732a9975d)
 
 <br>
 
