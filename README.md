@@ -1,4 +1,4 @@
-![Summer Beach Snowman](https://github.com/user-attachments/assets/3bf44b55-b058-484c-996a-7b6aee15f9b1)
+![Alex in 2000](https://github.com/user-attachments/assets/6d3c5890-5169-4b41-998d-3f3504bcd6ad)
 
 <br>
 
