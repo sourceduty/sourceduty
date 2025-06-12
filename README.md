@@ -1,4 +1,4 @@
-![Gold Laptop](https://github.com/user-attachments/assets/867ef37b-cd0a-4db4-88a5-20dbe0d5a735)
+![Alex](https://github.com/user-attachments/assets/0dd460de-ad7a-4083-a188-b89a0c3c2d33)
 
 <br>
 
