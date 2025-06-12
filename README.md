@@ -1,4 +1,4 @@
-![Hollow Log Bridge](https://github.com/user-attachments/assets/a5c7fc23-c821-4dc3-ac5f-8770d287232e)
+![Gold Laptop](https://github.com/user-attachments/assets/867ef37b-cd0a-4db4-88a5-20dbe0d5a735)
 
 <br>
 
