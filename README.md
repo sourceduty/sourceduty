@@ -1,4 +1,4 @@
-![Alex](https://github.com/user-attachments/assets/0dd460de-ad7a-4083-a188-b89a0c3c2d33)
+![Alex](https://github.com/user-attachments/assets/c5a68a67-abf6-4e52-9c5b-3ab21e13cf68)
 
 <br>
 
