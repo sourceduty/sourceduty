@@ -8,6 +8,8 @@ Sourceduty is a dynamic digital creative company founded by [Alex Aldridge](http
 
 Alex: _I understand how past and modern theorists think. Almost every science field was researched by me for Sourceduty, and I also created new sciences in order to help solve science as much as possible. Custom GPTs continue to be developed for science and theoretical research. Download the current list of Sourceduty [custom GPTs](https://github.com/sourceduty/Custom_GPTs)._
 
+<br>
+
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
 
 <br>
