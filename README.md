@@ -10,8 +10,8 @@ Alex: _I understand how past and modern theorists think. Almost every science fi
 
 #
 
-[Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee) is the default custom GPT for Sourceduty. This chatbot significantly enhances productivity by automating routine tasks such as content creation, basic coding, file management, and community engagement. Also, this chatbot serves as a reliable, innovative assistant that keeps workflows efficient and aligned with the company’s vision for growth and excellence.
+![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
 
 <br>
 
-![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
+[Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee) is the default custom GPT for Sourceduty. This chatbot significantly enhances productivity by automating routine tasks such as content creation, basic coding, file management, and community engagement. Also, this chatbot serves as a reliable, innovative assistant that keeps workflows efficient and aligned with the company’s vision for growth and excellence.
