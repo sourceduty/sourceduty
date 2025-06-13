@@ -1,4 +1,4 @@
-![Alex](https://github.com/user-attachments/assets/c5a68a67-abf6-4e52-9c5b-3ab21e13cf68)
+![Nasty Green Farm Truck](https://github.com/user-attachments/assets/b080cef2-4d24-4431-9016-f3bdd22f8c80)
 
 <br>
 
