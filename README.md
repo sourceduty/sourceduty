@@ -4,7 +4,7 @@
 
 Sourceduty is a dynamic digital creative company founded by [Alex Aldridge](https://chatgpt.com/g/g-mdnYSJr20-alex-aldridge) in late 2022, based in Canada but with a vision that extends globally. As a self-taught designer, inventor, and software developer, Alex brings his unique blend of talents to the company, which specializes in sharing open-source codes, computer science, concept ideas, and creative inspiration.
 
-> Alex: I understand how past and modern theorists think. Almost every science field was researched by me for Sourceduty, and I also created new sciences in order to help solve science as much as possible. Custom GPTs continue to be developed for science and theoretical research. Download the current list of Sourceduty [custom GPTs](https://github.com/sourceduty/Custom_GPTs).
+*** Alex: I understand how past and modern theorists think. Almost every science field was researched by me for Sourceduty, and I also created new sciences in order to help solve science as much as possible. Custom GPTs continue to be developed for science and theoretical research. Download the current list of Sourceduty [custom GPTs](https://github.com/sourceduty/Custom_GPTs). ***
 
 #
 
