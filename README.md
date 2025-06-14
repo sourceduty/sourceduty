@@ -1,4 +1,4 @@
-![Modern Black Marble Luxury Sofa](https://github.com/user-attachments/assets/82e55730-935e-44ad-8dff-6a47dfc4c207)
+![Asteroid Aliens](https://github.com/user-attachments/assets/5eb52172-83d1-4f41-949a-d36ca5f6bc07)
 
 <br>
 
