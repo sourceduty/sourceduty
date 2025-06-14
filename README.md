@@ -1,4 +1,4 @@
-![Modern Luxury Maglev Bed](https://github.com/user-attachments/assets/2af4270c-bc37-400e-a16b-bfc6bf51f3f1)
+![Modern Black Marble Luxury Sofa](https://github.com/user-attachments/assets/82e55730-935e-44ad-8dff-6a47dfc4c207)
 
 <br>
 
