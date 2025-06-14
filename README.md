@@ -1,4 +1,4 @@
-![Burning Clown Billboard](https://github.com/user-attachments/assets/b827f4cc-3902-4cf7-b015-f1360322c0e8)
+![Modular Modern Sphere Home](https://github.com/user-attachments/assets/7ea1ffec-18bd-402f-8f83-dd73eec9ea1f)
 
 <br>
 
