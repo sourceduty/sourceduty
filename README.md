@@ -1,4 +1,4 @@
-![1989 Chrome Riveted Panel Lowrider Suburban](https://github.com/user-attachments/assets/c2ef7a79-d66c-41f6-8c87-6e33d07d145f)
+![Modern Luxury Maglev Bed](https://github.com/user-attachments/assets/2af4270c-bc37-400e-a16b-bfc6bf51f3f1)
 
 <br>
 
