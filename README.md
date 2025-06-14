@@ -1,4 +1,4 @@
-![Modular Modern Sphere Home](https://github.com/user-attachments/assets/01c1ea19-63b0-44bb-9247-eb53cba01e4f)
+![Modular Modern Sphere Home](https://github.com/user-attachments/assets/139604df-cc6b-4b36-8eb5-a3925f59f7af)
 
 <br>
 
