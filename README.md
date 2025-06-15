@@ -1,4 +1,4 @@
-![GPT Store Limit](https://github.com/user-attachments/assets/584c59ea-279f-46b3-958c-f2562f22395a)
+![Cliffside Chrome Tube Lookout](https://github.com/user-attachments/assets/fad3adba-405b-42a7-a979-b282c5dd0d58)
 
 <br>
 
