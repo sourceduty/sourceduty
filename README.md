@@ -1,4 +1,4 @@
-![Cliffside Chrome Tube Lookout](https://github.com/user-attachments/assets/fad3adba-405b-42a7-a979-b282c5dd0d58)
+![Wide-a-Wake](https://github.com/user-attachments/assets/6d4f31ad-3b8e-400e-93ef-79ff22b58513)
 
 <br>
 
