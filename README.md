@@ -8,6 +8,10 @@ Sourceduty is a dynamic digital creative company founded by [Alex Aldridge](http
 
 Alex: _I understand how past and modern theorists think. Almost every science field was researched by me for Sourceduty, and I also created new sciences in order to help solve science as much as possible. Custom GPTs continue to be developed for science and theoretical research. Download the current list of Sourceduty [custom GPTs](https://github.com/sourceduty/Custom_GPTs)._
 
+#
+
+Sourceduty recommends and uses the google/gemma-2-2b-GGUF model, a compact yet powerful open-weight large language model from Google. Alex currently relies solely on CPU processing for running models like Gemma 2B, despite his strong interest in leveraging GPU acceleration for faster inference. 
+
 <br>
 
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
