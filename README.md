@@ -10,7 +10,7 @@ Alex: _I understand how past and modern theorists think. Almost every science fi
 
 #
 
-Sourceduty recommends and uses the google/gemma-2-2b-GGUF model, a compact yet powerful open-weight large language model from Google. Alex currently relies solely on CPU processing for running models like Gemma 2B, despite his strong interest in leveraging GPU acceleration for faster inference. 
+Sourceduty recommends and uses the google/gemma-2-2b-GGUF [offline GPT](https://github.com/sourceduty/Local_Offline) model, a compact yet powerful open-weight large language model from Google. Alex currently relies solely on CPU processing for running models like Gemma 2B, despite his strong interest in leveraging GPU acceleration for faster inference. 
 
 <br>
 
