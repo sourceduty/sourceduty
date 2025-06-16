@@ -14,10 +14,10 @@ Download the current list of Sourceduty [custom GPTs](https://github.com/sourced
 
 Sourceduty recommends and uses the google/gemma-2-2b-GGUF [offline GPT](https://github.com/sourceduty/Local_Offline) model, a compact yet powerful open-weight large language model from Google. Alex currently relies solely on CPU processing for running models like Gemma 2B, despite his strong interest in leveraging GPU acceleration for faster inference. 
 
+#
+
+[Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee) is the default custom GPT for Sourceduty. This chatbot significantly enhances productivity by automating routine tasks such as content creation, basic coding, file management, and community engagement. Also, this chatbot serves as a reliable, innovative assistant that keeps workflows efficient and aligned with the company’s vision for growth and excellence.
+
 <br>
 
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
-
-<br>
-
-[Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee) is the default custom GPT for Sourceduty. This chatbot significantly enhances productivity by automating routine tasks such as content creation, basic coding, file management, and community engagement. Also, this chatbot serves as a reliable, innovative assistant that keeps workflows efficient and aligned with the company’s vision for growth and excellence.
