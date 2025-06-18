@@ -1,4 +1,4 @@
-![Sourceduty Insider](https://github.com/user-attachments/assets/6fb9dccd-38c6-40ad-98d5-c61d8bfc3098)
+![Sourceduty Foghorn](https://github.com/user-attachments/assets/03efd083-61dd-4924-ba27-ccf6cfa5bbfb)
 
 <br>
 
