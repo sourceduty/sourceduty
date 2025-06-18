@@ -1,4 +1,4 @@
-![Projected Maximum Knowledge](https://github.com/user-attachments/assets/3d3c8522-545b-47f3-8e98-3de5f135db5a)
+![Endworld](https://github.com/user-attachments/assets/13fddb37-64a7-484d-a32b-bd07041dfb16)
 
 <br>
 
