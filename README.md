@@ -1,4 +1,4 @@
-![Sourceduty Foghorn](https://github.com/user-attachments/assets/03efd083-61dd-4924-ba27-ccf6cfa5bbfb)
+![Projected Maximum Knowledge](https://github.com/user-attachments/assets/3d3c8522-545b-47f3-8e98-3de5f135db5a)
 
 <br>
 
