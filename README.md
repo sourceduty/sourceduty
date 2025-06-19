@@ -1,4 +1,4 @@
-![3000 Custom GPTs](https://github.com/user-attachments/assets/e012a77f-40a4-484e-9170-ad4818b4a634)
+![SpaceX](https://github.com/user-attachments/assets/483ff159-160c-4f46-876e-2dc2ddf01dd0)
 
 <br>
 
