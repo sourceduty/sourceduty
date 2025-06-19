@@ -1,4 +1,4 @@
-![Cave Yacht](https://github.com/user-attachments/assets/ffa95f87-cff1-4002-b816-bac96d3de213)
+![3000 Custom GPTs](https://github.com/user-attachments/assets/e012a77f-40a4-484e-9170-ad4818b4a634)
 
 <br>
 
