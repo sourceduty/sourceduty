@@ -1,4 +1,4 @@
-![Summer Snow Blower Truck](https://github.com/user-attachments/assets/dba7e4e8-b94f-4213-a81f-9e7be5f98c4f)
+![Oyster](https://github.com/user-attachments/assets/780f3b28-75ca-4e47-b7f9-db4324a68415)
 ![Well Rounded](https://github.com/user-attachments/assets/f97a4b84-25ff-4d5b-a733-c2995fc86c82)
 
 <br>
