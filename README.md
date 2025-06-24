@@ -1,5 +1,4 @@
 ![Underworld](https://github.com/user-attachments/assets/98d972d1-8c15-4762-9e1e-3bd90d8793a0)
-![Well Rounded](https://github.com/user-attachments/assets/f97a4b84-25ff-4d5b-a733-c2995fc86c82)
 
 <br>
 
@@ -22,3 +21,4 @@ Sourceduty recommends and uses the google/gemma-2-2b-GGUF [offline GPT](https://
 <br>
 
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
+![Well Rounded](https://github.com/user-attachments/assets/f97a4b84-25ff-4d5b-a733-c2995fc86c82)
