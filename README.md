@@ -1,4 +1,4 @@
-![Oyster](https://github.com/user-attachments/assets/780f3b28-75ca-4e47-b7f9-db4324a68415)
+![The Shidd](https://github.com/user-attachments/assets/6bd4e8a7-09f5-4169-bb3b-e4039b9ec8a4)
 ![Well Rounded](https://github.com/user-attachments/assets/f97a4b84-25ff-4d5b-a733-c2995fc86c82)
 
 <br>
