@@ -6,6 +6,10 @@ Sourceduty is a dynamic digital creative company founded by [Alex Aldridge](http
 
 #
 
+Alex has schizotypal personality disorder and has made made significant strides in managing this disorder, transforming what was once a major challenge into a more manageable part of his life. Through dedicated self-study, disciplined routines, and a deep commitment to understanding his condition, he now exercises much greater control over its effects. His journey reflects not only resilience but also a proactive approach to mental health, allowing him to function effectively in daily life and focus on his personal and academic growth. While the traits of the disorder may still be present, they no longer define his capabilities or limit his ambitions.
+
+#
+
 👋 Alex: _I understand how past and modern theorists think. Almost every science field was researched by me for Sourceduty, and I also created new sciences in order to help solve science as much as possible. Custom GPTs continue to be developed for science and theoretical research._ 
 
 Download the current list of Sourceduty [custom GPTs](https://github.com/sourceduty/Custom_GPTs).
