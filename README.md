@@ -1,4 +1,4 @@
-![Underworld](https://github.com/user-attachments/assets/5c562b06-6662-416f-983f-a08310d58802)
+![Sourceduty Modular Touchpad Mouse Concept](https://github.com/user-attachments/assets/cd3339a5-433c-4f57-890d-e364dbad645b)
 
 <br>
 
