@@ -1,3 +1,4 @@
+![Morning Cheer](https://github.com/user-attachments/assets/e77539d5-b3c9-408b-bb80-e4612d4028b7)
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
 
 <br>
