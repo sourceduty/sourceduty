@@ -1,4 +1,4 @@
-![Sourceduty](https://github.com/user-attachments/assets/6522b1c5-f3d9-435f-b5bf-5c1e63b0b9a3)
+![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
 
 <br>
 
@@ -20,5 +20,4 @@ Sourceduty recommends and uses the google/gemma-2-2b-GGUF [offline GPT](https://
 
 <br>
 
-![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
