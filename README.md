@@ -16,7 +16,7 @@ Sourceduty recommends and uses the google/gemma-2-2b-GGUF [offline GPT](https://
 
 #
 
-[Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee) is the default custom GPT for Sourceduty. This chatbot significantly enhances productivity by automating routine tasks such as content creation, basic coding, file management, and community engagement. Also, this chatbot serves as a reliable, innovative assistant that keeps workflows efficient and aligned with the company’s vision for growth and excellence.
+[Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee) is the default custom GPT for Sourceduty. This chatbot significantly enhances productivity by automating routine tasks such as content creation, basic coding, file management, and community engagement. Also, this chatbot serves as a reliable, innovative assistant that keeps workflows efficient and aligned with the company’s vision for growth and excellence. Also, [Sourceduty Git (Lite)](https://chatgpt.com/g/g-685ea0567bec81919869652a93749e84-sourceduty-git-lite) is a custom GPT created as an example to allow read-only access to public GitHub data without authentication. This 'lite' custom GPT allows users to retrieve simplified public information from GitHub for Sourceduty.
 
 <br>
 
