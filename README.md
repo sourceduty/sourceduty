@@ -1,4 +1,4 @@
-![Sourceduty Modular Touchpad Mouse Concept](https://github.com/user-attachments/assets/cd3339a5-433c-4f57-890d-e364dbad645b)
+![Sourceduty](https://github.com/user-attachments/assets/142a11eb-5626-4402-b651-819cbc441b3f)
 
 <br>
 
