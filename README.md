@@ -1,4 +1,4 @@
-![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
+![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
 
@@ -22,4 +22,4 @@ Also, [Sourceduty Git (Lite)](https://chatgpt.com/g/g-685ea0567bec81919869652a93
 
 <br>
 
-![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
+![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
