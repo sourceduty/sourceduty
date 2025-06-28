@@ -1,3 +1,4 @@
+![Gullwing Doors Truck Concept](https://github.com/user-attachments/assets/786b5b6a-ad7d-4a25-9533-9646522d7bd9)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
