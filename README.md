@@ -1,3 +1,4 @@
+![Scooter Toot](https://github.com/user-attachments/assets/729ef57a-acf3-4a41-9ada-8375166247c3)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
