@@ -1,3 +1,4 @@
+![Balance](https://github.com/user-attachments/assets/4214acbb-c065-40cf-a4d9-f61014b86c39)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
