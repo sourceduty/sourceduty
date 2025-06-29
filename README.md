@@ -1,4 +1,3 @@
-![Publicized Meme](https://github.com/user-attachments/assets/1478e9aa-0a94-4c09-9afd-224ccd3244f1)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
