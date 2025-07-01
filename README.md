@@ -1,4 +1,3 @@
-![Alien Marshmallow Computer Fire](https://github.com/user-attachments/assets/8ad0be7a-ad0c-4e20-8e43-e9eb4530b6ca)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
