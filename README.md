@@ -1,4 +1,4 @@
-![Sourceduty GPT Guide](https://github.com/user-attachments/assets/63f6d959-a9e0-4509-bc67-a8b18e413e74)
+![Megamachines](https://github.com/user-attachments/assets/6a4bb063-a930-4189-9278-15a1531b3335)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
