@@ -1,4 +1,4 @@
-![Monster Truck Airdrop](https://github.com/user-attachments/assets/ce81380c-f582-4671-a614-0bfaf98ddbb2)
+![Artificial Dragon](https://github.com/user-attachments/assets/84fa315e-3c73-4d31-b0b3-0d9a8e119a6c)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
