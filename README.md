@@ -1,4 +1,4 @@
-![Hardcore Gamer Workout Bench](https://github.com/user-attachments/assets/9af2d394-2e2b-413d-bb35-b5ea42be8f0c)
+![Hardcore Gamer Workout Bench](https://github.com/user-attachments/assets/971ea068-922c-48c5-8424-7acfc7a76f1e)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
