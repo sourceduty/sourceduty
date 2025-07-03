@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/a54d70d5-9a79-4b57-bf1c-640566e5e055)
+![Monster Truck Airdrop](https://github.com/user-attachments/assets/ce81380c-f582-4671-a614-0bfaf98ddbb2)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
