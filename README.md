@@ -1,4 +1,4 @@
-![Fish PC Case](https://github.com/user-attachments/assets/363bcd94-d93b-4fbe-b32c-eebcc24422e2)
+![Walking Away Meme](https://github.com/user-attachments/assets/34e10bb2-8957-47ba-a191-afff8430ea25)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
