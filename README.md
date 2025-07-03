@@ -1,4 +1,4 @@
-![1930s Skateboarder](https://github.com/user-attachments/assets/b1ed03f6-16da-4173-955c-d7330e5297a8)
+![Hardcore Gamer Workout Bench](https://github.com/user-attachments/assets/9af2d394-2e2b-413d-bb35-b5ea42be8f0c)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
