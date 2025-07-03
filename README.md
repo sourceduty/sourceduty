@@ -1,4 +1,4 @@
-![Walking Away Meme](https://github.com/user-attachments/assets/34e10bb2-8957-47ba-a191-afff8430ea25)
+![Banner](https://github.com/user-attachments/assets/a54d70d5-9a79-4b57-bf1c-640566e5e055)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
