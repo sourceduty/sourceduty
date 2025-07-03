@@ -1,4 +1,4 @@
-![Hardcore Gamer Workout Bench](https://github.com/user-attachments/assets/971ea068-922c-48c5-8424-7acfc7a76f1e)
+![Fish PC Case](https://github.com/user-attachments/assets/363bcd94-d93b-4fbe-b32c-eebcc24422e2)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
