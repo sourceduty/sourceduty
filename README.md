@@ -1,4 +1,4 @@
-![Groundbreaking](https://github.com/user-attachments/assets/890afbd9-07b1-4af8-bb76-a7432c46c507)
+![Groundbreaking](https://github.com/user-attachments/assets/fd97a905-c85b-4e24-9f55-a0ad452e9f13)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
