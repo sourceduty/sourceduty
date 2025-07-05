@@ -1,4 +1,4 @@
-![Password_Hack](https://github.com/user-attachments/assets/4cce7638-9203-418a-a687-c14dcd64eca7)
+![Groundbreaking](https://github.com/user-attachments/assets/890afbd9-07b1-4af8-bb76-a7432c46c507)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
