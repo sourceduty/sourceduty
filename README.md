@@ -1,4 +1,4 @@
-![Wheels](https://github.com/user-attachments/assets/94180fb6-6fef-4310-9bcd-ebaf7ed75d6d)
+![World](https://github.com/user-attachments/assets/a5131097-ac63-4af6-85d4-15d5f9f74b2e)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
