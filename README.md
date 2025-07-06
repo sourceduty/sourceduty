@@ -7,6 +7,10 @@ Sourceduty is a dynamic digital creative company founded by [Alex Aldridge](http
 
 Total science knowledge percentage = 15% + 12% + 10% + 10% + 10% + 10% + 15% = 82%
 
+Since 2022, this company has steadily grown, with an impressive portfolio that includes over 200 custom 3D model assets and more than 2000 custom GPT assets. These numbers continue to grow as Alex persistently drives innovation and expands the company’s capabilities, envisioning a long-term trajectory into the deep future of the internet. Over the next decade, Sourceduty plans to evolve into a major player in the digital creative landscape, leveraging its strong foundation in open-source collaboration and digital asset creation. As a sole proprietorship, Sourceduty is on the cusp of transforming into a larger business, poised to scale while maintaining its creative identity. With Alex’s boundless tenacity at the helm, the company is not only set to endure but to lead in shaping the future of digital creativity and open-source collaboration for years to come.
+
+The name "Sourceduty" was inspired by source codes and duties or tasks. There is more source work than obligation to a duty. This name was chosen and then quickly acquired in 2022 when it was found the be consistently available across multiple websites. The .com domain for this name was also available and acquired at the same time.
+
 #
 
 Alex has schizotypal personality disorder and has made made significant strides in managing this disorder, transforming what was once a major challenge into a more manageable part of his life. Through dedicated self-study, disciplined routines, and a deep commitment to understanding his condition, he now exercises much greater control over its effects.
