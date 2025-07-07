@@ -1,4 +1,3 @@
-![Leaked Tech iPhone 4](https://github.com/user-attachments/assets/aef9f49e-be6f-467d-9ac7-132f3c1b4498)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
