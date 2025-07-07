@@ -1,4 +1,4 @@
-![Old Truck Sandbox](https://github.com/user-attachments/assets/06840bd0-ee1e-4d3b-88b0-561862e5e191)
+![Lambo Jump](https://github.com/user-attachments/assets/708fb5f1-7a78-4045-96a5-380d14d2f894)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
