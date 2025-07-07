@@ -1,3 +1,4 @@
+![Waldo](https://github.com/user-attachments/assets/de8d64e4-d4bb-4b45-8299-bfe04afae08c)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
