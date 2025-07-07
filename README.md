@@ -1,4 +1,4 @@
-![World](https://github.com/user-attachments/assets/47d7564e-f195-44af-9daa-d0e4ef892c6e)
+![Alex](https://github.com/user-attachments/assets/53290ec4-feb3-4df5-b2f4-b8c59e6e30a6)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
