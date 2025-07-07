@@ -1,4 +1,4 @@
-[Watch the Phoenix video](https://youtu.be/WIEOYH_7AQY)
+[![Phoenix](https://img.youtube.com/vi/WIEOYH_7AQY/maxresdefault.jpg)](https://youtu.be/WIEOYH_7AQY)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
