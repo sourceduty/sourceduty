@@ -1,4 +1,3 @@
-![No Difference](https://github.com/user-attachments/assets/e335d76b-aa43-4d11-86af-b06e0a297132)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
