@@ -1,4 +1,4 @@
-![Lambo Jump](https://github.com/user-attachments/assets/708fb5f1-7a78-4045-96a5-380d14d2f894)
+![Futuristic 4x4 Off-Road EV Concept SUV](https://github.com/user-attachments/assets/774be34f-ddf7-45ec-97bc-e6302a8a5559)
 ![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
