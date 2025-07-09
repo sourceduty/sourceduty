@@ -1,5 +1,5 @@
+![ChatGPT](https://github.com/user-attachments/assets/aeaa48d4-3d7a-4e33-84d4-8953abfa0d6b)
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
-![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
 
 <br>
 
@@ -20,3 +20,7 @@ Alex has schizotypal personality disorder and has made made significant strides 
 #
 
 [Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee) is the default custom GPT for Sourceduty. This chatbot significantly enhances productivity by automating routine tasks such as content creation, basic coding, file management, and community engagement. Also, this chatbot serves as a reliable, innovative assistant that keeps workflows efficient and aligned with the company’s vision for growth and excellence. 
+
+#
+
+![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
