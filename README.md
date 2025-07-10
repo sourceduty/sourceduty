@@ -1,4 +1,4 @@
-![GPT Store](https://github.com/user-attachments/assets/491aba8a-97c5-4198-99c2-46117eb35786)
+![Terminal Source](https://github.com/user-attachments/assets/2e5fd92f-1ae3-442f-b07d-63b31d00302c)
 
 <br>
 
@@ -22,5 +22,5 @@ Alex has schizotypal personality disorder and has made made significant strides 
 
 #
 
-![Well Rounded](https://github.com/user-attachments/assets/34e59abe-dc26-4b79-a560-c7040dc72eab)
+![Knowledge](https://github.com/user-attachments/assets/13e55a68-6c9a-44ba-81d1-9d7eed4e023f)
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
