@@ -1,4 +1,4 @@
-![Snowy Arctic Military](https://github.com/user-attachments/assets/1af2419a-9957-4d4e-8c7d-7dc342e4feda)
+![Knowledge](https://github.com/user-attachments/assets/13e55a68-6c9a-44ba-81d1-9d7eed4e023f)
 
 <br>
 
@@ -22,5 +22,5 @@ Alex has schizotypal personality disorder and has made made significant strides 
 
 #
 
-![Knowledge](https://github.com/user-attachments/assets/13e55a68-6c9a-44ba-81d1-9d7eed4e023f)
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
+![After AI](https://github.com/user-attachments/assets/e2a1ee3a-73a5-4f73-a38e-5586d316a206)
