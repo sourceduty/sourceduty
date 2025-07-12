@@ -1,4 +1,4 @@
-![Groundbreaking](https://github.com/user-attachments/assets/7baa9876-1805-4d2b-a51b-b8cdf7400b78)
+![Welding Mask HUD Tech](https://github.com/user-attachments/assets/a7c37b16-2e7a-4f1d-986c-ed8549d1b9d4)
 
 <br>
 
