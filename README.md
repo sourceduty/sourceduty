@@ -24,5 +24,4 @@ Alex has schizotypal personality disorder and has made made significant strides 
 #
 
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
-![Nosejob](https://github.com/user-attachments/assets/73ed87b9-f7ad-43c2-8d90-8b33c56c77ef)
 ![Experimental](https://github.com/user-attachments/assets/bf4d35e5-1299-4a35-bd2d-61478c77e711)
