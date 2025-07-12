@@ -1,4 +1,4 @@
-![FTL Engine Crate](https://github.com/user-attachments/assets/a9f08993-7feb-4928-9c37-472f90bc33a1)
+![Sourceduty](https://github.com/user-attachments/assets/aeb45c3d-e8d4-494a-8128-d221c9eb3347)
 
 <br>
 
@@ -23,5 +23,3 @@ Alex has schizotypal personality disorder and has made made significant strides 
 #
 
 ![Sourceduty](https://github.com/user-attachments/assets/27bc94ce-726d-41ff-addf-153043e8614c)
-![After AI](https://github.com/user-attachments/assets/e2a1ee3a-73a5-4f73-a38e-5586d316a206)
-![Sourceduty](https://github.com/user-attachments/assets/aeb45c3d-e8d4-494a-8128-d221c9eb3347)
