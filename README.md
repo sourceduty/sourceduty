@@ -1,4 +1,4 @@
-![DRPS](https://github.com/user-attachments/assets/86c84c80-b23a-4a8d-b764-3254a2c3583e)
+![Naked Bomber](https://github.com/user-attachments/assets/39b225f7-818c-4366-b0c8-792070437abc)
 ![Sourceduty](https://github.com/user-attachments/assets/e5aec03d-8fe6-4f3a-a97d-af4c5fc003e1)
 
 <br>
