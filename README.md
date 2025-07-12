@@ -1,4 +1,4 @@
-![Welding Mask HUD Tech](https://github.com/user-attachments/assets/a7c37b16-2e7a-4f1d-986c-ed8549d1b9d4)
+![FTL Engine Crate](https://github.com/user-attachments/assets/a9f08993-7feb-4928-9c37-472f90bc33a1)
 
 <br>
 
